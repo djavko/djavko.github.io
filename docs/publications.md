@@ -3,7 +3,7 @@ layout: page
 title: Publications 
 permalink: /publications/
 ---
-1. Singh, M.; Dhote, P.; Johnson, D. R.; Figueroa-Lazú, S.; Elles, C. G.; Boskovic, Z. Photochemical Decarbonylation of Oxetanone and Azetidinone: Spectroscopy, Computational Models, and Synthetic Applications. Angewandte Chemie International Edition 2023, 62 (3), e202215856. https://doi.org/10.1002/anie.202215856.
+1. Singh, M.; Dhote, P.; Johnson, D. R.; Figueroa-Lazú, S.; Elles, C. G.; Boskovic, Z. Photochemical Decarbonylation of Oxetanone and Azetidinone: Spectroscopy, Computational Models, and Synthetic Applications. Angewandte Chemie International Edition 2023, 62 (3), e202215856. [https://doi.org/10.1002/anie.202215856](https://doi.org/10.1002/anie.202215856).
 2. Singh, M.; Gaskins, B.; Johnson, D. R.; Elles, C. G.; Boskovic, Z. Synthesis of Cycloheptatriene-Containing Azetidine Lactones. J. Org. Chem. 2022, 87 (22), 15001–15010. https://doi.org/10.1021/acs.joc.2c00367.
 3. Tang, Z.; Zhao, J.; Pearson, Z. J.; Boskovic, Z. V.; Wang, J. RNA-Targeting Splicing Modifiers: Drug Development and Screening Assays. Molecules 2021, 26 (8), 2263.
 4. Kolluru, S.; Singh, M.; Gaskins, B.; Boskovic, Z. Nickel-Catalyzed Annulations of Ortho-Haloarylimines. ACS Catalysis 2021, 11 (16), 10351–10361. https://doi.org/10.1021/acscatal.1c03092.
