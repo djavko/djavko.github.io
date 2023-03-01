@@ -3,7 +3,7 @@ layout: page
 title: Team members 
 permalink: /team/
 ---
-![sunflower|200][/assets/sunflowers.JPG]
+![sunflower|200][https://github.com/djavko/djavko.github.io/blob/main/docs/_assets/sunflowers.JPG]
 Current members:
 
 Manvendra Singh
