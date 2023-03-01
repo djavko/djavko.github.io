@@ -4,8 +4,3 @@
 
 layout: home
 ---
-Research
-
-Team
-
-Teaching
