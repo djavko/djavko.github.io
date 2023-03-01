@@ -21,7 +21,7 @@
 title: Zarko Boskovic's Homepage
 email: djavko@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
- Homepage of Prof. Zarko Boskovic, University of Kansas. This webpage contains ddetails about his research group and his teaching at the University of Kansas. 
+ Homepage of Prof. Zarko Boskovic, University of Kansas. This webpage contains details about his research group and his teaching at the University of Kansas. 
 domain: "djavko.github.io"
 # baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://djavko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,6 +32,8 @@ github_username: djavko
 theme: minima
 plugins:
   - jekyll-feed
+include:
+ - _assets
 
 # Exclude from processing.
 # The following items will not be processed, by default.
