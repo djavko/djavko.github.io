@@ -20,25 +20,8 @@ Team in the Summer 2020
 
 * Elizabeth Miller
 
-Former members:
-
-Nathan Garza
-
-Amar Kumar
-
-Sri Kolluru
-
-Matt McCurry
-
-Tanner Moore
-
-Vishva Shah
-
-Cybelle Arrey
-
-Koki Takemoto
-
-Pawan Dhote
+Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Cybelle Arrey
+, Koki Takemoto, Pawan Dhote
 
 
 
