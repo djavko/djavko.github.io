@@ -3,7 +3,6 @@ layout: page
 title: "Chemotherapy"
 permalink: https://djavko.github.io/Chemotherapy
 
-```
 Pioneered by **Paul Ehrlich** (who also worked on small molecule treatments for microbial infections). 
 ![Paul Erlich|100](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Paul_Ehrlich_1915.jpg/800px-Paul_Ehrlich_1915.jpg)
 Before chemotherapy [[Radiotherapy]] and surgery were main treatments.
