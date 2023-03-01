@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: About Zarko Boskovic
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+*Biography:* Undergraduate degree from the [University of Nis](https://www.ni.ac.rs/en/) research on mathematical chemistry with [Prof. Ivan Gutman](https://www.pmf.kg.ac.rs/gutman/) and [Prof. Gordana Stojanovic]() on isolation and analyses of secondary metabolites. PhD from [UCSB chemistry](chem.ucsb.edu) with [Bruce Lipshutz](https://lipshutz.chem.ucsb.edu/) on copper hydride initiated reactions. Postdoctoral work with [Stuart Schreiber] at the [Broad Institute](https://www.broadinstitute.org/schreiber-lab) working on delineating molecular mechanism of action of several screening hits, on design of new chemistry for diverse and complex small molecule collections. 
 
 
-[jekyll-organization]: https://github.com/jekyll
