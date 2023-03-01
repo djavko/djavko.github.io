@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team members 
+permalink: /team/
 ---
 ![sunflower|200](/_assets/sunflowers.JPG)
 Current members:
