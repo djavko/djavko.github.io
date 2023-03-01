@@ -3,20 +3,22 @@ layout: page
 title: Team members 
 permalink: /team/
 ---
+Team in the Summer 2020
+
 ![sunflower|200](/_assets/sunflowers.JPG)
-Current members:
+*Current members:*
 
-Manvendra Singh
+* Manvendra Singh
 
-Bryce Gaskins
+* Bryce Gaskins
 
-Victor Fadare
+* Victor Fadare
 
-Mauricio Bahena-Garcia
+* Mauricio Bahena-Garcia
 
-Alhamza Hamza
+* Alhamza Hamza
 
-Elizabeth Miller
+* Elizabeth Miller
 
 Former members:
 
