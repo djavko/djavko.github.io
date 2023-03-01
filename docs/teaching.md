@@ -10,7 +10,7 @@ At the University of Kansas, I teach Medicinal Biochemistry, MDCM601, which is a
 4. Enzymes and kinetics
 5. Enzyme inhibition
 
-I also co-teach graduate student courses for PhD and MSc students in the [Department of Medicinal Chemistry](medchem.ku.edu). My topics are:
+I also co-teach graduate student courses for PhD and MSc students in the [Department of Medicinal Chemistry](https://medchem.ku.edu). My topics are:
 1. Biophysical methods for discovery of bioactive compounds
 2. Data centric view of xenobiotic metabolism
 3. Cancer therapeutics
