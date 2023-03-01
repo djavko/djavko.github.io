@@ -11,7 +11,7 @@ Team in the Summer 2020
 |  Name            | Photo | Main project
 :-----------------:|:-----:|-----------------:
 Manvendra Singh | ![]() | New chemical space
-Bryce Gasking | ![Bryce|50](/_assets/bryce.JPG) | Photochemistry and metal catalysis
+Bryce Gasking | ![Bryce](/_assets/bryce.JPG) | Photochemistry and metal catalysis
 Victor Fadare | |
 Mauricio Bahena Garcia | |
 Alhamza Hamza | | Cell painting
