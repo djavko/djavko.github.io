@@ -10,7 +10,7 @@ Team in the Summer 2020
 
 * Manvendra Singh
 
-* Bryce Gaskins
+* Bryce Gaskins ![Bryce|50](/_assets/bryce.JPG)
 
 * Victor Fadare
 
