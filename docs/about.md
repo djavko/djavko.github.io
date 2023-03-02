@@ -4,7 +4,7 @@ title: About Zarko Boskovic
 permalink: /about/
 ---
 
-![zarko](/_assets/zarko.jpg){:width="50%"}
+![zarko](/_assets/zarko.jpg){:width="30%"}
 
 *Biography:* 
 
