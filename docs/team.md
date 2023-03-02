@@ -17,8 +17,7 @@ Mauricio Bahena Garcia | | Diastereoselective photochemical reactions
 Alhamza Hamza | | Cell painting data generation
 Elizabeth Miller | | Crystal engineering
 
-Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Cybelle Arrey
-, Koki Takemoto, Pawan Dhote
+Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Cybelle Arrey, Koki Takemoto, Pawan Dhote
 
 
 
