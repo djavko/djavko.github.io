@@ -1,3 +1,6 @@
 If you will be at the ACS National meeting in Indianapolis in late March, please stop by the New Reactions & Methodology session in Room 201 at the Indiana Convention Center. SESSION TIME: 8:00 AM - 11:40 AM
+<center>
 
-![ylides](/_assets/toc_graphic.png){:width="30%"}
+![ylides](/_assets/toc_graphic.png){:width="50%"}
+
+</center>
