@@ -2,7 +2,7 @@
 layout: page
 title: About Zarko Boskovic
 ---
-![zarko|100](/_assets/zarko.JPG)
+![zarko](/_assets/zarko.JPG)
 
 *Biography:* 
 
