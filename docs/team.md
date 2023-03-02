@@ -17,7 +17,7 @@ Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective 
 Alhamza Hamza | | Cell painting data generation
 Elizabeth Miller | | Crystal engineering
 
-Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Cybelle Arrey, Koki Takemoto, Pawan Dhote
+Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Ambrosee Wilkinson, Brock Fricke, Alyschia Gaffar, Cybelle Arrey, Koki Takemoto, Pawan Dhote
 
 
 
