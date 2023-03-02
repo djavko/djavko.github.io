@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Zarko Boskovic
+permalink: /about/
 ---
 ![zarko](/_assets/zarko.JPG)
 
