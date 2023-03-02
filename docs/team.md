@@ -12,8 +12,8 @@ Team in the Summer 2020
 :-----------------:|:-----:|-----------------:
 Manvendra Singh | ![Manvendra](/_assets/manvendra.JPG) | New chemical space
 Bryce Gaskins | ![Bryce](/_assets/bryce.JPG) | Photochemistry and metal catalysis
-Victor Fadare | | Chiral anion stereoinduction in photochemical reactions
-Mauricio Bahena Garcia | | Diastereoselective photochemical reactions
+Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
+Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
 Alhamza Hamza | | Cell painting data generation
 Elizabeth Miller | | Crystal engineering
 
