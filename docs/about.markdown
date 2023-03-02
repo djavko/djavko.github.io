@@ -2,9 +2,9 @@
 layout: page
 title: About Zarko Boskovic
 ---
-*Biography:* 
-
 ![zarko|100](/_assets/zarko.JPG)
+
+*Biography:* 
 
 Undergraduate degree from the [University of Nis](https://www.ni.ac.rs/en/) doing research on mathematical chemistry with [Ivan Gutman](https://www.pmf.kg.ac.rs/gutman/) and on isolation and analysis of secondary metabolites with [Gordana Stojanovic](http://tesla.pmf.ni.ac.rs/people/hemija/gocas/CVGocaS.htm).
 
