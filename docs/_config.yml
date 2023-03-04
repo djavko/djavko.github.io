@@ -19,8 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Zarko Boskovic's Homepage
-email: djavko@gmail.com
- zarko@ku.edu 
+email: djavko@gmail.com\\ zarko@ku.edu 
 description: >- # this means to ignore newlines until "baseurl:"
  Homepage of Prof. Zarko Boskovic, University of Kansas. This webpage contains details about his research group and his teaching at the University of Kansas. 
 domain: "djavko.github.io"
