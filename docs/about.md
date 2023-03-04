@@ -8,7 +8,7 @@ permalink: /about/
 
 *Biography:* 
 
-I got my undergraduate degree from the [University of Nis](https://www.ni.ac.rs/en/) doing research on mathematical chemistry with [Ivan Gutman](https://www.pmf.kg.ac.rs/gutman/) and on isolation and analysis of secondary metabolites with [Gordana Stojanovic](http://tesla.pmf.ni.ac.rs/people/hemija/gocas/CVGocaS.htm).
+I got my undergraduate degree from the [University of Nis](https://www.ni.ac.rs/en/), Serbia, doing research on mathematical chemistry with [Ivan Gutman](https://www.pmf.kg.ac.rs/gutman/) and on isolation and analysis of secondary metabolites with [Gordana Stojanovic](http://tesla.pmf.ni.ac.rs/people/hemija/gocas/CVGocaS.htm).
 
 For my PhD work I performed research at the [UCSB chemistry](https://chem.ucsb.edu) with [Bruce Lipshutz](https://lipshutz.chem.ucsb.edu/) working primarily on copper hydride initiated reactions, catalysis, and stereoselective synthetic organic methods. 
 
