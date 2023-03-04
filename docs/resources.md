@@ -7,5 +7,6 @@ These are some useful resources and links.
 
 From our lab:
 * [Boskovic group GitHub](https://github.com/boskovicgroup/)
-* Internal Boskovic Lab [Wiki](https://boskoviclab.ku.edu/wiki)
-
+* Internal Boskovic Lab [Wiki](https://boskoviclab.ku.edu/wiki) (requires log in)
+* Google Colab notebooks
+ 
