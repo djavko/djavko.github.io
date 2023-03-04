@@ -14,3 +14,8 @@ I also co-teach graduate student courses ([MDCM710](/courses/mdcm710), and [MDCM
 1. Biophysical methods for discovery of bioactive compounds
 2. Data centric view of xenobiotic metabolism
 3. Cancer therapeutics
+
+Informal study sessions:
+1. Syntheses
+2. Coding
+3. Linear algebra
