@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: page 
+exclude: true
 permalink: /courses/mdcm601/
 ---
 1. Structures of building blocks: amino acids, therapeutics
