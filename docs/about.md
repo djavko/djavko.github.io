@@ -15,3 +15,5 @@ For my PhD work I performed research at the [UCSB chemistry](https://chem.ucsb.e
 I continued  postdoctoral research with [Stuart Schreiber](https://www.broadinstitute.org/schreiber-lab) at the [Broad Institute](https://www.broadinstitute.org) working on delineating molecular mechanism of action of several screening hits, and on design of new chemistry for diverse and complex small molecule collections. 
 
 I joined the faculty of the Department of [Medicinal Chemistry](https://medchem.ku.edu) at the [University of Kansas](https://ku.edu) in 2018. 
+
+Click here for a recent [Curriculum vitae](/_assets/cv_simple.pdf) or for my [LinkedIn](https://www.linkedin.com/in/zarko-boskovic-33379b22/).
