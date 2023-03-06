@@ -2,7 +2,7 @@ Last year, I attended for the first time one of the Gordon Conferences. This yea
 
 This particular GRC is hosted at the scenic campus of the Salve Regina University on the Atlantic coast, near Newport, Rhode Island.  
 
-Please, join the industry and academic chemists broadly interested in aspects ofchemistry of heterocycles.
+Please, join the industry and academic chemists broadly interested in different aspects of chemistry of heterocycles (synthesis, natural or un-natural, catalysis, mechanisms, etc.).
 
 | ![grc-group-photo](/_assets/group_photo_grc.png)|
 |:--:|
