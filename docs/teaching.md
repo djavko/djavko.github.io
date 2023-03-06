@@ -15,7 +15,7 @@ I also co-teach graduate student courses ([MDCM710](/courses/mdcm710), and [MDCM
 2. Data centric view of xenobiotic metabolism
 3. Cancer therapeutics
 
-Informal study sessions:
-1. Syntheses
-2. Coding
-3. Linear algebra
+The team and I engage in informal study sessions on a weekly basis. Primarily we are focused on the following broad areas:
+1. Organic syntheses
+2. Coding in Python and MatLab
+3. Linear algebra applications in chemistry: linear models, reaction kinetics, solutions to differential equations, molecular graphs, eigenvectors, singular value decomposition, group theory.
