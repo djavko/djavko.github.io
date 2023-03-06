@@ -12,4 +12,9 @@ Goals of our research:
 ![nickel_isomerization](/_assets/isomerization.png){:width="100%"}
 
 
-3. Connect structures of newly-made molecules to their biological effects in complex living systems
+3. Connect structures of newly-made molecules to their biological effects in complex living systems. We use [cell painting](https://jump-cellpainting.broadinstitute.org/) to sift through the compounds we synthesized. We found a few potentially bioactive compounds from compound collections of moderate size, populated by molecules from previously unsampled chemical space. These initial discoveries form the foundations for further studies into the detailed mechanism of action of these compounds.
+
+| Structure | Name |
+| :---: | :---: |
+| ![xk6719](/_assets/xk6719.png){:width="50%"} | XK6719 | 
+| ![xk1387](/_assets/xk1387.png){:width="50%"} | XK1387 |
