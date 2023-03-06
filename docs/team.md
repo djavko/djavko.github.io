@@ -3,8 +3,10 @@ layout: page
 title: Team members 
 permalink: /team/
 ---
-Snapshot of the team in the Summer 2020 in the field of sunflowers:
-![sunflower|150](/_assets/sunflowers.JPG)
+|![sunflower|150](/_assets/sunflowers.JPG)|
+|:--:|
+|Snapshot of the team in the Summer 2020 in the field of sunflowers|
+
 
 *Current members:*
 
