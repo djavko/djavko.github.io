@@ -12,7 +12,7 @@ permalink: /team/
 
 |  Name            | Photo | Main project
 :-----------------:|:-----:|-----------------:
-Manvendra Singh | ![Manvendra](/_assets/manvendra.JPG) | New chemical space
+[Manvendra Singh](https://www.linkedin.com/in/manvendra-singh-93538155/?originalSubdomain=in) | ![Manvendra](/_assets/manvendra.JPG) | New chemical space
 Bryce Gaskins | ![Bryce](/_assets/bryce.JPG) | Photochemistry and metal catalysis
 Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
