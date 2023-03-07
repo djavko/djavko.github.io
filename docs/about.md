@@ -12,7 +12,7 @@ I got my undergraduate degree from the [University of Nis](https://www.ni.ac.rs/
 
 For my PhD work I performed research at the [UCSB chemistry](https://chem.ucsb.edu) with [Bruce Lipshutz](https://lipshutz.chem.ucsb.edu/) working primarily on copper hydride initiated reactions, catalysis, and stereoselective synthetic organic methods. 
 
-I continued  postdoctoral research with [Stuart Schreiber](https://www.broadinstitute.org/schreiber-lab) at the [Broad Institute](https://www.broadinstitute.org) working on delineating molecular mechanism of action of several screening hits, and on design of new chemistry for diverse and complex small molecule collections. 
+I continued  postdoctoral research with [Stuart Schreiber](https://www.broadinstitute.org/schreiber-lab) at the [Broad Institute](https://www.broadinstitute.org) working on delineating molecular mechanism of action of several screening hits, and on design of new chemistry for diverse collections of complex small molecules. 
 
 I joined the faculty of the Department of [Medicinal Chemistry](https://medchem.ku.edu) at the [University of Kansas](https://ku.edu) in 2018. 
 
