@@ -16,5 +16,5 @@ Goals of our research:
 
 | Structure | Name |
 | :---: | :---: |
-| ![xk6719](/_assets/xk6719.png){:width="50%"} | XK6719 | 
+| ![xk6719](/_assets/xk6719.png){:width="30%"} | XK6719 | 
 | ![xk1387](/_assets/xk1387.png){:width="50%"} | XK1387 |
