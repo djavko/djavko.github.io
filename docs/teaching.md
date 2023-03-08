@@ -17,5 +17,5 @@ I also co-teach graduate student courses ([MDCM710](/courses/mdcm710), and [MDCM
 
 The team and I engage in informal study sessions on a weekly basis. Primarily we are focused on the following broad areas:
 1. Organic syntheses
-2. Coding in Python and MatLab
+2. Coding in [Python](/colab_notebooks) and MatLab
 3. Linear algebra applications in chemistry: linear models, reaction kinetics, solutions to differential equations, molecular graphs, eigenvectors, singular value decomposition, group theory.
