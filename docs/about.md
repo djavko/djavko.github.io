@@ -16,4 +16,4 @@ I continued  postdoctoral research with [Stuart Schreiber](https://www.broadinst
 
 I joined the faculty of the Department of [Medicinal Chemistry](https://medchem.ku.edu) at the [University of Kansas](https://ku.edu) in 2018. 
 
-Click here for a recent [Curriculum vitae](/_assets/cv_simple.pdf) or for my [LinkedIn](https://www.linkedin.com/in/zarko-boskovic-33379b22/).
+Click here for a recent [Curriculum vitae](/_assets/cv_simple.pdf), my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=NvAOqzcAAAAJ&view_op=list_works&sortby=pubdate), or for my [LinkedIn](https://www.linkedin.com/in/zarko-boskovic-33379b22/).
