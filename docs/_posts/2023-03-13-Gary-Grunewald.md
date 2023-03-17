@@ -1,3 +1,9 @@
+---
+layout: post
+tags: events
+title: Gary Grunewald
+---
+
 Gary Grunewald, Professor Emeritus in the medchem department, [died](https://warrenmcelwain.com/obituary/gary-l-grunewald/) on February 20th, age 85.
 
 I did not know Gary personally very well. He attended my "chalktalk" when I interviewed at KU, and I saw him a couple of times at departmental dinners. I did, however, inherit a large number of his books, like the Quantum Mechanics for Organic Chemists written by his doctoral advisor Howard Zimmerman. He had interests in organic photochemistry, like I do, and he was an early adopter of using computers for organic synthesis and design of bioactive compounds. 
