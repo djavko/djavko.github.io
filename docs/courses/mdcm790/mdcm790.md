@@ -3,7 +3,8 @@ layout: page
 permalink: /courses/mdcm790/mdcm790
 exclude: true
 ---
-### MDCM790
+
+# MDCM790
 
 ## Content
 1. Introduction
