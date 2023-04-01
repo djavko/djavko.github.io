@@ -1,5 +1,10 @@
+---
+layout: page
+exclude: true
+---
+## Mutations
 
-Mutation is a change in a genome.
+> Mutation is a change in a genome.
 
 ### Classification of mutations
 What types of mutations are there?

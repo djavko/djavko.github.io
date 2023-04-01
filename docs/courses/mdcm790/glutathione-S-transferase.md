@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Glutathione-S-transferase
+
 GLUTATHIONE
 
 ## 3CSH

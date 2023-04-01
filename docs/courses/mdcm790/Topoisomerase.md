@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Topoisomerase
+
 * DNA is tightly packed inside of the nucleus
 * topoisomerase untangles and relaxes DNA strands
 * Class I topoisomerases solve the problem of the tension caused during the winding and unwinding of DNA. One example is shown here from PDB entry [1a36](http://www.rcsb.org/pdb/explore/explore.do?structureId=1a36) . It wraps around the DNA and makes a cut in one strand (through a tyrosine residue). Then, while holding onto the damaged spot, the enzyme allows the helix to spin, releasing any overwinding or underwinding. Once the DNA is relaxed, the topoisomerase reconnects the broken strand, restoring the DNA double helix.

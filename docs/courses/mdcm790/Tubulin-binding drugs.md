@@ -1,3 +1,8 @@
+---
+layout: page
+exclude: true
+---
+## Tubulin binders
 
 Tubuline binders are also known as [tubulin](Tubulin) inhibitors.
 * Tubuline depolymerization inhibitors: paclitaxel, epothilone, docetaxel, discodermolide

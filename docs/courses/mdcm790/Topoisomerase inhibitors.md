@@ -1,5 +1,10 @@
+---
+layout: page
+exclude: true
+---
+## Topoisomerase inhibitors
 
-**Topoisomerase inhibitors are chemical compounds that block the action of [topoisomerases](https://en.wikipedia.org/wiki/Topoisomerase "Topoisomerase").**
+> **Topoisomerase inhibitors are chemical compounds that block the action of [topoisomerases](https://en.wikipedia.org/wiki/Topoisomerase "Topoisomerase").**
 
 * Intercalating drugs are used for cancer chemotherapy because they poison cells that are rapidly dividing, like the cells in a growing tumor
 	* Action of [topoisomerase](Topoisomerase) begins by breaking one of DNA strands

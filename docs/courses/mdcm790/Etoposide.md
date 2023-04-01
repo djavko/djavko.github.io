@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Etoposide
+
 Structure of etoposide
 ![etoposide|300](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Etoposide.svg/800px-Etoposide.svg.png)
 

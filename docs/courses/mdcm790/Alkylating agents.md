@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+
+## Alkylating agents
 
 Alkylating agents are drugs that yield an unstable alkyl group, R-CH2+, reacting with nucleophilic centers on proteins and nucleic acids. They can inhibit [DNA replication](DNA replication.md) and [transcription](Transcription.md).
 

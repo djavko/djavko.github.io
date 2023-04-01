@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+
+## Apoptosis
 
 Features of apoptosis:
 

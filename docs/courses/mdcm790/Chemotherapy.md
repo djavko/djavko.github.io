@@ -1,9 +1,10 @@
-
+---
 layout: page
-title: "Chemotherapy"
-permalink: https://djavko.github.io/Chemotherapy
+exclude: true
+---
+## Chemotherapy
 
-Pioneered by **Paul Ehrlich** (who also worked on small molecule treatments for microbial infections). 
+Pioneered by **Paul Ehrlich** (who also worked on small molecule treatments for microbial infections).
 ![Paul Erlich|100](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Paul_Ehrlich_1915.jpg/800px-Paul_Ehrlich_1915.jpg)
 Before chemotherapy [[Radiotherapy]] and surgery were main treatments.
 
@@ -17,4 +18,4 @@ The combination of chemotherapeutic agents is delivered cyclically based on the 
 2.  Neoplastic tumor cells have a linear response between the dose administered and the efficacy.
 3.  Goldie-Coldman hypothesis: Cancer cells acquire spontaneous mutations that cause drug resistance.
 
-#cancer 
+#cancer

@@ -1,4 +1,8 @@
-Alkylating nitrogen mustards
+---
+layout: page
+exclude: true
+---
+## Alkylating nitrogen mustards
 
 | Name | Structure |
 | :---: | :---: |
@@ -15,7 +19,3 @@ Alkylating nitrogen mustards
 ![HN3](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Trichlormethine.svg/1024px-Trichlormethine.svg.png){:width="30%"}
 3. Use resonance to rationalize which position of guanine would be preferentially alkylated by these agents.
 4. Would you expect nitrogen mustards to cross link bases from the same DNA strand or from different strands? How does this compare to the action of [cis-platin](Cis-platin)?
-
----
-
-[MDCM790 Home page](mdcm790.md)

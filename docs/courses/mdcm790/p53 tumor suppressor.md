@@ -1,5 +1,10 @@
+---
+layout: page
+exclude: true
+---
+## p53
 
-p53 is a tumor suppressor
+> p53 is a tumor suppressor
 
 * normally, its levels are low
 * when [DNA damage](DNA damage) is detected, p53 is made

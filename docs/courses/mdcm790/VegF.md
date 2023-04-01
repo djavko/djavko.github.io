@@ -1,3 +1,8 @@
+---
+layout: page
+exclude: true
+---
+## VegF
 
 * when cells need oxygen, the body needs to produce new blood vessels (angiogenesis)
 ![HIF signaling](https://www.ncbi.nlm.nih.gov/books/NBK26848/bin/ch22f28.jpg)

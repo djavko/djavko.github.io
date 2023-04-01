@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Cyclin-dependent kinases
+
 * division of cells is highly regulated
 * cyclins and cyclin dependent kinases control cell division
 * [[cell cycle]]

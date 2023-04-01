@@ -1,0 +1,19 @@
+Title: Linear algebra methods in a chemistry and chemical biology laboratory
+
+I will discuss experiments and projects in my lab from the perspective of application of suitable linear algebra methods.
+1) Dot products. Use in computing cosine similarity of long biological data - fingerprints of activity ("cell painting" data), and in grouping/clustering of bioactive compounds.
+2) Projections. Least squares approach in determining kinetic constants and order in reactants in nickel-catalyzed reactions (consecutive formation of 2 bonds).
+3) Change of bases (eigendecomposition, Fourier transforms). Full spectrum quantitation (chemometrics) for de-noising UV absorption spectra to determine accurate concentration of compounds in reaction mixtures.
+4) Singular value decomposition (principle components analysis). Connecting structural features of compounds to their effects (benzoylating compounds and isonitriles); parametrization in new reaction development and optimization.
+5) Laplacians and graph (incidence) matrices for cheminformatics analyses.
+Each section will answer 3 questions:
+i) What is the method? ii) How was it used?, and iii) What was found by using it?
+
+Biosketch
+PhD research (2006-2011), University of California Santa Barbara, Thesis: A. Advances in Copper Hydride-Catalyzed Reactions B. Bimetallic Heterogeneous Catalysis C. Tandem Olefin Metathesis/Elimination. Thesis advisor: Bruce Lipshutz
+Postdoctoral research (2011-2017), The Broad Institute of MIT and Harvard. Advisor: Stuart Schreiber. Discovery of bioactive molecules, compound library development, mechanisms of action, target ID studies.
+Assistant Professor (2018-present), Department of Medicinal Chemistry, University of Kansas.
+My research group studies interactions between synthetic small molecules and proteins. We are particularly interested in understanding consequences of increased structural complexity of small molecules on protein binding. In the initial phases of this research, we use phenotypic fingerprinting of structurally-complex molecules. To discover ligands with affinity for a subset of proteome we synthesize collections of compounds with systematically altered structures and phenotypically profile their biological activities. We use photochemical activation to generate compounds that are typically characterized by greater three-dimensional character compared to commonly studied compounds. We devise synthetic strategies that increase complexity and diversity of compound collections in small number of steps.
+We also work on several highly specific projects: attempting to find binders to SipD protein which is essential for infectivity of Gram-negative bacteria; determining mechanism of action of multiple myeloma toxic "benzoyl transferase" compound; development of methionine-reactive molecules for quantitative mass spectrometry.
+We are curating and making accessible for screening a library of several thousand compounds whose biological profiles will be acquired.
+We also share some code on GitHub: https://github.com/boskovicgroup.

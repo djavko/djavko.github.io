@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Src tyrosine kinase
+
 ![Src|200](https://cdn.rcsb.org/pdb101/motm/43/2src.gif)
 * a signaling protein that specializes in messages that control the growth of cells
 * it relays its messages by adding phosphate groups to special tyrosine amino acids in protein chains. It adds phosphate groups to a wide variety of proteins that control cellular structure, cell communication, and cellular growth, turning them "on" and releasing them to perform their individual tasks

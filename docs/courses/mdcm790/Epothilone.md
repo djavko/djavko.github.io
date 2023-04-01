@@ -1,10 +1,16 @@
+---
+layout: page
+exclude: true
+---
+## Epothilone
+
 * Anti-cancer drug. Same binding site as [[Paclitaxel |taxol]]
 * Macrolide natural product
 * Thiazol
 
 
 >[! tip]- Heterocyclic nomenclature
->Remember common five member ring nomenclature: 
+>Remember common five member ring nomenclature:
 > * completely unsaturated: pyrrol, furan, imidazol, oxazol, thiophene, thiazol
 > * partially saturated: pyrroline, oxazolin, thiazolin
 > * completely saturated: pyrrolidine, oxazolidine, thiazolidine

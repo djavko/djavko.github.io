@@ -1,3 +1,8 @@
+---
+layout: page
+exclude: true
+---
+## Myc
 
 Myc is a:
 * [Transcription factor](Transcription factor)

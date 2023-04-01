@@ -1,4 +1,9 @@
->[! Info] Immunotherapy
+---
+layout: page
+exclude: true
+---
+## Immunotherapy
+
 >Stimulation of the [immune system](https://en.wikipedia.org/wiki/Immune_system "Immune system") to treat [cancer](https://en.wikipedia.org/wiki/Cancer "Cancer"), improving on the immune system's natural ability to fight the disease.
 
 1. Active immunotherapy
@@ -22,4 +27,4 @@ Antigens
 Adaptive immune response
 
 
-#cancer 
+#cancer

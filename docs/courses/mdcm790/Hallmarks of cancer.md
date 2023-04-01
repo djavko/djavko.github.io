@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Hallmarks of cancer
+
 Bob Weinberg's original [list](https://www.cell.com/fulltext/S0092-8674(00)81683-9):
 1. sustaining proliferative signaling;
 2. evading growth suppressors;

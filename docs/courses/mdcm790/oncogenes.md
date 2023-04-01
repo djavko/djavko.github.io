@@ -1,6 +1,10 @@
+---
+layout: page
+exclude: true
+---
+## Oncogenes
 
-
-Oncogenes are genes that code for proteins that cause cancer.
+> Oncogenes are genes that code for proteins that cause cancer.
 
 * Myc is a [transcription factor](Transcription factor.md)
 * K-Ras is a [[GTPase]]

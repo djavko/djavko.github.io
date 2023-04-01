@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Other alkylators
+
 Structures of other alkylators:
 
 ### Busulfan

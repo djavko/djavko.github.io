@@ -1,3 +1,9 @@
+---
+layout: page
+exclude: true
+---
+## Gleevec
+
 * imatinib
 ![imatinib|300](https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=5291&t=l)
 

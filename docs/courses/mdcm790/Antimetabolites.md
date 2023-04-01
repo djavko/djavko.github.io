@@ -1,4 +1,11 @@
->[! Info] Mechanism of Action
+---
+layout: page
+exclude: true
+---
+
+## Antimetabolites
+
+> **Mechanism of Action**
 > Inhibit the replication of DNA
 
 1. Cytidine analogs
@@ -14,7 +21,7 @@
 -  Toxicity: Myelosuppression in general. Cytarabine high dose causes neurotoxicity, conjunctivitis. Gemcitabine causes liver enzyme elevations, interstitial pneumonitis.
 
 2. Folate antagonists
-	1. methotrexate, 
+	1. methotrexate,
 	2. pemetrexed
 
 >[! Info] MOA
@@ -40,7 +47,7 @@
 	3. fluorouracil (5-FU)
 
 
->[! Info] MOA 
+>[! Info] MOA
 >Active metabolite (F-dUMP) forms a stable covalent complex with thymidine synthetase in the presence of reduced folate, therefore, interfering with DNA synthesis and repair.
 
-#cancer 
+#cancer

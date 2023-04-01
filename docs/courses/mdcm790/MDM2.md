@@ -1,3 +1,8 @@
+---
+layout: page
+exclude: true
+---
+## MDM2
 
 * [p53 tumor suppressor] must be closely regulated.
 * This is the job of MDM2 (also known as HDM2 in human cells) and its partner MDMX

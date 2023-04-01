@@ -1,5 +1,8 @@
-
-Cis-platin and analogs:
+---
+layout: page
+exclude: true
+---
+## Cis-platin and analogs
 
 | Name | Structure |
 | :---: | :---: |
