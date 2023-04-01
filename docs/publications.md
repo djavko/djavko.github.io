@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Publications 
+title: Publications
 permalink: /publications/
 ---
+# Publications
+
 At the University of Kansas:
 
 1. Singh, M.; Dhote, P.; Johnson, D. R.; Figueroa-Lazú, S.; Elles, C. G.; Boskovic, Z. **Photochemical Decarbonylation of Oxetanone and Azetidinone: Spectroscopy, Computational Models, and Synthetic Applications**. Angewandte Chemie International Edition 2023, 62 (3), e202215856. [https://doi.org/10.1002/anie.202215856](https://doi.org/10.1002/anie.202215856).
@@ -33,4 +35,4 @@ Prior to joining University of Kansas:
 * Lipshutz, B. H.; Ghorai, S.; Bošković, Ž. V. Tandem Olefin Metathesis–Elimination Reactions. A New Route to Doubly Unsaturated Carbonyl Derivatives. Tetrahedron 2008, 64 (29), 6949–6954.
 * Baker, B. A.; Bošković, Ž. V.; Lipshutz, B. H. (BDP)CuH:  A “Hot” Stryker’s Reagent for Use in Achiral Conjugate Reductions. Org. Lett. 2008, 10 (2), 289–292. https://doi.org/10.1021/ol702689v.
 * Gutman, I.; Stojanović, G.; Bošković, Ž.; Radulović, N.; Rašić, P. COMPARING THE RANDIĆ–BALABAN AND THE CLAR MODELS FOR PARTITIONING OF π-ELECTRONS IN RINGS OF BENZENOID HYDROCARBONS: THE CASE OF PHENES AND STARPHENES. Polycyclic Aromatic Compounds 2005, 25 (4), 345–355.
-* Gutman, I.; Furtula, B.; Arsić, B.; Bošković, Ž. On the Relation between Zenkevich and Wiener Indices of Alkanes. Journal of the Serbian Chemical Society 2004, 69 (4), 265–271. 
+* Gutman, I.; Furtula, B.; Arsić, B.; Bošković, Ž. On the Relation between Zenkevich and Wiener Indices of Alkanes. Journal of the Serbian Chemical Society 2004, 69 (4), 265–271.

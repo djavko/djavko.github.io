@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Team members 
+title: Team members
 permalink: /team/
 ---
+# Team
+
 |![sunflower](/_assets/sunflowers.JPG)|
 |:--:|
 |Snapshot of the team in the Summer 2020 in the field of sunflowers|
@@ -20,6 +22,3 @@ Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
 Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Crystal engineering
 
 Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Ambrosee Wilkinson, Brock Fricke, Alyschia Gaffar, Cybelle Arrey, Koki Takemoto, Pawan Dhote
-
-
-

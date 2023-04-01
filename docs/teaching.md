@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Teaching 
+title: Teaching
 permalink: /teaching/
 ---
+# Teaching
+
 At the University of Kansas, I teach Medicinal Biochemistry, [MDCM601](/courses/mdcm601), which is an introductory biochemistry course for PharmD students. Students in this course learn about:
 1. Structure of biological molecular building blocks (amino acids)
 2. Structures and functions of proteins

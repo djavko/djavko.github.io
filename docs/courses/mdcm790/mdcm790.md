@@ -1,7 +1,11 @@
 ---
 layout: page
 permalink: /courses/mdcm790/mdcm790
+exclude: true
 ---
+# MDCM790
+
+## Content
 1. Introduction
     1. [What is cancer?](What_is_cancer.md)
     2. [Hallmarks of cancer](Hallmarks of cancer)

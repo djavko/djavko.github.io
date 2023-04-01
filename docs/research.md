@@ -3,6 +3,8 @@ layout: page
 title: Research
 permalink: /research/
 ---
+# Research
+
 Goals of our research:
 1. Gain experimental access to new chemical space through the “upside-down” world of photochemistry. For example, in seven steps simple building blocks are coupled and cyclized through suitable intramolecular reactions to give a series of structures with substantially increased structural complexity. These structures occupy unsampled regions of chemical space.
 ![aza-yang-buchner](/_assets/aza_yang_buchner.png){:width="100%"}
@@ -16,5 +18,5 @@ Goals of our research:
 
 | Structure | Name |
 | :---: | :---: |
-| ![xk6719](/_assets/xk6719.png){:width="30%"} | XK6719 | 
+| ![xk6719](/_assets/xk6719.png){:width="30%"} | XK6719 |
 | ![xk1387](/_assets/xk1387.png){:width="50%"} | XK1387 |
