@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Zarko Boskovic
+title: About
 permalink: /about/
 ---
-# About Zarko 
+# About Zarko
 
 ![zarko](/_assets/zarko.jpg){:width="30%"}
 
