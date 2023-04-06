@@ -14,6 +14,7 @@ From our lab:
 * Laboratory information management system ([Zlab](http://medchemprdimsap.cc.ku.edu))
 
 From other sources:
+* [Organic chemistry data](https://organicchemistrydata.org/)
 * [PubChem](https://pubchem.ncbi.nlm.nih.gov/)
 * [NIH LINCS](https://lincsproject.org/) project
 * [GAMESS documentation](https://myweb.liu.edu/~nmatsuna/gamess/input/)
