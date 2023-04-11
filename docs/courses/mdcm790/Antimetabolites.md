@@ -5,8 +5,9 @@ exclude: true
 
 ## Antimetabolites
 
-> **Mechanism of Action**
-> Inhibit the replication of DNA
+> Mechanism of action:
+>
+> Inhibit the replication of DNA.
 
 1. Cytidine analogs
 
