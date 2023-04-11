@@ -34,4 +34,4 @@ exclude: true
     2. Antibodies
     3. [Cyclin-dependent kinases](cyclin dependent kinases.md)
 8. [Target degradation](Target degradation.md)
-9. Miscelaneous topics
+9. Miscellaneous topics
