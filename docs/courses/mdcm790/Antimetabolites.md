@@ -36,6 +36,9 @@ exclude: true
 * Toxicity: Myelosuppression, mucositis, hepatotoxicity, nephrotoxicity, cutaneous reactions
 * Toxicity prevention: Hydration and alkalization of the urine, leucovorin rescue
 
+* [PDB 7dfr](https://www.rcsb.org/structure/7dfr)
+* [PDB 3dfr](https://www.rcsb.org/structure/3dfr)
+
 3. Purine analogs
 
 | Name | Structure |
