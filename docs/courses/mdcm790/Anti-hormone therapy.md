@@ -15,7 +15,6 @@ Estrogen gives cells permission to grow when appropriate. This is essential duri
 SERMs like tamoxifen attach to receptors on the cancer cells which blocks estrogen from attaching to the receptors.
 
 
-
 ## SERDs (selective estrogen receptor degrader)
 [Fulvestrant](https://en.wikipedia.org/wiki/Fulvestrant) is a SERD drug that acts by damaging and blocking estrogen receptors. See also [[Target degradation]].
 
@@ -25,3 +24,9 @@ Aromatase is a heme-containing enzyme which oxidizes an angular methyl group to 
 [Anastrazol](https://en.wikipedia.org/wiki/Anastrozole) and the azol family ( [letrozole](https://en.wikipedia.org/wiki/Letrozole "Letrozole"), [fadrozole](https://en.wikipedia.org/wiki/Fadrozole "Fadrozole"), and [vorozole](https://en.wikipedia.org/wiki/Vorozole "Vorozole")).
 
 Anastrazol binding to aromatase.
+
+### Androgen receptors
+[Androgen receptor network in prostate cancer](https://pathway-viewer.toolforge.org/embed/WP2263)
+
+### Aryl hydrocarbon receptor pathway
+[AHRP](https://pathway-viewer.toolforge.org/embed/WP2873)

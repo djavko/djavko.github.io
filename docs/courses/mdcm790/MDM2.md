@@ -4,7 +4,7 @@ exclude: true
 ---
 ## MDM2
 
-* [p53 tumor suppressor] must be closely regulated.
+* [p53 tumor suppressor](p53 tumor suppressor.md) must be closely regulated.
 * This is the job of MDM2 (also known as HDM2 in human cells) and its partner MDMX
 * Most of the time, MDM2 binds to p53.
 	* This has multiple effects.
@@ -16,13 +16,5 @@ In some cases, p53 itself is corrupted, so the cell has no way of protecting its
 
 ### Inhibitors
 
-* [nutlin](nutrlin) PDB: [1rv1](https://www.rcsb.org/structure/1rv1)
+* [nutlin](nutlin) PDB: [1rv1](https://www.rcsb.org/structure/1rv1)
 * SAH-p53-8 PDB: [3v3b](https://www.rcsb.org/structure/3v3b)
-
----
-
-[MDCM790 Home page](mdcm790.md)
-
-[p53](p53 tumor suppressor)
-
-[Transcription factors](Transcription factor)

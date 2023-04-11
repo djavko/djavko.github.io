@@ -12,6 +12,8 @@ exclude: true
 * if unable to repair, p53 initiates [apoptosis](apoptosis)
 * p53 tumor suppressor is a flexible molecule composed of four identical protein chains
 * it is destroyed by [MDM2](MDM2) which is a ubiquitin ligase
+* [PDB101](https://pdb101.rcsb.org/motm/31) entry
+* [1tup](http://www.rcsb.org/pdb/explore/explore.do?structureId=1tup)
 
 ### Mutations
 

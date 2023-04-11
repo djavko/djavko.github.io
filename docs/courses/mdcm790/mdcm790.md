@@ -25,8 +25,9 @@ exclude: true
     2. [p53](p53 tumor suppressor.md)
     3. [Anti-hormone therapy](Anti-hormone therapy.md)
 5. Signaling
-    1. Anti-growth factor
+    1. [Anti-growth factor](epidermal growth factor.md)
     2. [Ras](Ras protein.md) signaling
+    3. [Anti-metabolites](Antimetabolites.md)
 6. Interfering with [epigenetics](Epigenetic targets in cancer.md)
 7. [Immunotherapy](Immunotherapy.md)
     1. [Engineered immune cells](CAR-T.md)
