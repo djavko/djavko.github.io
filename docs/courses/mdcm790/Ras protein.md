@@ -24,3 +24,8 @@ Ras is at the middle of a complex signaling network that delivers messages about
     * [adagrasib covalently bound to KRAS](https://www.rcsb.org/structure/6USZ)
 
 * [C&EN article](https://cen.acs.org/pharmaceuticals/drug-discovery/Amgen-unveils-KRas-inhibitor-human/97/i14)
+
+### Questions
+
+1. Use PyMOL to determine which Ras residues to sotorasib and adagrasib interact with.
+2. Do you think these Ras inhibitors first bind and then covalently react with Cys or vice versa?
