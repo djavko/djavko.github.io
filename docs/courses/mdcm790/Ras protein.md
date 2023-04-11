@@ -22,3 +22,5 @@ Ras is at the middle of a complex signaling network that delivers messages about
 * G12C mutants
     * [sotorasib covalently bound to KRAS](https://www.rcsb.org/structure/6oim)
     * [adagrasib covalently bound to KRAS](https://www.rcsb.org/structure/6USZ)
+
+* [C&EN article](https://cen.acs.org/pharmaceuticals/drug-discovery/Amgen-unveils-KRas-inhibitor-human/97/i14)
