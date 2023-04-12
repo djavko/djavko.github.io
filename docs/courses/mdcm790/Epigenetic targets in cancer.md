@@ -47,3 +47,10 @@ Nucleosomes [PDB 101](https://pdb101.rcsb.org/motm/7)
 ### IDH
 Isocitrate dehydrogenase is a metabolic enzyme that is mutated in some cancers such that instead of the native reaction (isocitrate to alpha keto glutarate), it catalyzes the further reduction of alpha-keto glutarate to 2-hydroxy glutarate. This causes depletion of an important co-factor (alpha-KG) for the iron-dependent enzymes that catalyze removal of methyl groups from histones or DNA. Thus, DNA stays hyper-methylated which is often associated with cancer. In addition, 2-HG has numerous cancer-activating effects, such as cellular metabolism.
 See [this](https://www.nature.com/articles/s41416-020-0814-x) paper for more details.
+
+### Questions
+1. Can an acetylated lysine also be methylated?
+2. How many methyl groups can lysine have?
+3. Would you expect different number of methyl groups to have different effect on transcription?
+4. Simple model of chromatin is based on charge. Argue how different lysine modifications enable or prevent transcription.
+5. Look at the structure of largazole
