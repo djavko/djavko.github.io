@@ -21,6 +21,8 @@ DNA methyltransferases
 
 ### Histone modifications
 
+![nucleosome](nucleosome.png)
+
 Nucleosomes [PDB 101](https://pdb101.rcsb.org/motm/7)
 
 [Crystal structure of nucleosomes](https://www.rcsb.org/structure/1aoi)
@@ -37,11 +39,13 @@ Nucleosomes [PDB 101](https://pdb101.rcsb.org/motm/7)
 1. HDAC inhibitors: vorinostat, romidepsin, belinostat, and panobinostat
 
 2. HMT inhibitors: tazemetostat, Valemetostat, CPI-0209, CPI-1205
-    2a. LSD1 inhibitors: Iadademstat, CC-90011, INCB059872
 
-3. IDH inhibitors: Ivosidenib, Enasidenib, Vorasidenib, Olutasidenib
+3. Lysine demethylase inhibitors: Iadademstat, CC-90011, INCB059872
 
 4. Bromodomain and extraterminal (BET) inhibitors: Molibresib, Birabresib, ZEN003694, PLX51107
+
+5. IDH inhibitors: Ivosidenib, Enasidenib, Vorasidenib, Olutasidenib
+
 
 
 ### IDH
