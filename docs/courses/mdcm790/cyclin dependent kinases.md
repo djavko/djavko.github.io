@@ -10,9 +10,11 @@ exclude: true
 * cyclins are kept low through protein degradation (ubiquitine-proteasome system)
 * when needed, cyclin binds CDK, kinase phosphorylates itself and starts phosphorylating other proteins
 * https://pdb101.rcsb.org/motm/236
-	* PDB: 1fin ; cyclin bound to CDK
-	* 1qmz cyclin+CDK+peptide target
-	* 1bi7 CDK+INK proteins (if DNA is damaged and needs to be repaired prior to DNA replication in S phase)
-	* 1jsu CDK + Kip protein that prevents ATP from binding
+	* [PDB 1fin](https://www.rcsb.org/structure/1FIN) ; cyclin bound to CDK
+	* [PDB 1qmz](https://www.rcsb.org/structure/1qmz) cyclin+CDK+peptide target
+	* [PDB 1bi7](https://www.rcsb.org/structure/1BI7) CDK+INK proteins (if DNA is damaged and needs to be repaired prior to DNA replication in S phase)
+	* [PDB 1jsu](https://www.rcsb.org/structure/1JSU) CDK + Kip protein that prevents ATP from binding
 
-What are some small molecule CDK6 inhibitors?
+### Questions
+
+1. What are some small molecule CDK6 inhibitors?
