@@ -14,7 +14,7 @@ exclude: true
 		4. Cetuximab (EGFR)
 	2. cancer vaccines
 		1. Sipuleucel-T
-	3. [[CAR-T]] cells
+	3. [CAR-T](CAR-T.md) cells
 
 2. Passive immunotherapy
 	1. Checkpoint inhibitors
