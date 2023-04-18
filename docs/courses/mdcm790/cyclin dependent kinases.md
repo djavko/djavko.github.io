@@ -9,7 +9,7 @@ exclude: true
 * [[cell cycle]]
 * cyclins are kept low through protein degradation (ubiquitine-proteasome system)
 * when needed, cyclin binds CDK, kinase phosphorylates itself and starts phosphorylating other proteins
-* https://pdb101.rcsb.org/motm/236
+* [PDB101](https://pdb101.rcsb.org/motm/236)
 	* [PDB 1fin](https://www.rcsb.org/structure/1FIN) ; cyclin bound to CDK
 	* [PDB 1qmz](https://www.rcsb.org/structure/1qmz) cyclin+CDK+peptide target
 	* [PDB 1bi7](https://www.rcsb.org/structure/1BI7) CDK+INK proteins (if DNA is damaged and needs to be repaired prior to DNA replication in S phase)
