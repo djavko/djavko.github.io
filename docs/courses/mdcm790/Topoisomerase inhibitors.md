@@ -15,7 +15,7 @@ exclude: true
 
 ### Examples
 1. [Camptothecins](camptothecin)
-2. [Etoposide](etoposide)
+2. [Etoposide](Etoposide)
 3. [Doxorubicine](doxorubicine)
 
 

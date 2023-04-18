@@ -17,7 +17,7 @@ exclude: true
 	* Wilm's tumor (How is tumor different from cancer? Are there cancers that are not tumors? Are all tumors cancers?)
 
 ### Questions
-1. What are [[sarcomas]]?
+1. What are [sarcomas](sarcomas.md)?
 2. How is tumor different from cancer?
 3. Are there cancers that are not tumors?
 4. Are all tumors cancers?
