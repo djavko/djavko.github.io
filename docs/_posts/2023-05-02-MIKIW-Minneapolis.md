@@ -13,7 +13,7 @@ The keynote speaker this year was Dr. Nicole Goodwin, Director of medicinal chem
 
 | ![dinner](/_assets/IMG_8254.JPG){:width="60%"}|
 |:---:|
-| *Hunger for data.*|
+| *Hunger for data and dinner after a long day of talks.*|
 
 Not only did the student organizers do an amazing job with the logistics of the conference, some of them picked up a numebr of awards for posters and talks. It was a great experience and Minneapolis looks like a wonderful city with lots of interesting architecture, art, and nature.
 
