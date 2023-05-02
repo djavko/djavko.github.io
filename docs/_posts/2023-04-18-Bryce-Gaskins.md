@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: events
+tags: people
 title: Bryce Gaskins goes to Caltech
 ---
 
