@@ -15,7 +15,9 @@ The keynote speaker this year was Dr. Nicole Goodwin, Director of medicinal chem
 |:---:|
 | *Hunger for data and dinner after a long day of talks.*|
 
-Not only did the student organizers do an amazing job with the logistics of the conference, some of them picked up a numebr of awards for posters and talks. It was a great experience and Minneapolis looks like a wonderful city with lots of interesting architecture, art, and nature.
+Not only did the student organizers do an amazing job with the logistics of the conference, some of them picked up a number of awards for posters and talks. 
+
+Overall, attending this meeting (like the previous in Iowa City, the virtual one in e-Madison, and the one in Lawrence in 2019) was a great experience. From a brief walk (I snuck out of the two talks) Minneapolis looks like a wonderful city with lots of interesting architecture, art, and nature.
 
 | ![dinner](/_assets/IMG_8253.jpeg){:width="60%"}|
 |:---:|
