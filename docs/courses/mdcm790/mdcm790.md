@@ -35,3 +35,11 @@ exclude: true
     3. [Cyclin-dependent kinases](cyclin dependent kinases.md)
 8. [Target degradation](Target degradation.md)
 9. [Data portals for cancer research](Data portals.md)
+
+# Research projects
+
+1. Mutations at the drug binding sites.
+2. Metabolism and cancer.
+3. Small molecules that cut DNA.
+4. Histone "code".
+5. Discovering cancer dependencies from data.
