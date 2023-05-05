@@ -38,8 +38,8 @@ exclude: true
 
 # Research projects
 
-1. Mutations at the drug binding sites.
-2. Metabolism and cancer.
-3. Small molecules that cut DNA.
-4. Histone "code".
-5. Discovering cancer dependencies from data.
+1. [Mutations at the drug binding sites](project1.md)
+2. [Metabolism and cancer](project2.md)
+3. [Small molecules that cleave DNA](project3.md)
+4. [Histone "code"](project4.md)
+5. [Discovering cancer dependencies from data](project5.md)
