@@ -5,6 +5,7 @@ exclude: true
 ## Metabolism and cancer
 
 The link between metabolism and cancer is, perhaps unsuprisingly, very strong. 
+
 Tasks:
 1. Explain the "Warburg effect"
 2. Discuss the meaning of the term oncometabolite. 
