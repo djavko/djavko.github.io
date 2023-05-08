@@ -1,8 +1,11 @@
 ---
 layout: page 
 exclude: true
-permalink: /courses/mdcm601/
+permalink: /courses/mdcm601/mdcm601
 ---
+
+## MDCM601
+
 1. Structures of building blocks: amino acids, therapeutics
 2. Equilibria: acidity, diffusion
 3. Protein structure and function

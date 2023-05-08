@@ -1,6 +1,10 @@
 ---
-layout: page
+layout: page 
+exclude: true
+permalink: /courses/mdcm710/mdcm710/
 ---
+## MDCM710
+
 MDCM 710 - Chemistry of Drug Action-1 is a graduate level course taught by the faculty in the [Department of Medicinal Chemistry](https://medchem.ku.edu). 
 
 The topics I teach in this course are: 
