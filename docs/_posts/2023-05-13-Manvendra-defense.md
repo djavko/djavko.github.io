@@ -22,4 +22,4 @@ Some time is needed to properly assess the value of what we have done together, 
 
 | ![dinner](/_assets/dinner_msi.jpeg){:width="60%"} |
 |:---:|
-| *Dinner at Culinaria with the group + Barthi, Agrim, and Avyan.*|
+| *Dinner at Culinaria with the group + Bharti, Agrim, and Avyan.*|
