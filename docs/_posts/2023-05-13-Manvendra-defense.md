@@ -8,7 +8,7 @@ My first PhD student defended his thesis on Wednesday, May 10th. Manvendra Singh
 
 I prepared an [intro slideshow](/_assets/manvendra_defense_intro.pdf) which highlights multiple facets of Manvendra I came to know during the years. 
 
-His contributions to the lab are difficult to account for properly and they are more numerous than simple bean counting would suggest. Still, you can see the [papers](/publications/) he published; his thesis is 828 pages long. (De Broglie's [thesis](https://fondationlouisdebroglie.org/LDB-oeuvres/De_Broglie_Kracklauer.pdf) was famously 73 pages long, so yes, we know it's not about the thickness of the thesis.) If he ever prints it, we decided on maroon cover and gold letters in horizontal disposition of the book's spine. 
+His contributions to the lab are difficult to account for properly and they are more numerous than simple bean counting would suggest. Still, you can see the [papers](/publications/) he published; his thesis is 828 pages long (shout-out to the committee members). (De Broglie's [thesis](https://fondationlouisdebroglie.org/LDB-oeuvres/De_Broglie_Kracklauer.pdf) was famously 73 pages long, so yes, we know it's not about the thickness of the thesis.) If he ever prints it, we decided on maroon cover and gold letters in horizontal disposition of the book's spine. 
 
 Some time is needed to properly assess the value of what we have done together, but I have a positive feeling about it. Good luck, Manvendra!
 
