@@ -5,6 +5,17 @@ permalink: /research/
 ---
 # Research
 
+<script>
+    ChemDoodle.DEFAULT_STYLES.bondLength_2D = 14.4;
+    ChemDoodle.DEFAULT_STYLES.bonds_width_2D = .6;
+    ChemDoodle.DEFAULT_STYLES.bonds_saturationWidthAbs_2D = 2.6;
+    ChemDoodle.DEFAULT_STYLES.bonds_hashSpacing_2D = 2.5;
+    ChemDoodle.DEFAULT_STYLES.atoms_font_size_2D = 10;
+    ChemDoodle.DEFAULT_STYLES.atoms_font_families_2D = ['Helvetica', 'Arial', 'sans-serif'];
+    ChemDoodle.DEFAULT_STYLES.atoms_displayTerminalCarbonLabels_2D = true;
+    ChemDoodle.DEFAULT_STYLES.atoms_useJMOLColors = true;
+</script>
+
 Goals of our research:
 1. Gain experimental access to new chemical space through the “upside-down” world of photochemistry. For example, in seven steps simple building blocks are coupled and cyclized through suitable intramolecular reactions to give a series of structures with substantially increased structural complexity. These structures occupy unsampled regions of chemical space.
 ![aza-yang-buchner](/_assets/aza_yang_buchner.png){:width="100%"}
