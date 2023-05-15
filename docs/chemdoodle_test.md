@@ -3,28 +3,23 @@ layout: page
 title: chemdoodle
 exclude: true
 ---
+
 <script>
-	let myCanvas = new ChemDoodle.ViewerCanvas('id', 150, 150);
-	    //the width of the bonds should be .6 pixels
-	    myCanvas.styles.bonds_width_2D = .6;
-	    //the spacing between higher order bond lines should be 18% of the length of the bond
-	    myCanvas.styles.bonds_saturationWidthAbs_2D = 2.6;
-	    //the hashed wedge spacing should be 2.5 pixels
-	    myCanvas.styles.bonds_hashSpacing_2D = 2.5;
-	    //the atom label font size should be 10
-	    myCanvas.styles.atoms_font_size_2D = 10;
-	    //we define a cascade of acceptable font families
-	    //if Helvetica is not found, Arial will be used
-	    myCanvas.styles.atoms_font_families_2D = ['Helvetica', 'Arial', 'sans-serif'];
-	    //display carbons labels if they are terminal
-	    myCanvas.styles.atoms_displayTerminalCarbonLabels_2D = true;
-	    //add some color by using JMol colors for elements
-	    myCanvas.styles.atoms_useJMOLColors = true;
-	    myCanvas.emptyMessage = 'No Data Loaded!';
-	    let caffeineMolFile =
-	        'Molecule Name\n  CHEMDOOD08070920033D 0   0.00000     0.00000     0\n[Insert Comment Here]\n 14 15  0  0  0  0  0  0  0  0  1 V2000\n   -0.3318    2.0000    0.0000   O 0  0  0  1  0  0  0  0  0  0  0  0\n   -0.3318    1.0000    0.0000   C 0  0  0  1  0  0  0  0  0  0  0  0\n   -1.1980    0.5000    0.0000   N 0  0  0  1  0  0  0  0  0  0  0  0\n    0.5342    0.5000    0.0000   C 0  0  0  1  0  0  0  0  0  0  0  0\n   -1.1980   -0.5000    0.0000   C 0  0  0  1  0  0  0  0  0  0  0  0\n   -2.0640    1.0000    0.0000   C 0  0  0  4  0  0  0  0  0  0  0  0\n    1.4804    0.8047    0.0000   N 0  0  0  1  0  0  0  0  0  0  0  0\n    0.5342   -0.5000    0.0000   C 0  0  0  1  0  0  0  0  0  0  0  0\n   -2.0640   -1.0000    0.0000   O 0  0  0  1  0  0  0  0  0  0  0  0\n   -0.3318   -1.0000    0.0000   N 0  0  0  1  0  0  0  0  0  0  0  0\n    2.0640   -0.0000    0.0000   C 0  0  0  2  0  0  0  0  0  0  0  0\n    1.7910    1.7553    0.0000   C 0  0  0  4  0  0  0  0  0  0  0  0\n    1.4804   -0.8047    0.0000   N 0  0  0  1  0  0  0  0  0  0  0  0\n   -0.3318   -2.0000    0.0000   C 0  0  0  4  0  0  0  0  0  0  0  0\n  1  2  2  0  0  0  0\n  3  2  1  0  0  0  0\n  4  2  1  0  0  0  0\n  3  5  1  0  0  0  0\n  3  6  1  0  0  0  0\n  7  4  1  0  0  0  0\n  4  8  2  0  0  0  0\n  9  5  2  0  0  0  0\n 10  5  1  0  0  0  0\n 10  8  1  0  0  0  0\n  7 11  1  0  0  0  0\n  7 12  1  0  0  0  0\n 13  8  1  0  0  0  0\n 13 11  2  0  0  0  0\n 10 14  1  0  0  0  0\nM  END\n> <DATE>\n07-08-2009\n';
-	    let caffeine = ChemDoodle.readMOL(caffeineMolFile);
-	    //the bond lengths should be 14.4 pixels
-	    caffeine.scaleToAverageBondLength(14.4);
-	    myCanvas.loadMolecule(caffeine);
+    ChemDoodle.DEFAULT_STYLES.bondLength_2D = 16;
+    ChemDoodle.DEFAULT_STYLES.bonds_width_2D = .6;
+    ChemDoodle.DEFAULT_STYLES.bonds_saturationWidthAbs_2D = 2.6;
+    ChemDoodle.DEFAULT_STYLES.bonds_hashSpacing_2D = 2.5;
+    ChemDoodle.DEFAULT_STYLES.atoms_font_size_2D = 10;
+    ChemDoodle.DEFAULT_STYLES.atoms_font_families_2D = ['Helvetica', 'Arial', 'sans-serif'];
+    ChemDoodle.DEFAULT_STYLES.atoms_displayTerminalCarbonLabels_2D = true;
+    ChemDoodle.DEFAULT_STYLES.atoms_useJMOLColors = true;
 </script>
+	
+<script>
+    let Canvas2 = new ChemDoodle.ViewerCanvas('Canvas2', 150, 150);
+    Canvas2.emptyMessage = 'No Data Loaded!';
+		let XK1387MolFile = 'Molecule Name\n  ChemDodl05152313092D 0   0.00000     0.00000     0\n[Insert Comment Here]\n 12 12  0  0  0  0  0  0  0  0  1 V2000\n   -2.7860    0.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.5950   -0.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.2860   -1.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.2860   -1.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.9769   -0.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.7860    1.2694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7859    0.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.9769   -0.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2860   -1.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.2859   -1.2694    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.5950   -0.3184    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.7859    1.2694    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0  0  0  0\n  2  3  1  0  0  0  0\n  3  4  1  0  0  0  0\n  4  5  2  0  0  0  0\n  5  1  1  0  0  0  0\n  1  6  2  0  0  0  0\n  7  8  2  0  0  0  0\n  8  9  1  0  0  0  0\n  9 10  1  0  0  0  0\n 10 11  2  0  0  0  0\n 11  7  1  0  0  0  0\n  7 12  1  0  0  0  0\nM  END'
+	let XK1387 = ChemDoodle.readMOL(XK1387MolFile);
+    Canvas2.loadMolecule(XK1387);
+	</script> XK6719:	
+
