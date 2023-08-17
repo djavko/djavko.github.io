@@ -1,0 +1,44 @@
+{
+    "molecules": [
+        {
+            "name": "Penicillin G",
+            "fileName": "penicillinG.mol",
+            "priorities": { "2": [2,1,18,26], "4":[4,3,5,25], "6":[8,5,6,27] }
+        },
+        {
+            "name": "Sorbose",
+            "fileName": "sorbose.mol",
+            "priorities": { "0": [10,0,2,11], "1": [7,1,0,12], "2":[8,4,1,13] }
+        },
+        {
+            "name": "Sphingosine",
+            "fileName": "sphingosine.mol",
+            "priorities": { "2": [2,3,1,20], "4": [4,3,5,21] }
+        },
+        {
+            "name": "L-Proline",
+            "fileName": "proline.mol",
+            "priorities": { "1": [0,1,5,8] }
+        },
+        {
+            "name": "Biotin",
+            "fileName": "biotin.mol",
+            "priorities": { "2": [1,5,2,10], "3": [3,8,2,11], "5": [6,5,12,19] }
+        },
+        {
+            "name": "L-Tyrosine",
+            "fileName": "tyrosine.mol",
+            "priorities": { "0": [4,0,5,3] }
+        },
+        {
+            "name": "Cholesterol",
+            "fileName": "cholesterol.mol",
+            "priorities": { "1":[1,6,0,46], "4": [47,3,4,48], "6":[6,7,11,38], "7":[7,15,8,41], "12":[14,16,13,35], "13":[14,15,19,29], "14":[16,20,17,34], "17":[20,21,27,28] }
+        },
+        {
+            "name": "Ascorbic acid",
+            "fileName": "ascorbic_acid.mol",
+            "priorities": { "4":[4,3,9,8], "9": [12,9,10,13] }
+        }
+    ]
+}

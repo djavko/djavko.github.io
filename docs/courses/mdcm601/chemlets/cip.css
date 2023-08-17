@@ -1,0 +1,186 @@
+svg, svg * {
+    pointer-events: none;
+}
+
+svg {
+    flex:1;
+}
+
+.selectable, .rankable {
+    pointer-events: all;
+    cursor: pointer;
+}
+
+.selectable:hover  {
+    fill: magenta !important;
+}
+
+.initial-bond.branch-1.selectable ~ .substituent-1:not(.active-branch),
+.initial-bond.branch-2.selectable ~ .substituent-2:not(.active-branch),
+.initial-bond.branch-3.selectable ~ .substituent-3:not(.active-branch),
+.initial-bond.branch-4.selectable ~ .substituent-4:not(.active-branch) {
+    fill: orange !important;
+}
+
+.initial-bond.branch-1:hover, .initial-bond.branch-1:hover ~ .branch-1,
+.initial-bond.branch-2:hover, .initial-bond.branch-2:hover ~ .branch-2,
+.initial-bond.branch-3:hover, .initial-bond.branch-3:hover ~ .branch-3,
+.initial-bond.branch-4:hover, .initial-bond.branch-4:hover ~ .branch-4,
+.bond-highlight.active-branch, .atom-highlight.active-branch {
+    fill: lightcoral !important;
+}
+
+/* .initial-bond.active-branch:hover ~ .atom-highlight.active-branch,
+.atom-highlight.active-branch {
+    fill: none !important;
+} */
+
+.atom-highlight:not([stereocenter]) {
+    stroke: none !important;
+}
+
+.initial-bond.branch-1:hover ~ .branch-1.selected-1,
+.initial-bond.branch-2:hover ~ .branch-2.selected-2,
+.initial-bond.branch-3:hover ~ .branch-3.selected-3,
+.initial-bond.branch-4:hover ~ .branch-4.selected-4,
+.active-branch.rankable ~ .active-branch.selected-1,
+.active-branch.rankable ~ .active-branch.selected-2,
+.active-branch.rankable ~ .active-branch.selected-3,
+.active-branch.rankable ~ .active-branch.selected-4 {
+    fill: cyan !important;
+    /* outline: lightcoral solid medium;
+    border-radius: 50%; */
+    stroke: lightcoral !important;
+    stroke-width: 3px !important;
+}
+
+.molecule-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#molecule {
+    margin: 0 auto;
+}
+
+.correct {
+    stroke: green !important;
+}
+
+.incorrect {
+    stroke: red !important;
+}
+
+.missing {
+    fill: grey !important;
+    fill-opacity: 1;
+    stroke-opacity: 0 !important;
+}
+
+.disabled {
+    pointer-events: none;
+}
+
+.correct-descriptor {
+    fill: green !important;
+}
+
+.incorrect-descriptor {
+    fill: red !important;
+}
+
+[stereocenter],  [stereocenter]:hover {
+    fill: rgb(0, 255, 133) !important;
+    fill-opacity: 1;
+    stroke-opacity: 1 !important;
+}
+
+.selected-1, .selected-2, .selected-3, .selected-4 {
+    fill: cyan !important;
+    fill-opacity: 1;
+    /* stroke-opacity: 0 !important; */
+    
+}
+
+[error], [error]:hover {
+    fill: rgb(255, 133, 133) !important;
+    fill-opacity: 1;
+    stroke-opacity: 1 !important;
+}
+
+/* .atom-highlight[distance] {
+    outline: dashed magenta !important;
+    fill-opacity: 1;
+    stroke-opacity: 0 !important;
+} */
+
+.initial-bond.branch-1:hover:not(.rankable) ~ .terminal-atom-1.branch-1,
+.initial-bond.branch-2:hover:not(.rankable) ~ .terminal-atom-2.branch-2,
+.initial-bond.branch-3:hover:not(.rankable) ~ .terminal-atom-3.branch-3,
+.initial-bond.branch-4:hover:not(.rankable) ~ .terminal-atom-4.branch-4,
+.initial-bond.active-branch.branch-1:not(.rankable) ~ .terminal-atom-1.branch-1.active-branch,
+.initial-bond.active-branch.branch-2:not(.rankable) ~ .terminal-atom-2.branch-2.active-branch,
+.initial-bond.active-branch.branch-3:not(.rankable) ~ .terminal-atom-3.branch-3.active-branch,
+.initial-bond.active-branch.branch-4:not(.rankable) ~ .terminal-atom-4.branch-4.active-branch {
+	/* outline: lightcoral solid medium; */
+    fill: white !important;
+	/* fill-opacity: 1;
+	stroke-opacity: 0 !important;
+	border-radius: 50%; */
+    stroke: lightcoral !important;
+    stroke-width: 3px !important;
+}
+
+.initial-bond.branch-1:hover:not(.rankable) ~ .terminal-atom-1.branch-1.used-1,
+.initial-bond.branch-2:hover:not(.rankable) ~ .terminal-atom-2.branch-2.used-2,
+.initial-bond.branch-3:hover:not(.rankable) ~ .terminal-atom-3.branch-3.used-3,
+.initial-bond.branch-4:hover:not(.rankable) ~ .terminal-atom-4.branch-4.used-4,
+.initial-bond.active-branch.branch-1:not(.rankable) ~ .terminal-atom-1.branch-1.active-branch.used-1,
+.initial-bond.active-branch.branch-2:not(.rankable) ~ .terminal-atom-2.branch-2.active-branch.used-2,
+.initial-bond.active-branch.branch-3:not(.rankable) ~ .terminal-atom-3.branch-3.active-branch.used-3,
+.initial-bond.active-branch.branch-4:not(.rankable) ~ .terminal-atom-4.branch-4.active-branch.used-4 {
+	fill: lightsteelblue !important;
+}
+
+.initial-bond.branch-1:not(.rankable) ~ .terminal-atom-1.branch-1.active-branch:hover,
+.initial-bond.branch-2:not(.rankable) ~ .terminal-atom-2.branch-2.active-branch:hover,
+.initial-bond.branch-3:not(.rankable) ~ .terminal-atom-3.branch-3.active-branch:hover,
+.initial-bond.branch-4:not(.rankable) ~ .terminal-atom-4.branch-4.active-branch:hover {
+    fill: cyan !important;
+}
+
+.cip-circle {
+	stroke: teal;
+	fill: white;
+    fill-opacity: 75%;
+	stroke-width: 0.2%;
+    /* visibility: hidden; */
+    /* pointer-events: none; */
+}
+
+.cip-priority {
+    text-anchor: middle;
+    stroke:none;
+    fill:#000000;
+    font-family: sans-serif;
+    /* visibility: hidden; */
+    /* pointer-events: none; */
+}
+
+/* #assign-priorities {
+    display: hidden;
+} */
+
+canvas {
+    margin-top: 12px;
+    align-self: center;
+}
+/* .stereo-R, .stereo-S, .note {
+    visibility: hidden;
+} */
+
+li.molecule {
+	text-decoration: underline;
+	cursor: pointer;
+	text-underline-offset: 2px;
+}

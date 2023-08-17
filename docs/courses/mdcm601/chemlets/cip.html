@@ -1,0 +1,55 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link href="ChemDoodleWeb/ChemDoodleWeb.css" rel="stylesheet" type="text/css" />
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <link href="cip.css" rel="stylesheet" />
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <div id="initial-selection">
+                <p>Click on any of the following molecules.</p>
+                <ul id="molecule-list"></ul>
+            </div>
+
+            <div id="after-selection" hidden>
+                <p id="problem-statement">
+                    Assign a descriptor (<i>R</i> or <i>S</i>) to every stereocenter in this molecule.
+                </p>
+                <button id="select-another">Choose another molecule</button>
+                <div class="molecule-container">
+                    <div id="molecule"></div>
+                    <canvas id="3DModel"></canvas>
+                </div>
+                <p id="feedback"></p>
+                <button id="assign-priorities" disabled autocomplete="off">Verify priorities</button>
+                <button id="help-assign-priorities" disabled autocomplete="off">Help me assign priorities</button>
+                <form id="assign-stereocenter" hidden>
+                    <fieldset>
+                        <legend>Is the stereocenter <i>R</i> or <i>S</i>?</legend>
+                        <div>
+                            <input type="radio" id="r-descriptor" name="descriptor" value="R" checked />
+                            <label for="r-descriptor"><i>R</i></label>
+                            <input type="radio" id="s-descriptor" name="descriptor" value="S"/>
+                            <label for="s-descriptor"><i>S</i></label>
+                        </div>
+                        <div>
+                            <button type="submit">Verify answer</button>
+                        </div>
+                    </fieldset>
+                </form>
+            </div>  
+        </main>
+        <script src="elements.js" defer></script>
+        <script src="ChemDoodleWeb/ChemDoodleWeb.js" type="text/javascript" defer></script>
+        <script src="cip.js" defer></script>
+        <!-- <script type="module" src="molecule.js" defer></script> -->
+    </body>
+</html>

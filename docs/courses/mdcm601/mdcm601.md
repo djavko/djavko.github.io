@@ -12,3 +12,6 @@ permalink: /courses/mdcm601/mdcm601
 4. Protein translation and trafficking
 5. Enzymes and inhibition
 6. Kinetics 
+
+### Chemlets
+[Exercises for aromaticity and stereochemistry.](/courses/mdcm601/chemlets/chemlets.html)
