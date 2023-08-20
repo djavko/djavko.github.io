@@ -1,162 +1,3 @@
-
-// let molblock = `Molecule from ChemDoodle Web Components
-//      RDKit          2D
-
-//   0  0  0  0  0  0  0  0  0  0999 V3000
-// M  V30 BEGIN CTAB
-// M  V30 COUNTS 21 21 0 0 0
-// M  V30 BEGIN ATOM
-// M  V30 1 O 0.866000 -1.500000 0.000000 0
-// M  V30 2 C 0.000000 -2.000000 0.000000 0
-// M  V30 3 O 0.000000 -3.000000 0.000000 0
-// M  V30 4 C -0.866000 -1.500000 0.000000 0
-// M  V30 5 C -0.866000 -0.500000 0.000000 0
-// M  V30 6 C -1.732100 0.000000 0.000000 0
-// M  V30 7 O -1.732100 1.000000 0.000000 0
-// M  V30 8 C -0.866000 1.500000 0.000000 0
-// M  V30 9 C -0.866000 2.500000 0.000000 0
-// M  V30 10 O 0.000000 3.000000 0.000000 0
-// M  V30 11 O -1.732100 3.000000 0.000000 0
-// M  V30 12 C 0.000000 1.000000 0.000000 0
-// M  V30 13 C -2.598100 -0.500000 0.000000 0
-// M  V30 14 O -3.464100 0.000000 0.000000 0
-// M  V30 15 C -2.598100 -1.500000 0.000000 0
-// M  V30 16 C -1.732100 -2.000000 0.000000 0
-// M  V30 17 C 0.866000 1.500000 0.000000 0
-// M  V30 18 C 1.732100 1.000000 0.000000 0
-// M  V30 19 C 2.598100 1.500000 0.000000 0
-// M  V30 20 C 3.464100 1.000000 0.000000 0
-// M  V30 21 Cl 1.732100 0.000000 0.000000 0
-// M  V30 END ATOM
-// M  V30 BEGIN BOND
-// M  V30 1 2 1 2
-// M  V30 2 1 2 3
-// M  V30 3 1 2 4
-// M  V30 4 2 4 5
-// M  V30 5 1 5 6
-// M  V30 6 1 6 7 CFG=1
-// M  V30 7 1 7 8
-// M  V30 8 1 8 9
-// M  V30 9 2 9 10
-// M  V30 10 1 9 11
-// M  V30 11 2 8 12
-// M  V30 12 1 6 13
-// M  V30 13 1 13 14 CFG=3
-// M  V30 14 1 13 15
-// M  V30 15 2 15 16
-// M  V30 16 1 16 4
-// M  V30 17 1 12 17
-// M  V30 18 2 17 18
-// M  V30 19 1 18 19
-// M  V30 20 1 19 20
-// M  V30 21 1 18 21
-// M  V30 END BOND
-// M  V30 END CTAB
-// M  END`;
-
-// molblock = `Molecule from ChemDoodle Web Components
-
-// http://www.ichemlabs.com
-//  14 14  0  0  0  0            999 V2000
-//     0.9267    0.4466    0.0000 O   0  0  0  0  0  0
-//     1.1547   -0.1799    0.0000 C   0  0  0  0  0  0
-//     0.4982   -0.0641    0.0000 C   0  0  0  0  0  0
-//     0.2702   -0.6906    0.0000 H   0  0  0  0  0  0
-//    -0.0792    0.2692    0.0000 C   0  0  0  0  0  0
-//    -0.6565    0.6025    0.0000 O   0  0  0  0  0  0
-//    -1.2339    0.2692    0.0000 C   0  0  0  0  0  0
-//     1.8112   -0.0641    0.0000 H   0  0  0  0  0  0
-//     1.1547   -0.8466    0.0000 H   0  0  0  0  0  0
-//    -1.2339   -0.3975    0.0000 H   0  0  0  0  0  0
-//    -1.8112   -0.0641    0.0000 H   0  0  0  0  0  0
-//    -1.8112    0.6025    0.0000 H   0  0  0  0  0  0
-//    -0.4125   -0.3081    0.0000 H   0  0  0  0  0  0
-//     0.2541    0.8466    0.0000 H   0  0  0  0  0  0
-//   1  2  1  0  0  0  0
-//   2  3  1  0  0  0  0
-//   3  1  1  0  0  0  0
-//   3  4  1  1  0  0  0
-//   3  5  1  6  0  0  0
-//   5  6  1  0  0  0  0
-//   6  7  1  0  0  0  0
-//   2  8  1  0  0  0  0
-//   2  9  1  0  0  0  0
-//   7 10  1  0  0  0  0
-//   7 11  1  0  0  0  0
-//   7 12  1  0  0  0  0
-//   5 13  1  0  0  0  0
-//   5 14  1  0  0  0  0
-// M  END`;
-
-// molblock = `
-//  OpenBabel06302317183D
-
-//  31 30  0  0  1  0  0  0  0  0999 V2000
-//    -0.1064    0.3997    0.1459 C   0  0  2  0  0  0  0  0  0  0  0  0
-//     1.4413    0.4830   -0.1063 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.7530    1.6385   -0.5544 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.5099    0.5029    1.6682 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.7076   -0.8728   -0.5165 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.1352    1.4772    2.0512 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.0554   -0.5316    2.7132 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -1.6206    0.5374    1.7296 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.4288   -0.8862   -1.9033 O   0  0  0  0  0  0  0  0  0  0  0  0
-//    -1.8094   -0.8707   -0.3438 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.2693   -1.7754   -0.0490 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     1.8599    1.3533    0.4442 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     1.6066    0.6726   -1.1905 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     2.2913   -0.7597    0.1958 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.2471    2.8424   -0.0072 O   0  0  0  0  0  0  0  0  0  0  0  0
-//    -1.8585    1.5986   -0.4155 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.5336    1.5937   -1.6467 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     1.0385   -0.5578    2.8327 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.7220   -2.1678    2.4765 Cl  0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.4428   -0.1963    3.6992 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     2.2892   -1.0551    1.2526 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     3.3467   -0.5423   -0.0732 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     1.9685   -1.6233   -0.4204 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.7089    3.9521   -0.7482 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -1.0068   -2.0301   -2.4892 C   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.7748   -2.0208   -3.5738 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -2.1152   -2.0182   -2.3932 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.5699   -2.9642   -2.0711 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -0.6887    4.8417   -0.0859 H   0  0  0  0  0  0  0  0  0  0  0  0
-//    -1.7655    3.8462   -1.0861 H   0  0  0  0  0  0  0  0  0  0  0  0
-//     0.3720    4.2712   -2.1303 Cl  0  0  0  0  0  0  0  0  0  0  0  0
-//   1  2  1  6  0  0  0
-//   1  3  1  0  0  0  0
-//   1  4  1  0  0  0  0
-//   1  5  1  0  0  0  0
-//   2 12  1  0  0  0  0
-//   2 13  1  0  0  0  0
-//   2 14  1  0  0  0  0
-//   3 15  1  0  0  0  0
-//   3 16  1  0  0  0  0
-//   3 17  1  0  0  0  0
-//   4  6  1  0  0  0  0
-//   4  7  1  0  0  0  0
-//   4  8  1  0  0  0  0
-//   5  9  1  0  0  0  0
-//   5 10  1  0  0  0  0
-//   5 11  1  0  0  0  0
-//   7 18  1  0  0  0  0
-//   7 19  1  0  0  0  0
-//   7 20  1  0  0  0  0
-//   9 25  1  0  0  0  0
-//  14 21  1  0  0  0  0
-//  14 22  1  0  0  0  0
-//  14 23  1  0  0  0  0
-//  15 24  1  0  0  0  0
-//  24 29  1  0  0  0  0
-//  24 30  1  0  0  0  0
-//  24 31  1  0  0  0  0
-//  25 26  1  0  0  0  0
-//  25 27  1  0  0  0  0
-//  25 28  1  0  0  0  0
-// M  END
-// `;
-
-
 const main = document.querySelector('main');
 const moleculeList = document.getElementById('molecule-list');
 
@@ -166,8 +7,8 @@ initRDKitModule().then(function (instance) {
 });
 
 let cipData = {};
-const load3DModelWithChemDoodle = molblock => {
-    let transformBallAndStick = new ChemDoodle.TransformCanvas3D('3DModel', 250, 250);
+const load3DModelWithChemDoodle = ({ molblock, cipData }) => {
+    let transformBallAndStick = new ChemDoodle.TransformCanvas3D('3DModel', cipData.width, 400);
     transformBallAndStick.styles.set3DRepresentation('Ball and Stick');
     transformBallAndStick.styles.backgroundColor = 'black';
     let chemDoodleMol = ChemDoodle.readMOL(molblock, 1);
@@ -194,9 +35,9 @@ const loadMoleculeWithRDKit = ({ molblock, cipData }) => {
     // mdetails['atomLabels'] = { 0: '1', 1: 'Y'};
     // mdetails['addStereoAnnotation'] = true;
     mdetails['highlightColour'] = [1,1,1];
-    mdetails['width'] = 400;
+    mdetails['width'] = cipData.width == undefined ? 200 : cipData.width;
     // mdetails['width'] = 800;
-    mdetails['height'] = 400;
+    mdetails['height'] = cipData.height == undefined ? 200 : cipData.height;
     // mdetails['height'] = Math.floor(document.body.offsetWidth * 0.5);
     // mdetails['highlightBondWidthMultiplier'] = 16;
     mdetails['useMolBlockWedging'] = true;
@@ -510,114 +351,16 @@ const loadMoleculeWithRDKit = ({ molblock, cipData }) => {
                                             addToSortedAtomList(sortedTerminalAtoms[branchIdx], [newTerminalAtomIdx, z, duplicate, dist]);
                                         }
                                     });
-                                    // terminalAtom.classList.remove(`used-${branchIdx}`);
-                                    // if (!newTerminalAtoms.includes(atomIdx)) {
-                                    //     terminalAtom.classList.remove(`terminal-atom-${branchIdx}`);
-                                    //     terminalAtom.removeAttribute(`from-bond-${branchIdx}`);
-                                    //     terminalAtom.removeAttribute(`multiplicity-${branchIdx}`);
-                                    // }
+                                   
                                 } 
-                                // else {
-                                //     // console.log('moving to next iteration');
-                                //     // MOVING TO NEXT SELECTION OF TERMINAL ATOMS
-                                //     if (parseInt(terminalAtom.getAttribute(`multiplicity-${branchIdx}`)) == 0)
-                                //             terminalAtom.classList.add(`used-${branchIdx}`);
-
-                                // }
+                                
                             } 
-                            // else if (assignment != 't') {
-                            //     terminalAtom.classList.remove(`terminal-atom-${branchIdx}`);
-                            //     terminalAtom.classList.remove(`used-${branchIdx}`);
-                            //     terminalAtom.removeAttribute(`from-bond-${branchIdx}`);
-                            //     terminalAtom.removeAttribute(`multiplicity-${branchIdx}`);
-                            // }
-                            // if (terminalAtom.classList.contains(`selected-${branchIdx}`))
-                            //     terminalAtom.classList.remove(`selected-${branchIdx}`);
                         });
-                        // document.querySelectorAll(`.terminal-atom-${branchIdx}`).forEach(terminalAtom => {
-                        //     const atomIdx = getAtomIdx(terminalAtom);
-                        //     const adjacentBonds = getAdjacentBonds(atomIdx);
-                        //     if (assignment == 'T') {
-                        //         if (movingToNextSphere) {
-                        //             console.log('moving to next sphere');
-                        //             console.log(`terminal atom is ${atomIdx}`);
-                                    
-                        //             // MOVING TO NEXT SPHERE
-                        //             adjacentBonds.forEach(adjacentBond => {
-                        //                 console.log(`adjacent bond is ${adjacentBond.bondIdx}`);
-                        //                 if (adjacentBond.bondIdx != parseInt(terminalAtom.getAttribute(`from-bond-${branchIdx}`))) {
-                        //                     console.log(`which is not the same as ${parseInt(terminalAtom.getAttribute(`from-bond-${branchIdx}`))}`);
-                        //                     document.querySelector(`.bond-${adjacentBond.bondIdx}.bond-highlight:not(.initial-bond)`).classList.add(`branch-${branchIdx}`);
-                        //                     console.log(`adding bond ${adjacentBond.bondIdx} to branch ${branchIdx}`);
-                        //                     const newTerminalAtom = document.querySelector(`.atom-${adjacentBond.otherAtomIdx}.atom-highlight`);
-                        //                     console.log(`adding ${adjacentBond.otherAtomIdx} as a terminal atom`);
-                        //                     newTerminalAtom.classList.add(`branch-${branchIdx}`);
-                        //                     newTerminalAtom.classList.add(`terminal-atom-${branchIdx}`);
-                        //                     if (newTerminalAtom.hasAttribute(`dist-${branchIdx}`)) {
-                        //                         newTerminalAtom.classList.add(`duplicate-${branchIdx}`);
-                        //                         console.log(`${adjacentBond.otherAtomIdx} has been seen twice in branch ${branchIdx}`);
-                        //                     } else {
-                        //                         newTerminalAtom.setAttribute(`dist-${branchIdx}`, `${parseInt(terminalAtom.getAttribute(`dist-${branchIdx}`)) + 1}`);
-                        //                     }
-                        //                     newTerminalAtom.setAttribute(`from-bond-${branchIdx}`,`${adjacentBond.bondIdx}`);
-                        //                     newTerminalAtom.setAttribute(`multiplicity-${branchIdx}`, `${getBondOrder(adjacentBond.bondIdx)}`);
-                        //                     const dist = newTerminalAtom.getAttribute(`dist-${branchIdx}`);
-                        //                     const duplicate = newTerminalAtom.classList.contains(`duplicate-${branchIdx}`);
-                        //                     const newTerminalAtomIdx = getAtomIdx(newTerminalAtom);
-                        //                     newTerminalAtoms.push(newTerminalAtomIdx);
-                        //                     const z = getZ(newTerminalAtomIdx);
-                        //                     addToSortedAtomList(sortedTerminalAtoms[branchIdx], [newTerminalAtomIdx, z, duplicate, dist]);
-                        //                 }
-                        //             });
-                        //             terminalAtom.classList.remove(`used-${branchIdx}`);
-                        //             if (!newTerminalAtoms.includes(atomIdx)) {
-                        //                 terminalAtom.classList.remove(`terminal-atom-${branchIdx}`);
-                        //                 terminalAtom.removeAttribute(`from-bond-${branchIdx}`);
-                        //                 terminalAtom.removeAttribute(`multiplicity-${branchIdx}`);
-                        //             }
-                        //         } else {
-                        //             // console.log('moving to next iteration');
-                        //             // MOVING TO NEXT SELECTION OF TERMINAL ATOMS
-                        //             if (parseInt(terminalAtom.getAttribute(`multiplicity-${branchIdx}`)) == 0)
-                        //                     terminalAtom.classList.add(`used-${branchIdx}`);
-
-                        //         }
-                        //     } else if (assignment != 't') {
-                        //         terminalAtom.classList.remove(`terminal-atom-${branchIdx}`);
-                        //         terminalAtom.classList.remove(`used-${branchIdx}`);
-                        //         terminalAtom.removeAttribute(`from-bond-${branchIdx}`);
-                        //         terminalAtom.removeAttribute(`multiplicity-${branchIdx}`);
-                        //     }
-                        //     if (terminalAtom.classList.contains(`selected-${branchIdx}`))
-                        //         terminalAtom.classList.remove(`selected-${branchIdx}`);
-                        // });
 
                         if (movingToNextSphere && assignment == 'T') sortedTerminalAtoms[branchIdx] = sortedTerminalAtoms[branchIdx].map(priorityGroup=>priorityGroup.map(terminalAtomData=>terminalAtomData[0]));                        
 
                     });
-                    // console.log(sortedTerminalAtoms);
-
-                    //Clean up used terminal atoms.
-                    // const newTerminalAtoms = Object.values(sortedTerminalAtoms).flat().flat()
-                    // // Object.values(sortedTerminalAtoms).map(branch=>branch.map(terminalAtom=>terminalAtom[0])).flat();
-                    // // console.log(sortedTerminalAtoms.flat());
-                    // Object.entries(correctAssignment).forEach(entry => {
-                    //     const branchIdx = entry[0];
-                    //     const assignment = entry[1];
-                    //     document.querySelectorAll(`.terminal-atom-${branchIdx}`).forEach(terminalAtom => {
-                    //         if (assignment != 't') {
-                    //             terminalAtom.classList.remove(`used-${branchIdx}`);
-                    //             const atomIdx = getAtomIdx(terminalAtom);
-                    //             if (!newTerminalAtoms.includes(atomIdx)) {
-                    //                 terminalAtom.classList.remove(`terminal-atom-${branchIdx}`);
-                    //                 terminalAtom.removeAttribute(`from-bond-${branchIdx}`);
-                    //                 terminalAtom.removeAttribute(`multiplicity-${branchIdx}`);
-                    //             }
-                    //         }
-                    //     });
-                    // });
-
-
+                    
                     // Hide priority assignment.
                     document.querySelectorAll('.cip-priority, .cip-circle').forEach(elem => {
                         if (elem.tagName == 'circle') {
@@ -635,9 +378,10 @@ const loadMoleculeWithRDKit = ({ molblock, cipData }) => {
                             const selectedAtom = document.querySelector(`.selected-${branchIdx}`);
                             if (selectedAtom) selectedAtom.classList.remove(`selected-${branchIdx}`);
                         });
-                        document.getElementById('3DModel').removeAttribute('hidden');
+                        document.getElementById('model-container').style.setProperty('display','flex');;
                     }
                     document.getElementById('assign-stereocenter').removeAttribute('hidden');
+                    document.getElementById('help-assign-priorities').setAttribute('disabled','');
                     feedback.textContent = `A priority has been assigned to each substituent. Click and drag to rotate the 3D model of the molecule
                     until the substituent with the lowest priority (4) is pointing away from you. Then, determine whether the substituents with priorities 
                     1, 2 and 3 are arranged in a clockwise or counterclockwise direction around the stereocenter. Based on this direction, determine whether the 
@@ -828,7 +572,7 @@ const loadMoleculeWithRDKit = ({ molblock, cipData }) => {
  
                 sortedTerminalAtoms[branchIdx] = [[adjacentBond.otherAtomIdx]];                
             });
-            document.getElementById('3DModel').toggleAttribute('hidden');
+            document.getElementById('model-container').style.setProperty('display','none');
             document.querySelectorAll('.cip-priority, .cip-circle').forEach(elem => {
                 if (elem.classList.contains('cip-priority'))
                     elem.textContent = 'T';
@@ -914,6 +658,9 @@ const loadMoleculeWithRDKit = ({ molblock, cipData }) => {
                     If you need help assigning priorities, click on "Help me assign priorities".`;
                 }
             } else {
+                document.querySelectorAll('.atom-highlight').forEach(elem => {
+                    if (elem.hasAttribute('error')) elem.removeAttribute('error');
+                });
                 event.target.toggleAttribute('error');
                 feedback.textContent = `This ${atomName} atom is not a stereocenter since it is not bonded to 4 different substituents.`;
             }
@@ -952,7 +699,12 @@ const handleOptimizedMolFileData = optimizedMolFileRequest => {
     if (optimizedMolFileRequest.readyState === XMLHttpRequest.DONE) {
         if (optimizedMolFileRequest.status === 200) {
             const molFile = optimizedMolFileRequest.responseText;
-            load3DModelWithChemDoodle(molFile);
+            const selectedMolecule = document.querySelector('.selected');
+            const moleculeName = selectedMolecule.textContent;
+            load3DModelWithChemDoodle({ 
+                molblock: molFile, 
+                cipData: cipData[moleculeName],
+            });
         } else {
             alert("There was a problem finding the necessary data.");
         }

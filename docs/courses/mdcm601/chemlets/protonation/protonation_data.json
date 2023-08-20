@@ -1,0 +1,86 @@
+{
+    "molecules": [
+        {
+            "name": "L-Aspartic acid",
+            "fileName": "aspartic_acid.mol",
+            "protonation": [
+                { "atoms": [4], "pKas": [1.92], "state": 0 },
+                { "atoms": [5], "pKas": [9.87], "state": 1 },
+                { "atoms": [8], "pKas": [3.87], "state": 0 }
+            ],
+            "exclude": [],
+            "height": 200,
+            "width": 400
+        },
+        {
+            "name": "L-Lysine",
+            "fileName": "lysine.mol",
+            "protonation": [
+                { "atoms": [4], "pKas": [2.18], "state": 0 },
+                { "atoms": [5], "pKas": [8.95], "state": 1 },
+                { "atoms": [9], "pKas": [10.53], "state": 1 }
+            ],
+            "exclude": [],
+            "height": 200,
+            "width": 400
+        },
+        {
+            "name": "L-Histidine",
+            "fileName": "histidine.mol",
+            "protonation": [
+                { "atoms": [4], "pKas": [1.78], "state": 0 },
+                { "atoms": [10], "pKas": [5.97], "state": 1 },
+                { "atoms": [5], "pKas": [8.97], "state": 1 }
+            ],
+            "exclude": [],
+            "height": 200,
+            "width": 400
+        },
+        {
+            "name": "L-Tyrosine",
+            "fileName": "tyrosine.mol",
+            "protonation": [
+                { "atoms": [2], "pKas": [2.20], "state": 0 },
+                { "atoms": [5], "pKas": [9.11], "state": 1 },
+                { "atoms": [13], "pKas": [10.07], "state": 0 }
+            ],
+            "exclude": [],
+            "height": 200,
+            "width": 400
+        },
+        {
+            "name": "L-Cysteine",
+            "fileName": "cysteine.mol",
+            "protonation": [
+                { "atoms": [4], "pKas": [1.71], "state": 0 },
+                { "atoms": [5], "pKas": [8.33], "state": 1 },
+                { "atoms": [6], "pKas": [10.78], "state": 0 }
+            ],
+            "exclude": [],
+            "height": 200,
+            "width": 400
+        },
+        {
+            "name": "L-Glutamic acid",
+            "fileName": "glutamic_acid.mol",
+            "protonation": [
+                { "atoms": [2], "pKas": [2.19], "state": 0 },
+                { "atoms": [7], "pKas": [4.25], "state": 0 },
+                { "atoms": [9], "pKas": [9.67], "state": 1 }
+            ],
+            "exclude": [],
+            "height": 200,
+            "width": 400
+        },
+        {
+            "name": "Phosphoric acid",
+            "fileName": "phosphoric_acid.mol",
+            "protonation": [
+                { "atoms": [1, 2, 4], "pKas": [2.15, 7.09, 12.32], "state": 0 }
+            ],
+            "exclude": [0],
+            "height": 200,
+            "width": 400
+        }
+    ]
+}

@@ -24,10 +24,6 @@ exclude: true
                     Assign a descriptor (<i>R</i> or <i>S</i>) to every stereocenter in this molecule.
                 </p>
                 <button id="select-another">Choose another molecule</button>
-                <div class="molecule-container">
-                    <div id="molecule"></div>
-                    <canvas id="3DModel"></canvas>
-                </div>
                 <p id="feedback"></p>
                 <button id="assign-priorities" disabled autocomplete="off">Verify priorities</button>
                 <button id="help-assign-priorities" disabled autocomplete="off">Help me assign priorities</button>
@@ -45,6 +41,13 @@ exclude: true
                         </div>
                     </fieldset>
                 </form>
+                <div class="molecule-container">
+                    <div id="molecule"></div>
+                    <div id="model-container">
+                        <canvas id="3DModel"></canvas>
+                        <p>Rotate by clicking and dragging, translate by holding the alt key and clicking and dragging and scale using the mouse wheel.</p>
+                    </div>
+                </div>
             </div>  
         </main>
         <script src="elements.js" defer></script>
