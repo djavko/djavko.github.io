@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <link href="protonation.css" rel="stylesheet" />
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <div id="initial-selection">
+                <p>Click on any of the following molecules.</p>
+                <ul id="molecule-list"></ul>
+            </div>
+            <div id="after-selection" hidden>
+                <p id="problem-statement">
+                </p>
+                <p>Hint: Search for the molecule in <a target="_blank" href="https://pubchem.ncbi.nlm.nih.gov/">PubChem</a> and find its dissociation constants (pKa values).</p>
+                <button id="select-another">Choose another molecule</button>
+                <div class="molecule-container">
+                    <div id="molecule"></div>
+                </div>
+                <button id="check-answer">Verify answer</button>
+                <p id="feedback"></p>  
+            </div>
+        </main>
+        <script src="protonation.js" defer></script>
+        <!-- <script type="module" src="molecule.js" defer></script> -->
+    </body>
+</html>
