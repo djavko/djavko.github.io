@@ -170,6 +170,10 @@ svg {
 /* #assign-priorities {
     display: hidden;
 } */
+#model-container {
+    display: flex;
+    flex-direction: column;
+}
 
 canvas {
     margin-top: 12px;
@@ -183,4 +187,20 @@ li.molecule {
 	text-decoration: underline;
 	cursor: pointer;
 	text-underline-offset: 2px;
+}
+
+#assign-stereocenter {
+    margin-top: 18px;
+}
+
+#select-another::before {
+    content: "← ";
+}
+
+button[type=submit] {
+    margin-top: 12px;
+}
+
+label[for=r-descriptor] {
+    margin-right: 18px;
 }
