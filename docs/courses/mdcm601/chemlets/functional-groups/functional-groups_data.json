@@ -3,7 +3,7 @@
         {
             "name": "Penicillin G",
             "fileName": "penicillinG.mol",
-            "functionalGroups": ["amide", "carboxylic acid"],
+            "functionalGroups": ["amide", "carboxylic acid", "beta lactam"],
             "width": 400,
             "height": 250
         },
@@ -31,77 +31,77 @@
         {
             "name": "acalabrutinib",
             "fileName": "acalabrutinib.mol",
-            "functionalGroups": ["alkyne", "amide", "phenyl", "amine", "amide"],
+            "functionalGroups": ["alkyne", "amide", "pyridine", "amine", "amide", "p-phenylene"],
             "width": 500,
             "height": 300
         },
         {
             "name": "valsartan",
             "fileName": "valsartan.mol",
-            "functionalGroups": ["tetrazole"],
+            "functionalGroups": ["tetrazole", "amide", "carboxylic acid", "p-phenylene"],
             "width": 500,
             "height": 300
         },
         {
             "name": "zanubrutinib",
             "fileName": "zanubrutinib.mol",
-            "functionalGroups": ["diaryl ether", "alpha,beta-unsaturated amide"],
+            "functionalGroups": ["diaryl ether", "alpha,beta-unsaturated amide", "amide", "amine", "p-phenylene"],
             "width": 500,
             "height": 400
         },
         {
             "name": "rivaroxaban",
             "fileName": "rivaroxaban.mol",
-            "functionalGroups": ["cyclic carbamate", "thiophene"],
+            "functionalGroups": ["cyclic carbamate", "thiophene", "amide", "p-phenylene"],
             "width": 500,
             "height": 500
         },
         {
             "name": "enzalutamide",
             "fileName": "enzalutamide.mol",
-            "functionalGroups": ["nitrile", "thiourea"],
+            "functionalGroups": ["nitrile", "thiourea", "amide", "trifluoroaryl"],
             "width": 500,
             "height": 300
         },
         {
             "name": "lenvatinib",
             "fileName": "lenvatinib.mol",
-            "functionalGroups": ["cyclopropylamine", "urea"],
+            "functionalGroups": ["cyclopropylamine", "urea", "methyl ether", "amide", "diaryl ether"],
             "width": 500,
             "height": 300
         },
         {
             "name": "fingolimod",
             "fileName": "fingolimod.mol",
-            "functionalGroups": ["n-octyl"],
+            "functionalGroups": ["n-octyl", "p-phenylene", "vicinal aminoalcohol", "hydroxyl", "amine"],
             "width": 500,
             "height": 300
         },
         {
             "name": "teriflunomide",
             "fileName": "teriflunomide.mol",
-            "functionalGroups": ["trifluoroaryl"],
+            "functionalGroups": ["trifluoroaryl", "amide", "nitrile", "p-phenylene"],
             "width": 500,
             "height": 300
         },
         {
             "name": "tenofovir disoproxil",
             "fileName": "tenofovir_disoproxil.mol",
-            "functionalGroups": ["phosphonate ester"],
+            "functionalGroups": ["phosphonate ester", "carbonate ester"],
             "width": 500,
             "height": 500
         },
         {
             "name": "formoterol",
             "fileName": "formoterol.mol",
-            "functionalGroups": ["vicinal aminoalcohol"],
+            "functionalGroups": ["vicinal aminoalcohol","amide","p-phenylene", "methyl ether", "hydroxyl", "amine"],
             "width": 500,
             "height": 300
         },
         {
             "name": "esomeprazole",
             "fileName": "esomeprazole.mol",
-            "functionalGroups": ["sulfoxide"],
+            "functionalGroups": ["sulfoxide", "methyl ether", "pyridine"],
             "width": 500,
             "height": 300
         }
