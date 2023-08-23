@@ -241,7 +241,8 @@ const loadMoleculeWithRDKit = ({ molblock, resonanceData }) => {
     mdetails['legend'] = moleculeName;
     // mdetails['addAtomIndices'] = true;
     mdetails['highlightColour'] = [1,1,1];
-    mdetails['width'] = 400;
+    mdetails['width'] = resonanceData.width;
+    mdetails['height'] = resonanceData.height;
     mdetails['highlightBondWidthMultiplier'] = 16; 
 
     dest.innerHTML= rdkitMol.get_svg_with_highlights(JSON.stringify(mdetails));

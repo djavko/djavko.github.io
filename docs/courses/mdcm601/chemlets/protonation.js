@@ -20,7 +20,7 @@ const loadMoleculeWithRDKit = ({ molblock, protonationData }) => {
     while (pKaValues.includes(pH))
         pH = (Math.random() * (max_pKa - min_pKa) + min_pKa).toFixed(2);
 
-    document.getElementById('problem-statement').textContent = `What is the prevalent protonation state of the molecule shown below in an aqueous solution at pH ${pH}?`;
+    document.getElementById('problem-statement').textContent = `What is the prevalent protonation state of ${protonationData.name} in an aqueous solution at pH ${pH}?`;
     let rdkitMol = RDKitModule.get_mol(molblock);
 
     let mol = JSON.parse(rdkitMol.get_json());

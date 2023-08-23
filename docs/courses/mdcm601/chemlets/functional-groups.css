@@ -1,0 +1,64 @@
+svg, svg * {
+    pointer-events: none;
+}
+
+
+.bond-highlight, .atom-highlight {
+    pointer-events: all;
+    cursor: pointer;
+}
+
+.bond-highlight:hover, .atom-highlight:hover  {
+    fill: magenta !important;
+}
+
+
+[highlighted] {
+    fill: cyan !important;
+    fill-opacity: 1;
+    stroke-opacity: 0 !important;
+}
+
+.molecule-container {
+    display: flex;
+}
+
+#molecule {
+    margin: 0 auto;
+}
+
+
+.correct {
+    fill: rgb(0, 255, 133) !important;
+}
+
+.incorrect {
+    fill: rgb(255, 133, 133) !important;
+}
+
+.missing {
+    fill: grey !important;
+    fill-opacity: 1;
+    stroke-opacity: 0 !important;
+}
+
+
+li::marker {
+    content: '\2714  ';
+}
+
+.missing::marker{
+    color: grey;
+}
+
+.correct::marker{
+    color: rgb(133, 255, 133);
+}
+
+.incorrect::marker{
+    color: rgb(255, 133, 133);
+}
+
+.disabled {
+    pointer-events: none;
+}
