@@ -1,0 +1,109 @@
+{
+    "molecules": [
+        {
+            "name": "Penicillin G",
+            "fileName": "penicillinG.mol",
+            "functionalGroups": ["amide", "carboxylic acid"],
+            "width": 400,
+            "height": 250
+        },
+        {
+            "name": "L-histidine",
+            "fileName": "histidine.mol",
+            "functionalGroups": ["amine", "carboxylic acid", "imidazole"],
+            "width": 400,
+            "height": 200
+        },
+        {
+            "name": "ribulose 1,5-biphosphate",
+            "fileName": "rubp.mol",
+            "functionalGroups": ["phosphate", "ketone", "hydroxyl"],
+            "width": 500,
+            "height": 200
+        },
+        {
+            "name": "aspartame",
+            "fileName": "aspartame.mol",
+            "functionalGroups": ["phenyl", "carboxylic acid", "ester", "amine", "amide"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "acalabrutinib",
+            "fileName": "acalabrutinib.mol",
+            "functionalGroups": ["alkyne", "amide", "phenyl", "amine", "amide"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "valsartan",
+            "fileName": "valsartan.mol",
+            "functionalGroups": ["tetrazole"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "zanubrutinib",
+            "fileName": "zanubrutinib.mol",
+            "functionalGroups": ["diaryl ether", "alpha,beta-unsaturated amide"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "rivaroxaban",
+            "fileName": "rivaroxaban.mol",
+            "functionalGroups": ["cyclic carbamate", "thiophene"],
+            "width": 500,
+            "height": 500
+        },
+        {
+            "name": "enzalutamide",
+            "fileName": "enzalutamide.mol",
+            "functionalGroups": ["nitrile", "thiourea"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "lenvatinib",
+            "fileName": "lenvatinib.mol",
+            "functionalGroups": ["cyclopropylamine", "urea"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "fingolimod",
+            "fileName": "fingolimod.mol",
+            "functionalGroups": ["n-octyl"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "teriflunomide",
+            "fileName": "teriflunomide.mol",
+            "functionalGroups": ["trifluoroaryl"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "tenofovir disoproxil",
+            "fileName": "tenofovir_disoproxil.mol",
+            "functionalGroups": ["phosphonate ester"],
+            "width": 500,
+            "height": 500
+        },
+        {
+            "name": "formoterol",
+            "fileName": "formoterol.mol",
+            "functionalGroups": ["vicinal aminoalcohol"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "esomeprazole",
+            "fileName": "esomeprazole.mol",
+            "functionalGroups": ["sulfoxide"],
+            "width": 500,
+            "height": 300
+        }
+    ]
+}

@@ -8,42 +8,42 @@
             "width": 600
         },
         {
-            "name": "Sorbose",
+            "name": "sorbose",
             "fileName": "sorbose.mol",
             "priorities": { "1":[12,1,0,13], "2":[9,2,1,8], "3":[10,3,2,11] },
             "height": 200,
             "width": 600
         },
         {
-            "name": "Sphingosine",
+            "name": "sphingosine",
             "fileName": "sphingosine.mol",
             "priorities": { "1":[21,1,0,22], "2":[17,1,2,18] },
             "height": 200,
             "width": 1200
         },
         {
-            "name": "L-Proline",
+            "name": "L-proline",
             "fileName": "proline.mol",
             "priorities": { "1": [0,5,1,8] },
             "height": 200,
             "width": 600
         },
         {
-            "name": "Biotin",
+            "name": "biotin",
             "fileName": "biotin.mol",
             "priorities": { "2": [1,5,2,10], "3": [3,8,2,11], "5": [6,5,12,19] },
             "height": 300,
             "width": 600
         },
         {
-            "name": "L-Tyrosine",
+            "name": "L-tyrosine",
             "fileName": "tyrosine.mol",
             "priorities": { "0": [4,0,5,3] },
             "height": 200,
             "width": 600
         },
         {
-            "name": "Ascorbic acid",
+            "name": "ascorbic acid",
             "fileName": "ascorbic_acid.mol",
             "priorities": { "4":[4,3,9,8], "9": [12,9,10,13] },
             "height": 250,

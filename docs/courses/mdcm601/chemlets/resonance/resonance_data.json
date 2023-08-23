@@ -3,38 +3,52 @@
         {
             "name": "Guanidinium cation",
             "fileName": "guanidinium.mol",
-            "conjugatedLonePairs": { "1":1, "2":1 }
+            "conjugatedLonePairs": { "1":1, "2":1 },
+            "width": 400,
+            "height":200
         },
         {
             "name": "Acetate anion",
             "fileName": "acetate.mol",
-            "conjugatedLonePairs": { "2":1 }
+            "conjugatedLonePairs": { "2":1 },
+            "width": 400,
+            "height":200
         },
         {
             "name": "Phosphate anion",
             "fileName": "phosphate.mol",
             "conjugatedLonePairs": { "2":1, "3":1, "4":1 },
-            "valenceElectrons": { "0": 3 }
+            "valenceElectrons": { "0": 3 },
+            "width": 400,
+            "height":200
         },
         {
             "name": "Naproxen",
             "fileName": "naproxen.mol",
-            "conjugatedLonePairs": { "10":1, "14":1 }
+            "conjugatedLonePairs": { "10":1, "14":1 },
+            "width": 500,
+            "height":250
         },
         {
             "name": "Cytosine",
             "fileName": "cytosine.mol",
-            "conjugatedLonePairs": { "3":1, "7":1 }
+            "conjugatedLonePairs": { "3":1, "7":1 },
+            "width": 500,
+            "height":300
         },
         {
             "name": "Quinine",
             "fileName": "quinine.mol",
-            "conjugatedLonePairs": { "10":1 }
+            "conjugatedLonePairs": { "10":1 },
+            "width": 600,
+            "height":350
         },
         {
             "name": "Ascorbate anion",
             "fileName": "ascorbate.mol",
-            "conjugatedLonePairs": { "6":1 }
+            "conjugatedLonePairs": { "6":1 },
+            "width": 500,
+            "height":300
         }
     ]
 }
