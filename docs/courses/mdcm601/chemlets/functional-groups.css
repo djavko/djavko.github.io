@@ -43,20 +43,23 @@ svg, svg * {
 }
 
 
-li::marker {
+li.missing::marker, li.correct::marker, li.incorrect::marker {
     content: '\2714  ';
 }
 
 .missing::marker{
     color: grey;
+    font: initial;
 }
 
 .correct::marker{
     color: rgb(133, 255, 133);
+    font: initial;
 }
 
 .incorrect::marker{
     color: rgb(255, 133, 133);
+    font: initial;
 }
 
 .disabled {

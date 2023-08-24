@@ -27,6 +27,9 @@ const loadMoleculeWithRDKit = ({ molblock, moleculeData }) => {
     mdetails['height'] = moleculeData.height;
     mdetails['highlightBondWidthMultiplier'] = 16;
     mdetails['useMolBlockWedging'] = true;
+    mdetails['continuousHighlight'] = true;
+    mdetails['fillHighlights'] = true;
+    mdetails['highlightRadius'] = 0.3;
 
     moleculeDiv.innerHTML= rdkitMol.get_svg_with_highlights(JSON.stringify(mdetails));
 
