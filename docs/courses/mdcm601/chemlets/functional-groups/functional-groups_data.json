@@ -33,14 +33,14 @@
             "fileName": "acalabrutinib.mol",
             "functionalGroups": ["alkyne", "amide", "pyridine", "amine", "amide", "p-phenylene"],
             "width": 500,
-            "height": 300
+            "height": 400
         },
         {
             "name": "valsartan",
             "fileName": "valsartan.mol",
             "functionalGroups": ["tetrazole", "amide", "carboxylic acid", "p-phenylene"],
             "width": 500,
-            "height": 300
+            "height": 400
         },
         {
             "name": "zanubrutinib",
@@ -61,13 +61,13 @@
             "fileName": "enzalutamide.mol",
             "functionalGroups": ["nitrile", "thiourea", "amide", "trifluoroaryl"],
             "width": 500,
-            "height": 300
+            "height": 400
         },
         {
             "name": "lenvatinib",
             "fileName": "lenvatinib.mol",
             "functionalGroups": ["cyclopropylamine", "urea", "methyl ether", "amide", "diaryl ether"],
-            "width": 500,
+            "width": 600,
             "height": 300
         },
         {
@@ -103,7 +103,147 @@
             "fileName": "esomeprazole.mol",
             "functionalGroups": ["sulfoxide", "methyl ether", "pyridine"],
             "width": 500,
+            "height": 400
+        },
+        {
+            "name": "bortezomib",
+            "fileName": "bortezomib.mol",
+            "functionalGroups": ["boronic acid", "amide", "phenyl"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "proguanil",
+            "fileName": "proguanil.mol",
+            "functionalGroups": ["biguanide", "p-phenylene", "aniline"],
+            "width": 500,
             "height": 300
+        },
+        {
+            "name": "amlodipine",
+            "fileName": "amlodipine.mol",
+            "functionalGroups": ["ethyl ester", "ester", "amine"],
+            "width": 500,
+            "height": 500
+        },
+        {
+            "name": "hydrochlorothiazide",
+            "fileName": "hydrochlorothiazide.mol",
+            "functionalGroups": ["sulfonamide", "amine"],
+            "width": 500,
+            "height": 300
+        },
+        {
+            "name": "everolimus",
+            "fileName": "everolimus.mol",
+            "functionalGroups": ["conjugated diene", "hydroxyl", "ester", "ketone", "amide", "methyl ether"],
+            "width": 600,
+            "height": 500
+        },
+        {
+            "name": "fluticasone propionate",
+            "fileName": "fluticasone_propionate.mol",
+            "functionalGroups": ["thioester", "hydroxyl", "ketone", "ester"],
+            "width": 500,
+            "height": 500
+        },
+        {
+            "name": "carfilzomib",
+            "fileName": "carfilzomib.mol",
+            "functionalGroups": ["epoxide", "phenyl", "ketone", "amide", "amine"],
+            "width": 500,
+            "height": 500
+        },
+        {
+            "name": "trametinib",
+            "fileName": "trametinib.mol",
+            "functionalGroups": ["aryl iodide", "amide", "urea", "amine", "alpha,beta-unsaturated amide"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "rilpivirine",
+            "fileName": "rilpivirine.mol",
+            "functionalGroups": ["alpha,beta-unsaturated nitrile", "p-phenylene", "amine", "nitrile"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "darunavir",
+            "fileName": "darunavir.mol",
+            "functionalGroups": ["aniline", "phenyl", "sulfonamide", "hydroxyl", "acetal", "carbamate"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "vildagliptin",
+            "fileName": "vildagliptin.mol",
+            "functionalGroups": ["adamantane", "amine", "amide", "hydroxyl", "nitrile"],
+            "width": 400,
+            "height": 400
+        },
+        {
+            "name": "salbutamol",
+            "fileName": "salbutamol.mol",
+            "functionalGroups": ["phenolic hydroxyl", "benzylic hydroxyl", "hydroxyl", "amine", "vicinal aminoalcohol"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "eltrombopag",
+            "fileName": "eltrombopag.mol",
+            "functionalGroups": ["phenolic hydroxyl", "carboxylic acid", "hydroxyl", "hydrazone", "amide"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "carbonyl cyanide-p-trifluoromethoxyphenylhydrazone",
+            "fileName": "fccp.mol",
+            "functionalGroups": ["p-phenylene", "nitrile", "hydrazone"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "dabigatran",
+            "fileName": "dabigatran.mol",
+            "functionalGroups": ["p-phenylene", "ethyl ester", "amide", "aniline", "pyridine", "carbamate"],
+            "width": 600,
+            "height": 400
+        },
+        {
+            "name": "onnamide A",
+            "fileName": "onnamide_a.mol",
+            "functionalGroups": ["carboxylic acid", "amide", "alpha,beta-unsaturated amide", "conjugated diene", "hydroxyl", "methyl ether", "acetal", "exocyclic olefin"],
+            "width": 800,
+            "height": 400
+        },
+        {
+            "name": "sunitinib",
+            "fileName": "sunitinib.mol",
+            "functionalGroups": ["amide", "alpha,beta-unsaturated amide", "amine", "exocyclic olefin"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "azithromycin",
+            "fileName": "azithromycin.mol",
+            "functionalGroups": ["lactone", "hydroxyl", "acetal", "amine", "hydroxyl", "methyl ether"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "etonogestrel",
+            "fileName": "etonogestrel.mol",
+            "functionalGroups": ["ketone", "exocyclic olefin", "hydroxyl", "alkyne"],
+            "width": 500,
+            "height": 400
+        },
+        {
+            "name": "ZB716",
+            "fileName": "ZB716.mol",
+            "functionalGroups": ["hydroxyl", "boronic acid", "sulfoxide"],
+            "width": 700,
+            "height": 400
         }
     ]
 }
