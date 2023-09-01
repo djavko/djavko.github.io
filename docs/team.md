@@ -38,4 +38,4 @@ Former members and positions after Boskovic lab:
 | Koki Takemoto | Abbott Laboratories, Medical Sales Representative |
 | Pawan Dhote | UNC Chapel Hill, postdoc |
 | Bryce Gaskins | Caltech, graduate student |
-| Manvendra Singh | |
+| Manvendra Singh | coming soon |
