@@ -21,4 +21,20 @@ Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective 
 Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
 Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Crystal engineering
 
-Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Ambrosee Wilkinson, Brock Fricke, Alyschia Gaffar, Cybelle Arrey, Koki Takemoto, Pawan Dhote
+Former members and positions after Boskovic lab: 
+| Name | Position |
+| :---   | :--- |
+| Nathan Garza | Real estate |
+| Amar Kumar | KUMC graduate student |
+| Zach Pearson | UCSF Chimera |
+| Sri Kolluru | Acme Biosciences |
+| Matt McCurry | |
+| Tanner Moore | |
+| Vishva Shah | |
+| Ambrosee Wilkinson | |
+| Brock Fricke | |
+| Cybelle Arrey | |
+| Koki Takemoto | Mitsubishi |
+| Pawan Dhote | UNC Chapel Hill, postdoc |
+| Bryce Gaskins | Caltech, graduate student |
+| Manvendra Singh | |
