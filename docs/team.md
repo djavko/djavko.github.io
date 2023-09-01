@@ -25,17 +25,17 @@ Former members and positions after Boskovic lab:
 
 | Name | Position |
 | :---   | :--- |
-| Nathan Garza | Real estate |
-| Amar Kumar | KUMC graduate student |
-| Zach Pearson | UCSF Chimera |
-| Sri Kolluru | Acme Biosciences |
+| Nathan Garza | Real estate agent |
+| Amar Kumar | KUMC, graduate student |
+| Zach Pearson | UCSF Chimera, Software engineer |
+| Sri Kolluru | Frontage Laboratories, Senior research scientist |
 | Matt McCurry | |
-| Tanner Moore | |
-| Vishva Shah | |
+| Tanner Moore | KU, PharmD student |
+| Vishva Shah | KU |
 | Ambrosee Wilkinson | |
-| Brock Fricke | |
-| Cybelle Arrey | |
-| Koki Takemoto | Mitsubishi |
+| Brock Fricke | KU, PharmD student |
+| Cybelle Arrey | AirForce |
+| Koki Takemoto | Abbott Laboratories, Medical Sales Representative |
 | Pawan Dhote | UNC Chapel Hill, postdoc |
 | Bryce Gaskins | Caltech, graduate student |
 | Manvendra Singh | |
