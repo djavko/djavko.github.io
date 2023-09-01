@@ -22,6 +22,7 @@ Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
 Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Crystal engineering
 
 Former members and positions after Boskovic lab: 
+
 | Name | Position |
 | :---   | :--- |
 | Nathan Garza | Real estate |
