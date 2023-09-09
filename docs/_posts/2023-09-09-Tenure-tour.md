@@ -3,7 +3,7 @@ layout: post
 tags: events
 title: Tenure tour
 ---
-Richard Hamming said:
+[Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming) said:
 > The world is supposed to be waiting, and when you do something great, they should rush out and welcome it. But the fact is everyone is busy with their own work. You must present it so well that they will set aside what they are doing, look at what you’ve done, read it, and come back and say, “Yes, that was good.”
 
 Part of the progression from an assistant professor to an associate professor is a series of talks at various departments across the country (and internationally, depending on one's caliber presumably) that came to be known as the Tenure Tour. 
