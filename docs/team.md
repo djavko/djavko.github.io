@@ -22,22 +22,22 @@ Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in 
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
 Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
 Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Crystal engineering
+Jax Rosekrans | | TBD
 
 Former members and positions after Boskovic lab: 
 
-| Name | Position |
-| :---   | :--- |
-| Nathan Garza | Real estate agent |
-| Amar Kumar | KUMC, graduate student |
-| Zach Pearson | UCSF Chimera, Software engineer |
-| Sri Kolluru | Frontage Laboratories, Senior research scientist |
-| Matt McCurry | |
-| Tanner Moore | KU, PharmD student |
-| Vishva Shah | KU |
-| Ambrosee Wilkinson | |
-| Brock Fricke | KU, PharmD student |
-| Cybelle Arrey | AirForce |
-| Koki Takemoto | Abbott Laboratories, Medical Sales Representative |
-| Pawan Dhote | UNC Chapel Hill, postdoc |
-| Bryce Gaskins | Caltech, graduate student |
-| Manvendra Singh | coming soon |
+| Name | Position | Years active
+| :---   | :--- | : ---: |
+| Manvendra Singh | coming soon | 2018 -- 2023 |
+| Bryce Gaskins | Caltech, graduate student | 2020 -- 2023 |
+| Pawan Dhote | UNC Chapel Hill, postdoc | 2022 |
+| Ambrosee Wilkinson | | 2021 -- 2022 |
+| Koki Takemoto | Abbott Laboratories, Medical Sales Representative | 2021 |
+| Cybelle Arrey | AirForce | 2020 -- 2021 |
+| Amar Kumar | KUMC, graduate student | 2020 -- 2021 |
+| Sri Kolluru | Frontage Laboratories, Senior research scientist | 2020 -- 2021 |
+| Vishva Shah | KU | 2019 -- 2021 |
+| Zach Pearson | UCSF Chimera, Software engineer | 2019 -- 2021 |
+| Nathan Garza | Real estate agent | 2018 -- 2020 |
+| Matt McCurry | | 2019 |
+| Tanner Moore | KU, PharmD student | 2019 |
