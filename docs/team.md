@@ -7,7 +7,7 @@ permalink: /team/
 
 |![sunflower](/_assets/DSC_0564.jpeg)|
 |:--:|
-|Snapshot of the team in the Summer 2020 in the field of sunflowers|
+|Snapshot of the team in the Summer 2023 in the field of sunflowers.|
 
 
 *Current members:*
