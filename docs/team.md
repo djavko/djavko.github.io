@@ -5,7 +5,7 @@ permalink: /team/
 ---
 # Team
 
-|![sunflower](/_assets/sunflowers.JPG)|
+|![sunflower](/_assets/DSC_0564.jpeg)|
 |:--:|
 |Snapshot of the team in the Summer 2020 in the field of sunflowers|
 
