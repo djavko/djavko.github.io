@@ -20,6 +20,7 @@ The plan for my own "tenure tour" is in the table below. If you have an opening 
 | January 29, 2024 | University of California, Santa Barbara |
 | January 31, 2024 | University of Southern California |
 | February 2, 2024 | University of California, Riverside |
+| March 10--13, 2024 | FloHet, Gainsville |
 | April 1, 2024 | Boston University |
 
 
