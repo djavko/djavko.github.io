@@ -17,3 +17,11 @@ permalink: /courses/mdcm601/mdcm601
 [Chemlets](/courses/mdcm601/chemlets/chemlets.html) represent exercises built using HTML and Javascript integrated with RDKit that increase undergraduate and professional students’ exposure to molecular structures. The benefits of this educational tool are instantaneous feedback, a   
 multitude of easily generated examples, and streamlined algorithms for thinking about chemistry. Initially, chemlets will cover i) Resonance structures; ii) Cahn-Ingold-Prelog rules;
 iii) Functional groups; iv) Protonation and deprotonation.
+
+### Exams
+#### Introduction, pH, pKa
+[2021](/courses/mdcm601/MDCM601_2021_Exam1_Key.pdf), [2022](/courses/mdcm601/MDCM601_2022_Exam1_Key.pdf), [2023](/courses/mdcm601/MDCM601_2023_Exam1_Key.pdf)
+
+#### Protein Structure and Function
+
+#### Enzymes and Inhibition
