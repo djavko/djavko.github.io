@@ -25,6 +25,7 @@ The plan for my own "tenure tour" is in the table below. If you have an opening 
 | March 27, 2024 | CBTS, Broad Institute, Boston |
 | April 1, 2024 | Boston University |
 | September 17, 2024 | University of Houston |
+| September 18, 2024 | University of Texas, Austin |
 
 
 
