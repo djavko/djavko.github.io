@@ -23,6 +23,7 @@ The plan for my own "tenure tour" is in the table below. If you have an opening 
 | February 5, 2024 | University of California, Irvine |
 | March 10--13, 2024 | FloHet, Gainsville |
 | March 27, 2024 | CBTS, Broad Institute, Boston |
+| March 28, 2024 | UMass Amherst, Amherst |
 | April 1, 2024 | Boston University |
 | September 17, 2024 | University of Houston |
 | September 18, 2024 | University of Texas, Austin |
