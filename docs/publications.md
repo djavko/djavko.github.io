@@ -6,7 +6,6 @@ permalink: /publications/
 # Publications
 
 At the University of Kansas:
-
 9. Bahena Garcia, M.; Singh, M.; Miller, E.; Neuenswander, S.; Douglas, J.; Boskovic, Z. **Twisted Intramolecular Charge-Transfer State Addition to Electron-Poor Olefins**. Journal of Organic Chemistry (in press).
 8. Singh, M.; Dhote, P.; Johnson, D. R.; Figueroa-Lazú, S.; Elles, C. G.; Boskovic, Z. **Photochemical Decarbonylation of Oxetanone and Azetidinone: Spectroscopy, Computational Models, and Synthetic Applications**. Angewandte Chemie International Edition 2023, 62 (3), e202215856. [https://doi.org/10.1002/anie.202215856](https://doi.org/10.1002/anie.202215856).
 7. Singh, M.; Gaskins, B.; Johnson, D. R.; Elles, C. G.; Boskovic, Z. **Synthesis of Cycloheptatriene-Containing Azetidine Lactones**. J. Org. Chem. 2022, 87 (22), 15001–15010. [https://doi.org/10.1021/acs.joc.2c00367](https://doi.org/10.1021/acs.joc.2c00367).
