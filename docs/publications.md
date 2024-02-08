@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 bibliography_list_attributes:
-    reversed: "reversed"
+reversed: "reversed"
 ---
 # Publications
 
