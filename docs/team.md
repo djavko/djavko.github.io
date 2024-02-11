@@ -21,14 +21,15 @@ Bryce Gaskins | ![Bryce](/_assets/bryce.JPG) | Photochemistry and metal catalysi
 Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
 Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
-Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Crystal engineering
-Jax Rosekrans | | TBD
+Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Synthesis and computations
+Jax Rosekrans | | Synthesis
+Ian Shire | | Synthesis
 
 Former members and positions after Boskovic lab: 
 
 | Name | Position | Years active
 | :---   | :--- | : ---: |
-| Manvendra Singh | coming soon | 2018 -- 2023 |
+| Manvendra Singh | Arena Bioworks, research scientist | 2018 -- 2023 |
 | Bryce Gaskins | Caltech, graduate student | 2020 -- 2023 |
 | Pawan Dhote | UNC Chapel Hill, postdoc | 2022 |
 | Ambrosee Wilkinson | | 2021 -- 2022 |
