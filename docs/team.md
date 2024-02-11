@@ -16,8 +16,6 @@ Archival photos: [Summer 2020](/_assets/sunflowers.JPG)
 
 |  Name            | Photo | Main project
 :-----------------:|:-----:|-----------------:
-[Manvendra Singh](https://www.linkedin.com/in/manvendra-singh-93538155/?originalSubdomain=in) | ![Manvendra](/_assets/manvendra.JPG) | New chemical space
-Bryce Gaskins | ![Bryce](/_assets/bryce.JPG) | Photochemistry and metal catalysis
 Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
 Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
@@ -29,7 +27,7 @@ Former members and positions after Boskovic lab:
 
 | Name | Position | Years active
 | :---   | :--- | : ---: |
-| Manvendra Singh | Arena Bioworks, research scientist | 2018 -- 2023 |
+| Manvendra Singh | [Arena Bioworks](https://arenabio.works/), research scientist | 2018 -- 2023 |
 | Bryce Gaskins | Caltech, graduate student | 2020 -- 2023 |
 | Pawan Dhote | UNC Chapel Hill, postdoc | 2022 |
 | Ambrosee Wilkinson | | 2021 -- 2022 |
