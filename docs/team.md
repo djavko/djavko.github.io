@@ -5,20 +5,38 @@ permalink: /team/
 ---
 # Team
 
-|![sunflower](/_assets/sunflowers.JPG)|
+|![sunflower](/_assets/DSC_0564.jpeg)|
 |:--:|
-|Snapshot of the team in the Summer 2020 in the field of sunflowers|
+|Snapshot of the team in the Summer 2023 in the field of sunflowers.|
+
+Archival photos: [Summer 2020](/_assets/sunflowers.JPG)
 
 
 *Current members:*
 
 |  Name            | Photo | Main project
 :-----------------:|:-----:|-----------------:
-[Manvendra Singh](https://www.linkedin.com/in/manvendra-singh-93538155/?originalSubdomain=in) | ![Manvendra](/_assets/manvendra.JPG) | New chemical space
-Bryce Gaskins | ![Bryce](/_assets/bryce.JPG) | Photochemistry and metal catalysis
 Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
 Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
-Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Crystal engineering
+Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Synthesis and computations
+Jax Rosekrans | | Synthesis
+Ian Shire | | Synthesis
 
-Former members: Nathan Garza, Amar Kumar, Sri Kolluru, Matt McCurry, Tanner Moore, Vishva Shah, Ambrosee Wilkinson, Brock Fricke, Alyschia Gaffar, Cybelle Arrey, Koki Takemoto, Pawan Dhote
+Former members and positions after Boskovic lab: 
+
+| Name | Position | Years active
+| :---   | :--- | : ---: |
+| Manvendra Singh | [Arena Bioworks](https://arenabio.works/), research scientist | 2018 -- 2023 |
+| Bryce Gaskins | Caltech, graduate student | 2020 -- 2023 |
+| Pawan Dhote | UNC Chapel Hill, postdoc | 2022 |
+| Ambrosee Wilkinson | | 2021 -- 2022 |
+| Koki Takemoto | Abbott Laboratories, Medical Sales Representative | 2021 |
+| Cybelle Arrey | AirForce | 2020 -- 2021 |
+| Amar Kumar | KUMC, graduate student | 2020 -- 2021 |
+| Sri Kolluru | Frontage Laboratories, Senior research scientist | 2020 -- 2021 |
+| Vishva Shah | KU | 2019 -- 2021 |
+| Zach Pearson | UCSF Chimera, Software engineer | 2019 -- 2021 |
+| Nathan Garza | Real estate agent | 2018 -- 2020 |
+| Matt McCurry | | 2019 |
+| Tanner Moore | KU, PharmD student | 2019 |
