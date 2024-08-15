@@ -1,0 +1,82 @@
+svg, svg * {
+    pointer-events: none;
+}
+
+svg {
+    flex:1;
+}
+
+.selectable, .rankable {
+    pointer-events: all;
+    cursor: pointer;
+}
+
+.selectable:hover  {
+    fill: magenta !important;
+}
+
+.atom-highlight:not([stereocenter]) {
+    stroke: none !important;
+}
+
+.molecule-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#molecule {
+    margin: 0 auto;
+}
+
+.disabled {
+    pointer-events: none;
+}
+
+[stereocenter],  [stereocenter]:hover {
+    fill: rgb(0, 255, 133) !important;
+    fill-opacity: 1;
+    stroke-opacity: 1 !important;
+}
+
+.selected-1, .selected-2, .selected-3, .selected-4 {
+    fill: cyan !important;
+    fill-opacity: 1;
+    /* stroke-opacity: 0 !important; */
+    
+}
+
+.cip-circle {
+	stroke: teal;
+	fill: white;
+    fill-opacity: 75%;
+	stroke-width: 0.2%;
+    /* visibility: hidden; */
+    /* pointer-events: none; */
+}
+
+.cip-priority {
+    text-anchor: middle;
+    stroke:none;
+    fill:#000000;
+    font-family: sans-serif;
+    /* visibility: hidden; */
+    /* pointer-events: none; */
+}
+
+#model-container {
+    display: flex;
+    flex-direction: column;
+}
+
+canvas {
+    margin-top: 12px;
+    align-self: center;
+}
+
+button[type=submit] {
+    margin-top: 12px;
+}
+
+label[for=r-descriptor] {
+    margin-right: 18px;
+}
