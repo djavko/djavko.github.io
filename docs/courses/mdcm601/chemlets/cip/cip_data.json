@@ -1,6 +1,24 @@
 {
     "molecules": [
         {
+            "name": "thalidomide",
+            "fileName": "thalidomide.mol",
+            "priorities": {
+                "11": [12,13,18,21]
+            },
+            "height": 400,
+            "width": 400
+        },
+        {
+            "name": "limonene",
+            "fileName": "limonene.mol",
+            "priorities": {
+                "3": [6,3,2,10]
+            },
+            "height": 400,
+            "width": 300
+        },
+        {
             "name": "L-isoleucine",
             "fileName": "isoleucine.mol",
             "priorities": {
@@ -72,6 +90,19 @@
             "priorities": { "4":[4,3,9,8], "9": [12,9,10,13] },
             "height": 250,
             "width": 600
+        },
+        {
+            "name": "morphine",
+            "fileName": "morphine.mol",
+            "priorities": {
+                "7": [20,8,7,27],
+                "8": [8,9,11,18],
+                "9": [15,10,9,19],
+                "12": [24,14,13,28],
+                "13": [17,14,15,23]
+            },
+            "height": 400,
+            "width": 400
         }
     ]
 }
