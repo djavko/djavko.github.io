@@ -20,6 +20,7 @@ Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in 
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
 Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
 Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Synthesis and computations
+Jax Rosekrans | | Synthesis
 Ian Shire |![Ian](/_assets/ian_shire.jpeg) | Synthesis
 
 Former members and positions after Boskovic lab: 
