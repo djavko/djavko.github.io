@@ -7,7 +7,7 @@ permalink: /team/
 
 |![sunflower](/_assets/20240921_group_photo.jpg)|
 |:--:|
-|Snapshot of the team in the Summer 2024 in the field of sunflowers.|
+|Snapshot of the team in the Summer 2024 in the field of sunflowers. Left to right: Mauricio, Zhe, Victor, Alhamza, Ian, Zarko.|
 
 Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg)
 
