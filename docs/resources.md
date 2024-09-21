@@ -11,6 +11,7 @@ From our lab:
 * [Boskovic group GitHub](https://github.com/boskovicgroup/)
 * Internal Boskovic Lab [Wiki](https://boskoviclab.ku.edu/wiki) (requires log in)
 * [Google Colab notebooks](/colab_notebooks)
+* [Chemlets](https://djavko.github.io/courses/mdcm601/chemlets/chemlets.html)
 * Laboratory information management system ([Zlab](http://mdcm-zlbap-pc01.cc.ku.edu/))
 
 From other sources:
