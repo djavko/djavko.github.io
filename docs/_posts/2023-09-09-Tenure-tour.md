@@ -27,6 +27,7 @@ The plan for my own "tenure tour" is in the table below. If you have an opening 
 | April 1, 2024 | Boston University |
 | April 2, 2024 | Arena BioWorks |
 | July 21, 2024 | Gordon Research Conference, Stereochemistry |
+| August 19, 2024 | ACS Fall National Meeting, Denver, Colorado |
 | September 17, 2024 | University of Houston |
 | September 18, 2024 | University of Texas, Austin |
 
