@@ -18,7 +18,7 @@ Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/
 :-----------------:|:-----:|-----------------:
 Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
-Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell painting data generation
+Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell biology
 Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Synthesis and computations
 Jax Rosekrans | | Synthesis
 Ian Shire |![Ian](/_assets/ian_shire.jpeg) | Synthesis
