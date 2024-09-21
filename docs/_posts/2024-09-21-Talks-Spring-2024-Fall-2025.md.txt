@@ -1,0 +1,9 @@
+---
+layout: post
+tags: events
+title: Talks 2024/25
+---
+| Date | Place |
+| :---   | :--- |
+| October 14, 2024 | ACS Midwest Regional Meeting, Omaha, NE |
+| October 26, 2024 | Chemical Biology Symposium, University of Kansas, Lawrence, KS |
