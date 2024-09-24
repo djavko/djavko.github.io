@@ -1,0 +1,37 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link href="dragula/dragula.min.css" rel="stylesheet" type="text/css" />
+        <link href="acid-strength.css" rel="stylesheet" type="text/css" />
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <p>Arrange the molecules in terms of the acidic strength of the highlighted group from strongest to weakest (left to right). </p>
+            <div class="guide">
+                <div style="color: crimson;"><span class="arrow">←</span>most acidic</div>
+                <div style="color: cornflowerblue;">least acidic<span class="arrow">→</span></div>
+            </div>
+            <div id="drag-elements">
+                <div id="molecule-0"></div>
+                <div id="molecule-1"></div>
+                <div id="molecule-2"></div>
+            </div>
+            <div> 
+                <button id="verify-answer">Verify answer</button>
+                <button id="next-problem">Next problem</button>
+            </div>
+            <p id="feedback"></p>
+        </main>
+        <script src="dragula/dragula.min.js" defer></script>
+        <script src="acid-strength.js" defer></script>
+        <!-- <script type="module" src="molecule.js" defer></script> -->
+    </body>
+</html>
