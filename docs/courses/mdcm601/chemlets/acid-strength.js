@@ -26,7 +26,8 @@ const loadMoleculeWithRDKit = structures => {
             let correctCount = 0;
             Array.from(document.getElementById('drag-elements').children).forEach((element, i) => {
                 const indexElement = document.createElement("p");
-                const ind = element.getAttribute('ind');
+                const pkaElement = document.createElement("span");
+                const ind = element.getAttribute('ind');                
                 indexElement.textContent = answerMap[ind];
                 indexElement.classList.add('index');
                 element.appendChild(indexElement);
@@ -37,6 +38,8 @@ const loadMoleculeWithRDKit = structures => {
                 } else {
                     element.classList.add('incorrect');
                 }
+                pkaElement.textContent = `pka: ${structures[answerMap[ind]-1].pka}`;
+                element.appendChild(pkaElement);
             });
             let feedback = correctCount == 3 ? 'Excellent! You arranged all 3 molecules correctly.' : `You arranged ${correctCount} of the 3 molecules correctly.`;
             document.getElementById('feedback').textContent = feedback;
@@ -89,7 +92,7 @@ const createProblem = () => selectThreeMolecules([...acidStrengthData.map((entry
 const handleAcidStrengthData = () => {
     if (acidsDataRequest.readyState === XMLHttpRequest.DONE) {
         if (acidsDataRequest.status === 200) {
-            acidStrengthData = JSON.parse(acidsDataRequest.responseText).molecules;
+            acidStrengthData = JSON.parse(atob(acidsDataRequest.responseText)).molecules;
             const problem = createProblem();
             controller = loadMoleculeWithRDKit(problem);
             document.getElementById('next-problem').setAttribute('disabled','');
@@ -102,7 +105,7 @@ const handleAcidStrengthData = () => {
 initRDKitModule().then(function (instance) {
     RDKitModule = instance;
     acidsDataRequest.onreadystatechange = handleAcidStrengthData;
-    acidsDataRequest.open("GET", "acid-strength/acid-strength_data.json");
+    acidsDataRequest.open("GET", "acid-strength/acid-strength-data.txt");
     acidsDataRequest.send();
 });
 
