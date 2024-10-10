@@ -36,7 +36,7 @@ rect {
     pointer-events: none;
 }
 
-#drag-elements> div.correct {
+#drag-elements > div.correct {
     border: 2px solid green;
     background-color: #00800030;
 }
@@ -50,7 +50,7 @@ p.index {
 	position: absolute;
 	left: 0;
     font-family: "Arial", sans-serif;
-	font-size: 150pt;
+	font-size: 120pt;
 	color: #80808057;
 	top: 0;
 	bottom: 0;
@@ -69,4 +69,20 @@ p.index {
 
 .arrow {
     padding: 6px;
+}
+
+#drag-elements span {
+	position: absolute;
+	bottom: -20;
+	left: 0;
+	right: 0;
+	background-color: white;
+	border-style: solid;
+	width: 80pt;
+	margin: auto;
+	border-radius: 50%;
+	border-width: 2pt;
+	padding: 4pt;
+	border-color: gray;
+    font-family: "Arial", sans-serif;
 }
