@@ -8,6 +8,6 @@ Nearly all PhD programs have some sort of a way of evaluating whether a graduate
 So, it is a special day in the lab when a student passes such a thorough scrutiny of their capabilities. I am happy that Victor Fadare is only the second student in my group who crossed that milestone (following Manvendra's exam during the pandemic).
 Victor came to KU after obtaining his MSc in the UK, where he, in turn, arrived from Nigeria. Since 2022, he has been a valuable group member. I am looking forward to his continued successes. 
  
-| ![congrats](/_assets/victor_orals){:width="60%"} |
+| ![congrats](/_assets/victor_orals.png){:width="60%"} |
 |:---:|
 | *Congratulations from the PI at the workstation 1.*|
