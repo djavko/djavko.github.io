@@ -8,9 +8,9 @@ permalink: /publications/
 
 At the University of Kansas:
 
+1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; Boskovic, Z. **Photolysis of bis(catecholato)silicates** Journal of Organic Chemistry, 2025.  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
 1. Boskovic, Z. **Photochemistry and structural complexity** Arkivoc, 2024 (6) 202412331 [https://www.arkat-usa.org/get-file/83739/](https://www.arkat-usa.org/get-file/83739/)
-1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; Boskovic, Z. **Photolysis of bis(catecholato)silicates** Journal of Organic Chemistry, 2025. Boskovic[https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
-1. Bahena Garcia, M.; Singh, M.; Miller, E.; Neuenswander, S.; Douglas, J.; Boskovic, Z. **Twisted Intramolecular Charge-Transfer State Addition to Electron-Poor Olefins**. Journal of Organic Chemistry 2024. [https://pubs.acs.org/doi/10.1021/acs.joc.3c02521](https://pubs.acs.org/doi/10.1021/acs.joc.3c02521).
+1. Bahena Garcia, M.; Singh, M.; Miller, E.; Neuenswander, S.; Douglas, J.; Boskovic, Z. **Twisted Intramolecular Charge-Transfer State Addition to Electron-Poor Olefins**. Journal of Organic Chemistry 2024, 89, 5, 3058-3064. [https://pubs.acs.org/doi/10.1021/acs.joc.3c02521](https://pubs.acs.org/doi/10.1021/acs.joc.3c02521).
 1. Singh, M.; Dhote, P.; Johnson, D. R.; Figueroa-Lazú, S.; Elles, C. G.; Boskovic, Z. **Photochemical Decarbonylation of Oxetanone and Azetidinone: Spectroscopy, Computational Models, and Synthetic Applications**. Angewandte Chemie International Edition 2023, 62 (3), e202215856. [https://doi.org/10.1002/anie.202215856](https://doi.org/10.1002/anie.202215856).
 1. Singh, M.; Gaskins, B.; Johnson, D. R.; Elles, C. G.; Boskovic, Z. **Synthesis of Cycloheptatriene-Containing Azetidine Lactones**. J. Org. Chem. 2022, 87 (22), 15001–15010. [https://doi.org/10.1021/acs.joc.2c00367](https://doi.org/10.1021/acs.joc.2c00367).
 1. Tang, Z.; Zhao, J.; Pearson, Z. J.; Boskovic, Z. V.; Wang, J. **RNA-Targeting Splicing Modifiers: Drug Development and Screening Assays**. Molecules 2021, 26 (8), 2263 [https://www.mdpi.com/1420-3049/26/8/2263](https://www.mdpi.com/1420-3049/26/8/2263).
