@@ -16,7 +16,7 @@ SERMs like tamoxifen attach to receptors on the cancer cells which blocks estrog
 
 
 ## SERDs (selective estrogen receptor degrader)
-[Fulvestrant](https://en.wikipedia.org/wiki/Fulvestrant) is a SERD drug that acts by damaging and blocking estrogen receptors. See also [[Target degradation]].
+[Fulvestrant](https://en.wikipedia.org/wiki/Fulvestrant) is a SERD drug that acts by damaging and blocking estrogen receptors. See also [[Target degradation]](Target degradation.md).
 
 ## Aromatase inhibitors.
 Aromatase is a heme-containing enzyme which oxidizes an angular methyl group to hydroxymethyl, which is then lost as formic acid in oxidative aromatization reaction. [KEGG database](https://www.genome.jp/entry/R01840/R02351/R02501/R03087/R04759/R04761/R10511/R10515)
