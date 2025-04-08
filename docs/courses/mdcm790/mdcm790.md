@@ -43,3 +43,5 @@ exclude: true
 3. [Small molecules that cleave DNA](project3.md)
 4. [Histone "code"](project4.md)
 5. [Discovering cancer dependencies from data](project5.md)
+6. [Recent covalent cancer drugs](project6.md)
+7. [CAR-T therapy](project7.md)
