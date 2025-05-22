@@ -38,7 +38,7 @@ Collaborations have organically developed with the KU chemistry department – s
 ## Students success
 I had achieved the most notable success with undergraduate students. 
 
-- Bryce Gaskins went to graduate school at Caltech, awarded Goldwater fellowship, NSF graduate research fellowship, McNair scholar, summers with Vy Dong at UC Irvine and at Merck Research Labs in Boston, etc.
+- Bryce Gaskins went to graduate school at Caltech, awarded Goldwater fellowship, NSF graduate research fellowship, McNair scholar, performed summer research with Vy Dong at UC Irvine and at Merck Research Labs in Boston, etc.
 - Zach Pearson got permanent position at UCSF Resource for Bioinformatics and Visualization
 - Elizabeth Miller, candidate for Goldwater and Astronaut
 - Ian Shire, Courtwright award for undergraduate research, Kleinberg award from KU Chemistry
