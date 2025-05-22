@@ -4,7 +4,9 @@ tags: musings
 title: Accomplishments at the University of Kansas
 ---
 
-Aggriculture teaches us that in the 7th year the land is to rest and lie [fallow](https://en.wikipedia.org/wiki/Shmita). I have been at the University of Kansas since July 2018, and it is time for me to assess what I managed to accomplish since then. The upcoming period, the so-called terminal year, will be dominated by the lab wind-down operations and will not add much to the accomplishments below. But who knows!
+> "You may plant your land for six years and gather its crops. But during the seventh year, you must leave it alone and withdraw from it. The needy among you will then be able to eat just as you do, and whatever is left over can be eaten by wild animals. This also applies to your vineyard and your olive grove." (Exodus 23:10–11).
+
+I have been at the University of Kansas since July 2018, and it is time for me to assess what I managed to accomplish since then. The upcoming period, the so-called terminal year, will be dominated by the lab wind-down operations and will not add much to the accomplishments below. But who knows!
  
 My accomplishments at KU can be organized in several, not mutually exclusive, categories: research and discoveries, student successes, culture. 
 
