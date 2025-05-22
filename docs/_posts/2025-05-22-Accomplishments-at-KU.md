@@ -48,7 +48,7 @@ I had achieved the most notable success with undergraduate students.
 There were fewer graduate students that I mentored, but some of their successes have been very notable:
 
 - Manvendra Singh, Irsay-Dahle award, job at Arena Bioworks
-- Mauricio Bahena Garcia, Chancellor’s Fellowship (4x$45k), Dr. Gregory L. and Frances L. Lauver Medicinal Chemistry Scholarship by our Department and the Hodgie Bricke Memorial Scholarship by the KU Office of International Affairs, Fulbright scholar
+- Mauricio Bahena Garcia, Chancellor’s Fellowship, Dr. Gregory L. and Frances L. Lauver Medicinal Chemistry Scholarship by our Department and the Hodgie Bricke Memorial Scholarship by the KU Office of International Affairs, Fulbright scholar
 
 Among the graduate students, I also advised Victor Fadare, Amar Kumar, Matthew McCurry, and Koki Takemoto. In all six graduate students for a total 15 years of graduate student advising. 
 I have also advised two postdoctoral scholars (Sri Kolluru and Pawan Dotte), a research technician (Nathan Garza), and several PharmD students (Alhamza Hamza, Alyschia Gaffar, Cybelle Arrey, and Tanner Moore).
