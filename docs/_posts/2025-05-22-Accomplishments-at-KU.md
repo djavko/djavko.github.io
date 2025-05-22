@@ -11,8 +11,10 @@ I have been at the University of Kansas since July 2018, and it is time for me t
 My accomplishments at KU can be organized in several, not mutually exclusive, categories: research and discoveries, student successes, culture. 
 
 ## Research and Discoveries
-My group and I published eight papers on which I am the corresponding author and another three in which I and other group members are co-authors. Additional three papers from collaborations with chemistry department faculty are forthcoming, as are two papers from my own group, for a total estimate of 16 papers with KU affiliation. We also published a patent.  
-I gave about 30 talks at various conferences, primarily American Chemical Society national and regional meetings, and departmental seminars across the United States, and I presented posters at Gordon Conferences (three times) and at Tetrahedron Symposium (two times).  
+My group and I published eight papers on which I am the corresponding author and another three in which I and other group members are co-authors. Additional three papers from collaborations with chemistry department faculty are forthcoming, as are two papers from my own group, for a total estimate of 16 papers with KU affiliation. We also published a patent.
+  
+I gave about 30 talks at various conferences, primarily American Chemical Society national and regional meetings, and departmental seminars across the United States, and I presented posters at Gordon Conferences (three times) and at Tetrahedron Symposium (two times).
+  
 Main discoveries we have made are in the area of new photochemical reaction development. Among these:
 
 - New method for making azetidines by a Norrish-Yang reaction of protonated amines
