@@ -27,7 +27,7 @@ Main discoveries we have made are in the area of new photochemical reaction deve
 - Development of in situ monitoring of photochemical reaction with EPR for detection of free radicals
 - Development of several reaction kinetics monitoring schemes
 - Discovery of four new bioactive compounds by the application of “cell painting” annotation experiment
-- Progress on multiple myeloma toxic benzoylating compound
+- Progress on multiple myeloma-toxic benzoylating compound
 - Development of methionine-reactive oxaziridines with clickable handles
 - Progress on SipD binders preparation
 
