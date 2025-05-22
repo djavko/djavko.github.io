@@ -38,12 +38,15 @@ Collaborations have organically developed with the KU chemistry department – s
 ## Students success
 I had achieved the most notable success with undergraduate students. 
 - Bryce Gaskins went to graduate school at Caltech, awarded Goldwater fellowship, NSF graduate research fellowship, McNair scholar, summers with Vy Dong at UC Irvine and at Merck Research Labs in Boston, etc.
+
 - Zach Pearson got permanent position at UCSF Resource for Bioinformatics and Visualization
 - Elizabeth Miller, candidate for Goldwater and Astronaut
 - Ian Shire, Courtwright award for undergraduate research, Kleinberg award from KU Chemistry
 - Jax Rosekrans, Michelle & A.C. Buchanan Scholarship
 - Ambrosee Wilkinson, Frank Newby Physical Science Award
+
 There were fewer graduate students that I mentored, but some of their successes have been very notable:
+
 - Manvendra Singh, Irsay-Dahle award, job at Arena Bioworks
 - Mauricio Bahena Garcia, Chancellor’s Fellowship (4x$45k), Dr. Gregory L. and Frances L. Lauver Medicinal Chemistry Scholarship by our Department and the Hodgie Bricke Memorial Scholarship by the KU Office of International Affairs, Fulbright scholar
 
