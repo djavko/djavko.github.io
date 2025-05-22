@@ -29,7 +29,7 @@ Main discoveries we have made are in the area of new photochemical reaction deve
 - Discovery of four new bioactive compounds by the application of “cell painting” annotation experiment
 - Progress on multiple myeloma-toxic benzoylating compound
 - Development of methionine-reactive oxaziridines with clickable handles
-- Progress on SipD binders preparation
+- Progress on SipD binders synthesis
 
 The robustness of these discoveries has been assured by heavy reliance on spectroscopy. The group became very proficient in routinely using multidimensional NMR for characterization of molecule. We complemented, as often as possible, the experimental data with computational models of the structures and reactions we developed. 
 
