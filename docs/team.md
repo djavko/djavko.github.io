@@ -5,11 +5,11 @@ permalink: /team/
 ---
 # Team
 
-|![sunflower](/_assets/20240921_group_photo.jpg)|
+|![sunflower](/_assets/20250906_group_photo.jpg)|
 |:--:|
-|Snapshot of the team in the Summer 2024 in the field of sunflowers. Left to right: Mauricio, Zhe, Victor, Alhamza, Ian, Zarko.|
+|Snapshot of the team in the Summer 2025 in the field of sunflowers. Left to right: Ian, Victor, Mauricio, Zarko.|
 
-Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg)
+Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg), [Summer 2025](/_assets/20240921_group_photo.jpg) 
 
 
 *Current members:*
