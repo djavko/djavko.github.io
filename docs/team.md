@@ -5,7 +5,7 @@ permalink: /team/
 ---
 # Team
 
-|![sunflower](/_assets/20250906_group_photo.jpg)|
+|![sunflower](/_assets/20250906_group_photo.png)|
 |:--:|
 |Snapshot of the team in the Summer 2025 in the field of sunflowers. Left to right: Ian, Victor, Mauricio, Zarko.|
 
@@ -19,14 +19,14 @@ Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/
 Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
 Alhamza Hamza |![Alhamza](/_assets/alhamza.JPG/) | Cell biology
-Elizabeth Miller |![Elizabeth](/_assets/elizabeth.JPG) | Synthesis and computations
-Jax Rosekrans | | Synthesis
 Ian Shire |![Ian](/_assets/ian_shire.jpeg) | Synthesis
 
 Former members and positions after Boskovic lab: 
 
 | Name | Position | Years active
 | :---   | :--- | : ---: |
+| Elizabeth Miller | Slusky lab, KU | 2022 -- 2024 |
+| Jax Rosekrans | KU | 2023 -- 2024 |
 | Manvendra Singh | [Arena Bioworks](https://arenabio.works/), research scientist | 2018 -- 2023 |
 | Bryce Gaskins | Caltech, graduate student | 2020 -- 2023 |
 | Pawan Dhote | UNC Chapel Hill, postdoc | 2022 |
