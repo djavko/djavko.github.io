@@ -9,7 +9,7 @@ permalink: /team/
 |:--:|
 |Snapshot of the team in the Summer 2025 in the field of sunflowers. Left to right: Ian, Victor, Mauricio, Zarko.|
 
-Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg), [Summer 2025](/_assets/20240921_group_photo.jpg) 
+Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg), [Summer 2024](/_assets/20240921_group_photo.jpg) 
 
 
 *Current members:*
