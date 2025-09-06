@@ -8,6 +8,7 @@ permalink: /publications/
 
 At the University of Kansas:
 
+1. Bahena-Garica, M.; Fadare, V.; Boskovic, Z. **Conformationally Restricted Amino Cyclopropane-Fused Lactones from Mannich Bases** Organic Letters, 2025 [https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321](https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321)
 1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; Boskovic, Z. **Photolysis of bis(catecholato)silicates** Journal of Organic Chemistry, 2025.  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
 1. Boskovic, Z. **Photochemistry and structural complexity** Arkivoc, 2024 (6) 202412331 [https://www.arkat-usa.org/get-file/83739/](https://www.arkat-usa.org/get-file/83739/)
 1. Bahena Garcia, M.; Singh, M.; Miller, E.; Neuenswander, S.; Douglas, J.; Boskovic, Z. **Twisted Intramolecular Charge-Transfer State Addition to Electron-Poor Olefins**. Journal of Organic Chemistry 2024, 89, 5, 3058-3064. [https://pubs.acs.org/doi/10.1021/acs.joc.3c02521](https://pubs.acs.org/doi/10.1021/acs.joc.3c02521).
