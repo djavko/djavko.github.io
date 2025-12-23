@@ -9,6 +9,6 @@ Mauricio joined the group in 2022 as a Fulbright fellow supported by the Fullbri
 Congratulations, Mauricio!
 
  
-| ![congrats](/_assets/mauricio_hood.png){:width="100%"} |
+| ![congrats](/_assets/mauricio_hood.png){:width="60%"} |
 |:---:|
-| *Mauricio doing low-temperature reaction literally in the fume hood.*|
+| *Mauricio performing a low-temperature reaction literally in the fume hood.*|
