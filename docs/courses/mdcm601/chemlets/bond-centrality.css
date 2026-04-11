@@ -1,0 +1,43 @@
+svg, svg * {
+    pointer-events: none;
+}
+
+svg {
+    flex:1;
+}
+
+path.selectable {
+    pointer-events: all;
+    cursor: pointer;
+}
+
+path.selectable.hovered  {
+    fill: green !important;
+}
+
+td.selectable.hovered  {
+    background-color: green !important;
+}
+
+path.selected {
+    fill: cyan !important;
+    fill-opacity: 1;
+}
+
+td.selected {
+    background-color: cyan !important;
+}
+
+.molecule-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#molecule {
+    margin: 0 auto;
+}
+
+canvas {
+    margin-top: 12px;
+    align-self: center;
+}

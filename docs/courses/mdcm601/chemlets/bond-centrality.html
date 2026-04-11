@@ -1,0 +1,41 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link href="ChemDoodleWeb/ChemDoodleWeb.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="ChemDoodleWeb/uis/jquery-ui-1.11.4.css" type="text/css">
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/graphology@0.26.0/dist/graphology.umd.min.js"></script>
+        <link href="bond-centrality.css" rel="stylesheet" />
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <div>
+                <canvas id="sketcher"></canvas>
+                <div>
+                    <input placeholder="SMILES" type="text" id="smiles" name="smiles"/>
+                </div>
+                <div> 
+                    <button id="read-sketcher">Submit Structure</button>
+                    <button id="read-smiles">Submit SMILES</button>
+                </div>
+            </div>
+            <div class="molecule-container">
+                <div id="molecule"></div>
+            </div>
+            <table id="centralities-table">
+                <tr><th>Centrality</th></tr>
+            </table>
+            <p id="feedback"></p>
+        </main>
+        <script src="ChemDoodleWeb/ChemDoodleWeb.js" type="text/javascript" defer></script>
+        <script src="ChemDoodleWeb/uis/ChemDoodleWeb-uis.js" type="text/javascript" defer></script>
+        <script type="module" src="bond-centrality.js" defer></script>
+    </body>
+</html>
