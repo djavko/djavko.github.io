@@ -111,7 +111,8 @@ const loadMoleculeWithRDKit = rdkitMol => {
     const mdetails = {};
     mdetails['bonds'] = bonds;
     mdetails['highlightColour'] = [1,1,1];
-    // mdetails['highlightBondWidthMultiplier'] = 16;
+    mdetails['width'] = 900;
+    mdetails['height'] = 350;
     mdetails['useMolBlockWedging'] = true;
     mdetails['addChiralHs'] = false;
     
