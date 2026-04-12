@@ -1,0 +1,83 @@
+svg, rect {
+    pointer-events: none;
+}
+
+path, ellipse {
+    pointer-events: all;
+    cursor: pointer;
+}
+
+ellipse {
+    fill-opacity: 0;
+    stroke-opacity: 0 !important;
+}
+
+path[style*="fill:none"],
+path[class^="atom"],
+path.legend {
+    pointer-events: none;
+}
+
+path.note {
+    /* visibility: hidden; */
+    pointer-events: none;
+}
+
+.molecule-container {
+    display: flex;
+}
+
+#molecule {
+    margin: 0 auto;
+}
+
+#resonance-contributors {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.resonance-arrow {
+    text-align: center;
+    font-size: 32px;
+}
+
+ellipse:hover, path[class^="bond"]:hover {
+    fill: magenta !important;
+}
+
+ellipse:hover {
+    fill-opacity: 1;
+    stroke-opacity: 1;
+}
+
+[electron-source],  [electron-source]:hover {
+    fill: rgb(0, 255, 133) !important;
+    fill-opacity: 1;
+    stroke-opacity: 1 !important;
+}
+
+[non-adjacent] {
+    cursor: initial;
+    pointer-events: none;
+}
+
+[electron-sink] {
+    fill: rgb(255, 133, 0) !important;
+    pointer-events: all;
+    cursor: pointer;
+    fill-opacity: 1;
+    stroke-opacity: 1 !important;
+}
+
+[error], [error]:hover, path[error]:hover {
+    fill: rgb(255, 133, 133) !important;
+    fill-opacity: 1;
+    stroke-opacity: 1 !important;
+}
+
+li.molecule {
+	text-decoration: underline;
+	cursor: pointer;
+	text-underline-offset: 2px;
+}

@@ -1,0 +1,48 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link href="ChemDoodleWeb/ChemDoodleWeb.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="ChemDoodleWeb/uis/jquery-ui-1.11.4.css" type="text/css">
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <link href="structures.css" rel="stylesheet" />
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <div>
+                <canvas id="sketcher"></canvas>
+                <textarea id="mol-file-textarea" cols="70" rows="22"></textarea>
+                <div>
+                    <input placeholder="SMILES" type="text" id="smiles" name="smiles"/>
+                    <input placeholder="filename.mol" type="text" id="filename" name="filename"/>
+                    <input placeholder="height" type="number" id="set-height" value="200"/>
+                    <input placeholder="width" type="number" id="set-width" value="200"/>
+                </div>
+                <div> 
+                    <button id="sketcher-mol-file">Molfile from sketcher</button>
+                    <button id="smiles-mol-file">Molfile from SMILES</button>
+                    <button id="read-mol-file">Read molfile</button>
+                    <button id="save-mol-file">Save molfile</button>
+                </div>
+            </div>
+
+            <div id="molecule"></div>
+            <button id="assign-priorities" disabled>Assign priorities</button>
+            <p id="feedback"></p>
+            <div>
+                <textarea id="cip-data" cols="70" rows="22"></textarea>
+            </div>
+        </main>
+        <script src="elements.js" defer></script>
+        <script src="ChemDoodleWeb/ChemDoodleWeb.js" type="text/javascript" defer></script>
+        <script src="ChemDoodleWeb/uis/ChemDoodleWeb-uis.js" type="text/javascript" defer></script>
+        <script src="structures.js" defer></script>
+        <!-- <script type="module" src="molecule.js" defer></script> -->
+    </body>
+</html>

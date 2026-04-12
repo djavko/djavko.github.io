@@ -1,0 +1,42 @@
+svg, svg * {
+    pointer-events: none;
+}
+
+svg {
+    flex:1;
+}
+
+.selectable {
+    pointer-events: all;
+    cursor: pointer;
+}
+
+.selectable:hover  {
+    fill: cyan !important;
+}
+
+[error], [error]:hover, .incorrect {
+    fill: rgb(255, 133, 133) !important;
+}
+
+.correct {
+    fill: rgb(133, 255, 133) !important;
+}
+
+li.molecule {
+	text-decoration: underline;
+	cursor: pointer;
+	text-underline-offset: 2px;
+}
+
+#select-another::before {
+    content: "← ";
+}
+
+.molecule-container {
+    display: flex;
+}
+
+#molecule {
+    margin: 0 auto;
+}

@@ -1,0 +1,42 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <link href="resonance.css" rel="stylesheet" />
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <div id="initial-selection">
+                <p>Click on any of the following molecules.</p>
+                <ul id="molecule-list"></ul>
+            </div>
+            <div id="after-selection" hidden>
+                <p id="problem-statement">
+                    Find the remaining resonance structures by moving electrons within a conjugated system of the molecule.
+                    Always move electrons from a "source" to a "sink".
+                    The source can be either a pi-bond or an atom's lone electron pair.
+                    The sink must be an atom or bond that is adjacent to the source.
+                </p>
+                <button id="select-another">Choose another molecule</button>
+                <div class="container">
+                    <div class="molecule-container">
+                        <div id="molecule"></div>
+                    </div>
+                </div>     
+                <p id="feedback"></p>
+                
+                <div id="resonance-contributors"></div> 
+            </div>
+        </main>
+        <script src="elements.js" defer></script>
+        <script src="resonance.js" defer></script>
+        <!-- <script type="module" src="molecule.js" defer></script> -->
+    </body>
+</html>

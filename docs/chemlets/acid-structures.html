@@ -1,0 +1,30 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <div>
+                    <input placeholder="SMILES" type="text" id="smiles" name="smiles"/>
+                    <input placeholder="SMARTS" type="text" id="smarts" name="smarts"/>
+                <div> 
+                    <button id="read-smiles">Read SMILES</button>
+                    <button id="read-smarts">Highlight SMARTS</button>
+                </div>
+            </div>
+
+            <div id="molecule"></div>
+            <p id="feedback"></p>
+        </main>
+        <script src="acid-structures.js" defer></script>
+        <!-- <script type="module" src="molecule.js" defer></script> -->
+    </body>
+</html>

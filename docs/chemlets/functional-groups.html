@@ -1,0 +1,29 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <link href="functional-groups.css" rel="stylesheet" />
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <p id="problem-statement"></p>
+            <div class="molecule-container">
+                <div id="molecule"></div>
+            </div>
+            <button id="clear-highlight">Erase highlight</button>
+            <button id="check-answer">Verify answer</button>
+            <button id="next-molecule">Next molecule</button>
+            <ul id="feedback"></ul>  
+        </main>
+        <script src="functionalGroupSmarts.js" defer></script>
+        <script src="functional-groups.js" defer></script>
+        <!-- <script type="module" src="molecule.js" defer></script> -->
+    </body>
+</html>
