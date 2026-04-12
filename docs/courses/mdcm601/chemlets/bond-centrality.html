@@ -1,0 +1,60 @@
+---
+layout: page 
+exclude: true
+---
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link href="ChemDoodleWeb/ChemDoodleWeb.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="ChemDoodleWeb/uis/jquery-ui-1.11.4.css" type="text/css">
+        <script src="https://unpkg.com/@rdkit/rdkit/dist/RDKit_minimal.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/graphology@0.26.0/dist/graphology.umd.min.js"></script>
+        <link href="bond-centrality.css" rel="stylesheet" />
+        <title>MDCM601</title>
+    </head>
+    <body>
+        <main>
+            <header class="page-header">
+                <h1>Bond Centrality Analysis</h1>
+                <p class="subtitle">Draw a molecule or paste SMILES. Then submit to compute bond centralities.</p>
+            </header>
+
+            <section class="controls-and-sketch">
+                <div class="sketcher-card">
+                    <canvas id="sketcher" aria-label="Molecule sketcher"></canvas>
+                    <div class="input-row">
+                        <input placeholder="SMILES" type="text" id="smiles" name="smiles" aria-label="SMILES input"/>
+                        <div class="buttons">
+                            <button id="read-sketcher" class="primary">Submit Structure</button>
+                            <button id="read-smiles">Submit SMILES</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="below-sketch">
+                    <div class="molecule-card">
+                        <h2 class="card-title">Rendered molecule</h2>
+                        <div id="molecule" class="molecule-viewport" aria-live="polite"></div>
+                    </div>
+
+                    <div class="table-card">
+                        <!-- <h2 class="card-title">Bond centralities</h2> -->
+                        <div class="table-wrap">
+                            <table id="centralities-table">
+                                <thead><tr><th><h2 class="card-title">Bond centralities</h2></th></tr></thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                        <p id="feedback" class="feedback" role="status"></p>
+                    </div>
+                </div>
+            </section>
+        </main>
+        </main>
+        <script src="ChemDoodleWeb/ChemDoodleWeb.js" type="text/javascript" defer></script>
+        <script src="ChemDoodleWeb/uis/ChemDoodleWeb-uis.js" type="text/javascript" defer></script>
+        <script type="module" src="bond-centrality.js" defer></script>
+    </body>
+</html>
