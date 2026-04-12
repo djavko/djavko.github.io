@@ -35,14 +35,14 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-main {
-    max-width: 1200px; /* wider container reduces empty gutters */
+/* main {
+    max-width: 1200px; 
     margin: 12px auto;
     padding: 12px 14px;
-}
+} */
 
 .page-header { margin-bottom: 14px; }
-.page-header h1 { margin: 0 0 6px 0; font-size: 1.35rem; }
+.page-header h1, h2 { margin: 0 0 6px 0; font-size: 1.35rem; }
 .page-header .subtitle { margin: 0; color: var(--muted); font-size: 0.95rem; }
 
 /* Top area: single column so sketcher is on its own row */
@@ -87,3 +87,11 @@ path.selected { stroke: #06b6a4 !important; stroke-width: 3px !important; }
 
 /* Prevent layout from reflowing into multi-column top grid at very wide sizes */
 @media (min-width: 1400px) { .controls-and-sketch { grid-template-columns: 1fr; } }
+
+.wrapper {
+	max-width: none;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 30px;
+	padding-left: 30px;
+}
