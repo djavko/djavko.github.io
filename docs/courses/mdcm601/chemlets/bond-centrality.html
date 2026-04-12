@@ -16,23 +16,42 @@ exclude: true
     </head>
     <body>
         <main>
-            <div>
-                <canvas id="sketcher"></canvas>
-                <div>
-                    <input placeholder="SMILES" type="text" id="smiles" name="smiles"/>
+            <header class="page-header">
+                <h1>Bond Centrality Analysis</h1>
+                <p class="subtitle">Draw a molecule or paste SMILES. Then submit to compute bond centralities.</p>
+            </header>
+
+            <section class="controls-and-sketch">
+                <div class="sketcher-card">
+                    <canvas id="sketcher" aria-label="Molecule sketcher"></canvas>
+                    <div class="input-row">
+                        <input placeholder="SMILES" type="text" id="smiles" name="smiles" aria-label="SMILES input"/>
+                        <div class="buttons">
+                            <button id="read-sketcher" class="primary">Submit Structure</button>
+                            <button id="read-smiles">Submit SMILES</button>
+                        </div>
+                    </div>
                 </div>
-                <div> 
-                    <button id="read-sketcher">Submit Structure</button>
-                    <button id="read-smiles">Submit SMILES</button>
+
+                <div class="below-sketch">
+                    <div class="molecule-card">
+                        <h2 class="card-title">Rendered molecule</h2>
+                        <div id="molecule" class="molecule-viewport" aria-live="polite"></div>
+                    </div>
+
+                    <div class="table-card">
+                        <!-- <h2 class="card-title">Bond centralities</h2> -->
+                        <div class="table-wrap">
+                            <table id="centralities-table">
+                                <thead><tr><th><h2 class="card-title">Bond centralities</h2></th></tr></thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                        <p id="feedback" class="feedback" role="status"></p>
+                    </div>
                 </div>
-            </div>
-            <div class="molecule-container">
-                <div id="molecule"></div>
-            </div>
-            <table id="centralities-table">
-                <tr><th>Centrality</th></tr>
-            </table>
-            <p id="feedback"></p>
+            </section>
+        </main>
         </main>
         <script src="ChemDoodleWeb/ChemDoodleWeb.js" type="text/javascript" defer></script>
         <script src="ChemDoodleWeb/uis/ChemDoodleWeb-uis.js" type="text/javascript" defer></script>

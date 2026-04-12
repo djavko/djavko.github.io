@@ -202,6 +202,7 @@ const handleClickEvent = event => {
         abortDefinedController();
         document.querySelector('#feedback').textContent = "";
         document.querySelectorAll('tr ~ tr').forEach(elem=>elem.remove());
+        // document.querySelectorAll('tr').forEach(elem=>elem.remove());
 
         let rdkitMol;
         try {
@@ -215,6 +216,7 @@ const handleClickEvent = event => {
         abortDefinedController();
         document.querySelector('#feedback').textContent = "";
         document.querySelectorAll('tr ~ tr').forEach(elem=>elem.remove());
+        // document.querySelectorAll('tr').forEach(elem=>elem.remove());
 
         let rdkitMol;
         try {
