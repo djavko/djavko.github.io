@@ -12,6 +12,4 @@ Initially, I thought I would talk about chemophobia and the rise in distrust in 
 |:---:|
 | *Trisulfur radical anion asymmetric stretch can be detected with Raman spectroscopy.*|
 
-
-
-I wish you both best of luck!
+Overall, it was a fun experience. Audience had great questions about chemistry, and I found that it was easy to talk about "difficult" concepts to curious people. 
