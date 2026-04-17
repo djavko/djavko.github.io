@@ -15,6 +15,6 @@ Ian joined the lab in 2024 and managed to publish a [Tetrahedron paper](https://
 |:---:|
 | *Elizabeth assessing the contents of the Falcon tube.*|
 
-Elizabeth was in my lab from 2022 until 2024. She was initially supported by the [Emerging Scholars](https://curf.ku.edu/emerging-scholars) program at KU, which is a really wonderful mechanism to match freshman with research opportunities. Elizabeth's path had a clear lean from synthetic chemistry, towards computations. After two years with us, she joined [Joanna Slusky's group](https://molecularbiosciences.ku.edu/people/joanna-slusky) to computatioanlly design proteins. Wow. 
+Elizabeth was in my lab from 2022 until 2024. She was initially supported by the [Emerging Scholars](https://curf.ku.edu/emerging-scholars) program at KU, which is a really wonderful mechanism to match freshmen with research opportunities. Elizabeth's path had a clear lean from synthetic chemistry, towards computations. After two years with us, she joined [Joanna Slusky's group](https://molecularbiosciences.ku.edu/people/joanna-slusky) to computatioanlly design proteins. Wow. 
 
 I wish you both best of luck!
