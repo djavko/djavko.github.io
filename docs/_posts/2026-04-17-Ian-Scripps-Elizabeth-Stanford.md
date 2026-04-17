@@ -3,7 +3,7 @@ layout: post
 tags: events
 title: Ian goes to Scripps; Elizabeth goes to Stanford
 ---
-Spring is the time for graduate admissions and this year two undergraduates from the lab found out they will be continuing with their education at fantastic places: Ian Shire is going to the Scripps chemistry program, and Elizabeth Miller is going to the Stanford biomedical data science program. 
+Spring is the time for graduate admissions and this year two undergraduates from the lab found out they will be continuing with their education at fantastic places: Ian Shire is going to the [Scripps chemistry](https://www.scripps.edu/science-and-medicine/research-departments/chemistry/index.html) program, and Elizabeth Miller is going to the [Stanford biomedical data science](https://dbds.stanford.edu/) program. 
 
 |![Ian](/_assets/ian_shire.jpeg){:width="60%"} |
 |:---:|
@@ -13,7 +13,7 @@ Ian joined the lab in 2024 and managed to publish a [Tetrahedron paper](https://
  
 | ![congrats](/_assets/elizabeth.JPG){:width="60%"} |
 |:---:|
-| *Elizabeth assessing the contents of the Falcon tube. *|
+| *Elizabeth assessing the contents of the Falcon tube.*|
 
 Elizabeth was in my lab from 2022 until 2024. She was initially supported by the [Emerging Scholars](https://curf.ku.edu/emerging-scholars) program at KU, which is a really wonderful mechanism to match freshman with research opportunities. Elizabeth's path had a clear lean from synthetic chemistry, towards computations. After two years with us, she joined [Joanna Slusky's group](https://molecularbiosciences.ku.edu/people/joanna-slusky) to computatioanlly design proteins. Wow. 
 
