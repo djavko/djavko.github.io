@@ -24,7 +24,7 @@ Former members and positions after Boskovic lab:
 
 | Name | Position | Years active
 | :---   | :--- | : ---: |
-| Ian Shire | Scripps Chemistry PhD program | 2024 -- 2026 |
+| Ian Shire | [Scripps Chemistry](https://www.scripps.edu/science-and-medicine/research-departments/chemistry/index.html) PhD program | 2024 -- 2026 |
 | Alhamza Hamza | | 2022 -- 2025 |
 | Elizabeth Miller | Slusky lab, KU; Stanford | 2022 -- 2024 |
 | Jax Rosekrans | KU | 2023 -- 2024 |
