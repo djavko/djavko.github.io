@@ -1,4 +1,4 @@
-import * as metrics from "https://cdn.jsdelivr.net/npm/graphology-metrics@2.4.0/+esm";
+import * as metrics from "https://esm.sh/graphology-metrics@2.4.0";
 
 const main = document.querySelector('main');
 
