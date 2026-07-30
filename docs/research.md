@@ -74,7 +74,7 @@ What do these molecules do and can they be useful?
 
 ### Biological applications
 
-Through a "cell painting" assay, we found a few compounds that appear "active." Cell painting is a complex experiment, and usually requires numerous validation follow-up experiments to be sure that the compound is interesting to follow-up with.
+Through a "cell painting" assay, we found a few compounds that appear "active." Cell painting is a complex experiment, and usually requires numerous validation follow-up experiments to be sure that the active compound is interesting to follow-up with.
 
 We also collaborate with other labs for more specific experiments related to biology.
 
