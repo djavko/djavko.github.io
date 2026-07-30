@@ -18,7 +18,9 @@ We are interested in exploring new chemical space by inventing new chemical reac
 
 ## Chemical space map
 
-These are some of the compounds we made. They are plotted in the reduced dimensionality space computed by combining several common molecular descriptors: these are just easily derived numbers like the compound's molecular weight or the number of aromatic rings it has. Because some of these numbers are correlated, or not important in differentiating between the compounds, the "dimensionality reduction" finds their combination that is best able to to separate them; i.e., this combination maximizes the variance between the compounds. This map is derived from only 8 features, so you might not find that neighbors are always very similar to each other. Click through to see the structures in the box below.
+These are some of the compounds we made. They are plotted in the reduced dimensionality space computed by combining several common molecular descriptors: these are just easily derived numbers like the compound's molecular weight or the number of aromatic rings it has. Because some of these numbers are correlated, or not important in differentiating between the compounds, the "dimensionality reduction" finds their combination that is best able to to separate them; i.e., this combination maximizes the variance between the compounds. 
+
+This map is derived from only 8 features, so you might not find that neighbors are always very similar to each other. Click through to see the structures in the box below.
 
 
 <div id="chemical-space-map" style="display:grid; gap:1rem; margin-bottom:2rem;">
