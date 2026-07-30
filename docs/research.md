@@ -18,7 +18,7 @@ We are interested in exploring new chemical space by inventing new chemical reac
 
 ## Chemical space map
 
-These are some of the compounds we made. They are plotted in the reduced dimensionality space computed by combining several common molecular descriptors: these are just easiy computable numbers like the compound's molecular weight or the number of aromatic rings it has. Because some of them are correlated or not important in differentiating between the compounds, the "dimensionality reduction" finds their combination that is best able to to separate them; i.e., this combination maximizes the variance. \
+These are some of the compounds we made. They are plotted in the reduced dimensionality space computed by combining several common molecular descriptors: these are just easiy computable numbers like the compound's molecular weight or the number of aromatic rings it has. Because some of them are correlated or not important in differentiating between the compounds, the "dimensionality reduction" finds their combination that is best able to to separate them; i.e., this combination maximizes the variance.
 
 
 <div id="chemical-space-map" style="display:grid; gap:1rem; margin-bottom:2rem;">
@@ -72,9 +72,13 @@ What do these molecules do and can they be useful?
 
 ### Biological applications
 
-Through a "cell painting" assay, we found a few compounds that appear "active." Cell painting is a complex experiment, and usually requires numerous validation follow-up experiments to be sure that the compound is interesting to follow-up with. \
+Through a "cell painting" assay, we found a few compounds that appear "active." Cell painting is a complex experiment, and usually requires numerous validation follow-up experiments to be sure that the compound is interesting to follow-up with.
+
 We also collaborate with other labs for more specific experiments related to biology.
 
 ### Materials science and sensors
+We made convenient radical precursors which can initiate polymerization reactions.
+
+We also discovered a convenient way to generate trisulfur radical anions. 
 
 
