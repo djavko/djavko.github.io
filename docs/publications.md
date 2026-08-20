@@ -14,21 +14,19 @@ At the University of Kansas:
 
 1. Bahena-Garcia, M., Caricato, M., Johnson, C.K., <u>Boskovic, Z.</u> **Excited-State Enamine Formation Governs Fluorescence in Methoxy-Substituted Phenylpyrrolinium Salts** in review, *Journal of Physical Chemistry*, **2026**.
 
-<center><img src="_assets/pyrroliniums.png" width="50%"></center>
+![Pyrrolinium fluorescence](_assets/pyrroliniums.png")
 
 1. <u>Boskovic, Z.</u> **Line-graph Node Centrality in Retrosynthesis** major revisions, *Journal of Organic Chemistry*, **2026**.
 
-<center><img src="_assets/linegraph.png" width="60%"></center>
+![Linegraph node centrality](_assets/linegraph.png)
 
 1. Shire, I.; <u>Boskovic, Z.</u> **Thiophosphonothioates From Oxiranes** *Tetrahedron Letters*, **2025**. [https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub)
 
-
-<center><img src="_assets/thiophosphonothioates.png" width="60%"></center>
+![Thiophosphonothioate from epoxides](_assets/thiophosphonothioates.png)
 
 1. Bahena-Garcia, M.; Fadare, V.; <u>Boskovic, Z.</u> **Conformationally Restricted Amino Cyclopropane-Fused Lactones from Mannich Bases** *Organic Letters*, **2025** [https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321](https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321)
 
-<center><img src="_assets/cyclopropanolamines.png" width="60%"></center>
-
+![Cyclopropanolamines](_assets/cyclopropanolamines.png)
 
 1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; <u>Boskovic, Z.</u> **Photolysis of bis(catecholato)silicates** *Journal of Organic Chemistry*, **2025**.  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
 1. Boskovic, Z. **Photochemistry and structural complexity** *Arkivoc*, 2024 (6) 202412331 [https://www.arkat-usa.org/get-file/83739/](https://www.arkat-usa.org/get-file/83739/)
