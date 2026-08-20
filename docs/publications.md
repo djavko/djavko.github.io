@@ -29,6 +29,9 @@ At the University of Kansas:
 ![Cyclopropanolamines](_assets/cyclopropanolamines.png)
 
 1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; <u>Boskovic, Z.</u> **Photolysis of bis(catecholato)silicates** *Journal of Organic Chemistry*, **2025**.  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
+
+![Nitrocatecholatosilicates](_assets/silicates.png)
+
 1. Boskovic, Z. **Photochemistry and structural complexity** *Arkivoc*, 2024 (6) 202412331 [https://www.arkat-usa.org/get-file/83739/](https://www.arkat-usa.org/get-file/83739/)
 1. Bahena Garcia, M.; Singh, M.; Miller, E.; Neuenswander, S.; Douglas, J.; <u>Boskovic, Z.</u> **Twisted Intramolecular Charge-Transfer State Addition to Electron-Poor Olefins**. *Journal of Organic Chemistry* **2024**, *89*, 5, 3058-3064. [https://pubs.acs.org/doi/10.1021/acs.joc.3c02521](https://pubs.acs.org/doi/10.1021/acs.joc.3c02521).
 1. Singh, M.; Dhote, P.; Johnson, D. R.; Figueroa-Lazú, S.; Elles, C. G.; <u>Boskovic, Z.</u> **Photochemical Decarbonylation of Oxetanone and Azetidinone: Spectroscopy, Computational Models, and Synthetic Applications**. *Angewandte Chemie International Edition*, **2023**, *62* (3), e202215856. [https://doi.org/10.1002/anie.202215856](https://doi.org/10.1002/anie.202215856).
