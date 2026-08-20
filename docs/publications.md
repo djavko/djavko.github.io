@@ -9,11 +9,9 @@ permalink: /publications/
 At the University of Kansas:
 
 1. Fadare, V., Bahena-Garcia, M., <u>Boskovic, Z.</u> **Electrophile-Triggered Ring Opening of Stereodefined Azetidinols with Hydrogen-bonded Halides** in preparation for special issue of *Chemistry - A European Journal* on Advances in the Synthesis of Strained Carbo- and Heterocyclic Compounds, **2026**.
-
 ![Azetidinol opening](_assets/azetidinol_opening.png)
 
 1. Bahena-Garcia, M., Caricato, M., Johnson, C.K., <u>Boskovic, Z.</u> **Excited-State Enamine Formation Governs Fluorescence in Methoxy-Substituted Phenylpyrrolinium Salts** in review, *Journal of Physical Chemistry*, **2026**.
-
 ![Pyrrolinium fluorescence](_assets/pyrroliniums.png)
 
 1. <u>Boskovic, Z.</u> **Line-graph Node Centrality in Retrosynthesis** major revisions, *Journal of Organic Chemistry*, **2026**.
