@@ -9,12 +9,22 @@ permalink: /publications/
 At the University of Kansas:
 
 1. Fadare, V., Bahena-Garcia, M., <u>Boskovic, Z.</u> **Electrophile-Triggered Ring Opening of Stereodefined Azetidinols with Hydrogen-bonded Halides** in preparation for special issue of *Chemistry - A European Journal* on Advances in the Synthesis of Strained Carbo- and Heterocyclic Compounds, **2026**.
-![Azetidinol opening](_assets/azetidinol_opening.png)  
+
+<center><img src="_assets/azetidinol_opening.png" width="60%"></center>
+
 1. Bahena-Garcia, M., Caricato, M., Johnson, C.K., <u>Boskovic, Z.</u> **Excited-State Enamine Formation Governs Fluorescence in Methoxy-Substituted Phenylpyrrolinium Salts** in review, *Journal of Physical Chemistry*, **2026**.
-![Pyrrolinium fluorescence](_assets/pyrroliniums.png){ width: 100px; }
+
+<center><img src="_assets/pyrroliniums.png" width="50%"></center>
+
 1. <u>Boskovic, Z.</u> **Line-graph Node Centrality in Retrosynthesis** major revisions, *Journal of Organic Chemistry*, **2026**.
-![Linegraph centrality](_assets/linegraph.png)
+
+<center><img src="_assets/linegraph.png" width="60%"></center>
+
 1. Shire, I.; <u>Boskovic, Z.</u> **Thiophosphonothioates From Oxiranes** *Tetrahedron Letters*, **2025**. [https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub)
+
+
+<center><img src="_assets/thiophosphonothioates.png" width="60%"></center>
+
 1. Bahena-Garcia, M.; Fadare, V.; <u>Boskovic, Z.</u> **Conformationally Restricted Amino Cyclopropane-Fused Lactones from Mannich Bases** *Organic Letters*, **2025** [https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321](https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321)
 1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; <u>Boskovic, Z.</u> **Photolysis of bis(catecholato)silicates** *Journal of Organic Chemistry*, **2025**.  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
 1. Boskovic, Z. **Photochemistry and structural complexity** *Arkivoc*, 2024 (6) 202412331 [https://www.arkat-usa.org/get-file/83739/](https://www.arkat-usa.org/get-file/83739/)
