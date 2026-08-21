@@ -27,12 +27,26 @@ At the University of Kansas:
 
     ![Nitrocatecholato silicates](_assets/silicates.png)
 1. Boskovic, Z. **Photochemistry and structural complexity** *Arkivoc*, 2024 (6) 202412331 [https://www.arkat-usa.org/get-file/83739/](https://www.arkat-usa.org/get-file/83739/)
+
+    ![Photochemistry and structural complexity](_assets/arkivoc.png)
 1. Bahena Garcia, M.; Singh, M.; Miller, E.; Neuenswander, S.; Douglas, J.; <u>Boskovic, Z.</u> **Twisted Intramolecular Charge-Transfer State Addition to Electron-Poor Olefins**. *Journal of Organic Chemistry* **2024**, *89*, 5, 3058-3064. [https://pubs.acs.org/doi/10.1021/acs.joc.3c02521](https://pubs.acs.org/doi/10.1021/acs.joc.3c02521).
+
+    ![TICT](_assets/tict_JOC.png)
 1. Singh, M.; Dhote, P.; Johnson, D. R.; Figueroa-Lazú, S.; Elles, C. G.; <u>Boskovic, Z.</u> **Photochemical Decarbonylation of Oxetanone and Azetidinone: Spectroscopy, Computational Models, and Synthetic Applications**. *Angewandte Chemie International Edition*, **2023**, *62* (3), e202215856. [https://doi.org/10.1002/anie.202215856](https://doi.org/10.1002/anie.202215856).
+
+    ![Photogeneration of ylides](_assets/ylides.png)
 1. Singh, M.; Gaskins, B.; Johnson, D. R.; Elles, C. G.; <u>Boskovic, Z.</u> **Synthesis of Cycloheptatriene-Containing Azetidine Lactones**. *Journal of Organic Chemistry*, **2022**, *87* (22), 15001–15010. [https://doi.org/10.1021/acs.joc.2c00367](https://doi.org/10.1021/acs.joc.2c00367).
+
+    ![Aza-Yang--Buchner](_assets/aza_yang.png)
 1. Tang, Z.; Zhao, J.; Pearson, Z. J.; <u>Boskovic, Z.</u>; Wang, J. **RNA-Targeting Splicing Modifiers: Drug Development and Screening Assays**. *Molecules*, **2021**, *26* (8), 2263 [https://www.mdpi.com/1420-3049/26/8/2263](https://www.mdpi.com/1420-3049/26/8/2263).
+
+    ![]()
 1. Kolluru, S.; Singh, M.; Gaskins, B.; <u>Boskovic, Z.</u> **Nickel-Catalyzed Annulations of Ortho-Haloarylimines**. *ACS Catalysis*, **2021**, *11* (16), 10351–10361. [https://doi.org/10.1021/acscatal.1c03092](https://doi.org/10.1021/acscatal.1c03092).
+
+    ![Ni catalyzed spirocyclization](_assets/nickel_ACS_Cat.png)
 1. Singh, M.; Garza, N.; Pearson, Z.; Douglas, J.; <u>Boskovic, Z.</u> **Broad Assessment of Bioactivity of a Collection of Spiroindane Pyrrolidines through “Cell Painting.”** *Bioorganic & Medicinal Chemistry*, **2020**, *28* (13), 115547 [https://www.sciencedirect.com/science/article/pii/S0968089620303771](https://www.sciencedirect.com/science/article/pii/S0968089620303771).
+
+    ![Cell painting and synthesis](_assets/bmc_toc.png)
 1. Pearson, Z.; Singh, M.; <u>Boskovic, Z.</u> **Compound Collections at KU 1947–2017: Cheminformatic Analysis and Computational Protein Target Prediction**. *Medicinal Chemistry Research*, **2020**, *29* (7), 1211–1222 [https://link.springer.com/article/10.1007/s00044-020-02571-y](https://link.springer.com/article/10.1007/s00044-020-02571-y).
 1. Kyei-Baffour, K.; Davis, D. C.; <u>Boskovic, Z.</u>; Kato, N.; Dai, M. **Natural Product-Inspired Aryl Isonitriles as a New Class of Antimalarial Compounds against Drug-Resistant Parasites**. *Bioorganic & Medicinal Chemistry*, **2020**, *28* (19), 115678 [https://www.sciencedirect.com/science/article/pii/S0968089620305083](https://www.sciencedirect.com/science/article/pii/S0968089620305083).
 1. Shin, S. H.; Lee, J. S.; Zhang, J.-M.; Choi, S.; <u>Boskovic, Z.</u>; Zhao, R.; Song, M.; Wang, R.; Tian, J.; Lee, M.-H. **Synthetic Lethality by Targeting the RUVBL1/2-TTT Complex in MTORC1-Hyperactive Cancer Cells**. *Science advances*, **2020**, *6* (31), eaay9131 [https://www.science.org/doi/10.1126/sciadv.aay9131](https://www.science.org/doi/10.1126/sciadv.aay9131). 
