@@ -49,6 +49,8 @@ At the University of Kansas:
     ![Cell painting and synthesis](_assets/bmc_toc.png)
 1. Pearson, Z.; Singh, M.; <u>Boskovic, Z.</u> **Compound Collections at KU 1947–2017: Cheminformatic Analysis and Computational Protein Target Prediction**. *Medicinal Chemistry Research*, **2020**, *29* (7), 1211–1222 [https://link.springer.com/article/10.1007/s00044-020-02571-y](https://link.springer.com/article/10.1007/s00044-020-02571-y).
 1. Kyei-Baffour, K.; Davis, D. C.; <u>Boskovic, Z.</u>; Kato, N.; Dai, M. **Natural Product-Inspired Aryl Isonitriles as a New Class of Antimalarial Compounds against Drug-Resistant Parasites**. *Bioorganic & Medicinal Chemistry*, **2020**, *28* (19), 115678 [https://www.sciencedirect.com/science/article/pii/S0968089620305083](https://www.sciencedirect.com/science/article/pii/S0968089620305083).
+
+    ![Isonitriles antimalarials](_assets/isonitriles.jpg)
 1. Shin, S. H.; Lee, J. S.; Zhang, J.-M.; Choi, S.; <u>Boskovic, Z.</u>; Zhao, R.; Song, M.; Wang, R.; Tian, J.; Lee, M.-H. **Synthetic Lethality by Targeting the RUVBL1/2-TTT Complex in MTORC1-Hyperactive Cancer Cells**. *Science advances*, **2020**, *6* (31), eaay9131 [https://www.science.org/doi/10.1126/sciadv.aay9131](https://www.science.org/doi/10.1126/sciadv.aay9131). 
 {: reversed="reversed"}
 
