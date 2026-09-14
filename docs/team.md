@@ -5,11 +5,11 @@ permalink: /team/
 ---
 # Team
 
-|![sunflower](/_assets/20250906_group_photo.png)|
+|![sunflower](/_assets/20260912_group_photo.jpeg)|
 |:--:|
 |Snapshot of the team in the Summer 2025 in the field of sunflowers. Left to right: Ian, Victor, Mauricio, Zarko.|
 
-Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg), [Summer 2024](/_assets/20240921_group_photo.jpg) 
+Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg), [Summer 2024](/_assets/20240921_group_photo.jpg), [Summer 2025](/_assets/20250906_group_photo.png) 
 
 
 *Current members:*
@@ -18,7 +18,6 @@ Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/
 :-----------------:|:-----:|-----------------:
 Victor Fadare |![Victor](/_assets/victor.JPG) | Chiral anion stereoinduction in photochemical reactions
 Mauricio Bahena Garcia |![Mauricio](/_assets/mauricio.JPG) | Diastereoselective photochemical reactions
-Ian Shire |![Ian](/_assets/ian_shire.jpeg) | Synthesis
 
 Former members and positions after Boskovic lab: 
 
