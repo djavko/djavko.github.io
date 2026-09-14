@@ -7,7 +7,7 @@ permalink: /team/
 
 |![sunflower](/_assets/20260912_group_photo.jpeg)|
 |:--:|
-|Snapshot of the team in the Summer 2025 in the field of sunflowers. Left to right: Ian, Victor, Mauricio, Zarko.|
+|Snapshot of the team in the Summer 2026 in the field of sunflower. (Thank you [Grinter Farms](https://www.explorelawrence.com/things-to-do/farms-agriculture/grinters-sunflower-farm/).) Left to right: Zarko, Victor, Mauricio.|
 
 Archival photos: [Summer 2020](/_assets/sunflowers.JPG), [Summer 2023](/_assets/DSC_0564.jpeg), [Summer 2024](/_assets/20240921_group_photo.jpg), [Summer 2025](/_assets/20250906_group_photo.png) 
 
