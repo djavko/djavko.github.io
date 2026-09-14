@@ -28,7 +28,7 @@ Former members and positions after Boskovic lab:
 | Elizabeth Miller | Slusky lab, KU; Stanford | 2022 -- 2024 |
 | Jax Rosekrans | KU | 2023 -- 2024 |
 | Manvendra Singh | [Arena Bioworks](https://arenabio.works/), research scientist | 2018 -- 2023 |
-| Bryce Gaskins | Caltech, graduate student | 2020 -- 2023 |
+| Bryce Gaskins | Caltech, graduate student in the Stoltz lab | 2020 -- 2023 |
 | Pawan Dhote | UNC Chapel Hill, postdoc | 2022 |
 | Ambrosee Wilkinson | | 2021 -- 2022 |
 | Koki Takemoto | Abbott Laboratories, Medical Sales Representative | 2021 |
