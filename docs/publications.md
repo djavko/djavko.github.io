@@ -14,7 +14,7 @@ At the University of Kansas:
 1. Bahena-Garcia, M., Caricato, M., Johnson, C.K., <u>Boskovic, Z.</u> **Excited-State Enamine Formation Governs Fluorescence in Methoxy-Substituted Phenylpyrrolinium Salts** in review, *Journal of Physical Chemistry*, **2026**.
 
     ![Pyrrolinium fluorescence](_assets/pyrroliniums.png)
-1. <u>Boskovic, Z.</u> **Line-graph Node Centrality in Retrosynthesis** major revisions, *Journal of Organic Chemistry*, **2026**.
+1. <u>Boskovic, Z.</u> **Line-graph Node Centrality in Retrosynthesis** accepted, *Journal of Organic Chemistry*, **2026**.
 
     ![Linegraph node centrality](_assets/linegraph.png)
 1. Shire, I.; <u>Boskovic, Z.</u> **Thiophosphonothioates From Oxiranes** *Tetrahedron Letters*, **2025**. [https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub)
