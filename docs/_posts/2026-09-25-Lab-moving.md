@@ -12,7 +12,7 @@ After 8 years at the University of Kansas, it is difficult to say goodbye, but t
 |:---:|
 | *From Sunflowers to Skyscrapers.*|
 
-City College is an amazing place. It is situated in the north of the Manhattan island in West Harlem and near Hamilton Heights. Few blocks south is Columbia University. Line 1 of the subway,  is the nearest one and this one will follow the odd diagonal Manhattan street, Broadway, on the surface. 
+City College is an amazing place. It is situated in the north of the Manhattan island in West Harlem and near Hamilton Heights. Few blocks south is Columbia University. Line 1 of the subway is the nearest one and it follows the odd diagonal, off-grid Manhattan street, Broadway, on the surface. 
 
 |![CCNY](/_assets/IMG_1349.png){:width="60%"} |
 |:---:|
