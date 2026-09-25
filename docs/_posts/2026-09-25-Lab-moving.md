@@ -4,7 +4,7 @@ tags: events
 title: Lab moving to The City College of New York
 ---
 
-A major news for the lab is that we are relocating to New York City! I am excited that I will be joining the Department of Chemistry and Biochemistry at The City College of New York as an Associate Professor.
+A major news from the lab is that we are relocating to New York City! I am excited that I will be joining the Department of Chemistry and Biochemistry at The City College of New York as an Associate Professor.
 
 After 8 years at the University of Kansas, it is difficult to say goodbye, but the new chapter is open and it is time to replace the sunflowers with skyscrapers.
 
@@ -24,4 +24,4 @@ The area around the college is beautiful and lively. There are lots of food truc
 |:---:|
 | *Delicious falafels on this leafy street adjacent to the College.*|
 
-Please pardon the delay in our productivity as we conclude the move and get back to research. 
+Please pardon the delay in the lab's productivity as we conclude the move and get back to research. 
