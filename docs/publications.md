@@ -6,8 +6,6 @@ permalink: /publications/
 ---
 # Publications
 
-At the University of Kansas:
-
 1. Fadare, V., Bahena-Garcia, M., <u>Boskovic, Z.</u> **Electrophile-Triggered Ring Opening of Stereodefined Azetidinols with Hydrogen-bonded Halides** Accepted for publication in special issue of *Chemistry - A European Journal* on Advances in the Synthesis of Strained Carbo- and Heterocyclic Compounds, **2026**.
 
     ![Azetidinol opening](_assets/azetidinol_opening.png)
@@ -54,7 +52,7 @@ At the University of Kansas:
 1. Shin, S. H.; Lee, J. S.; Zhang, J.-M.; Choi, S.; <u>Boskovic, Z.</u>; Zhao, R.; Song, M.; Wang, R.; Tian, J.; Lee, M.-H. **Synthetic Lethality by Targeting the RUVBL1/2-TTT Complex in MTORC1-Hyperactive Cancer Cells**. *Science advances*, **2020**, *6* (31), eaay9131 [https://www.science.org/doi/10.1126/sciadv.aay9131](https://www.science.org/doi/10.1126/sciadv.aay9131). 
 {: reversed="reversed"}
 
-Prior to joining University of Kansas:
+Prior to leading an independent research group:
 
 *  Akporji, N.; Lieberman, J.; Maser, M.; Yoshimura, M.; Boskovic, Z.; Lipshutz, B. H. Selective Deprotection of the Diphenylmethylsilyl (DPMS) Hydroxyl Protecting Group under Environmentally Responsible, Aqueous Conditions. ChemCatChem 2019, 11 (23), 5743–5747.
 *  Viswanathan, V. S.; Ryan, M. J.; Dhruv, H. D.; Gill, S.; Eichhoff, O. M.; Seashore-Ludlow, B.; Kaffenberger, S. D.; Eaton, J. K.; Shimada, K.; Aguirre, A. J. Dependency of a Therapy-Resistant State of Cancer Cells on a Lipid Peroxidase Pathway. Nature 2017, 547 (7664), 453–457.
