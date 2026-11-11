@@ -23,7 +23,7 @@ At the University of Kansas:
 1. Bahena-Garcia, M.; Fadare, V.; <u>Boskovic, Z.</u> **Conformationally Restricted Amino Cyclopropane-Fused Lactones from Mannich Bases** *Organic Letters*, **2025**, *27*, 10460–10464. [https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321](https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321)
 
     ![Cyclopropanolamines](_assets/cyclopropanolamines.png)
-1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; <u>Boskovic, Z.</u> **Photolysis of bis(catecholato)silicates** *Journal of Organic Chemistry*, **2025**.  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
+1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; <u>Boskovic, Z.</u> **Photolysis of bis(catecholato)silicates** *Journal of Organic Chemistry*, **2025**, *90*, 4254–4260  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
 
     ![Nitrocatecholato silicates](_assets/silicates.png)
 1. Boskovic, Z. **Photochemistry and structural complexity** *Arkivoc*, 2024 (6) 202412331 [https://www.arkat-usa.org/get-file/83739/](https://www.arkat-usa.org/get-file/83739/)
