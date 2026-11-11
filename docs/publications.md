@@ -20,7 +20,7 @@ At the University of Kansas:
 1. Shire, I.; <u>Boskovic, Z.</u> **Thiophosphonothioates From Oxiranes** *Tetrahedron Letters*, **2025**. [https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0040403925004927?via%3Dihub)
 
     ![Thiophosphonothioate from epoxides](_assets/thiophosphonothioates.png)
-1. Bahena-Garcia, M.; Fadare, V.; <u>Boskovic, Z.</u> **Conformationally Restricted Amino Cyclopropane-Fused Lactones from Mannich Bases** *Organic Letters*, **2025** [https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321](https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321)
+1. Bahena-Garcia, M.; Fadare, V.; <u>Boskovic, Z.</u> **Conformationally Restricted Amino Cyclopropane-Fused Lactones from Mannich Bases** *Organic Letters*, **2025**, *27*, 10460–10464. [https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321](https://pubs.acs.org/doi/10.1021/acs.orglett.5c03321)
 
     ![Cyclopropanolamines](_assets/cyclopropanolamines.png)
 1. Bahena-Garcia, M.; Fadare, V.; Shire, I.; Singh, M.; Figueroa-Lazu, S.; Douglas, J.; <u>Boskovic, Z.</u> **Photolysis of bis(catecholato)silicates** *Journal of Organic Chemistry*, **2025**.  [https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072](https://pubs.acs.org/doi/full/10.1021/acs.joc.4c03072)
